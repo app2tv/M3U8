@@ -1,0 +1,30 @@
+﻿#EXTM3U
+#EXTINF:tvg-logo="" group-title="影视",轮播高清电影1
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+
+#EXTINF:tvg-logo="" group-title="影视",轮播高清电影2
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+
+#EXTINF:tvg-logo="" group-title="影视",轮播高清电影3
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+#EXTINF:tvg-logo="" group-title="影视",轮播高清电影4
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1024px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA",The Weather Channel 
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YO7qaMo.png" group-title="USA LOCAL",Long Island - News 12 (Traffic) 
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YO7qaMo.png" group-title="USA LOCAL",Long Island - News 12 
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YO7qaMo.png" group-title="USA LOCAL",New York - News 12 (Traffic) 
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NYC 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s0WMDmi.png" group-title="USA LOCAL",New York - News 12+ 
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
+
+
