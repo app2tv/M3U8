@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1, HAPPY
-p2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
-#EXTINF:-1, HOT星颖
-p2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
+#EXTINF:-1 group-title="$c_start香港$c_end",TVB翡翠
+p2p://fccsovh.pvbox.live:18912/5d1220350000ba2736e444057d22cf40.ts
+#EXTINF:-1 group-title="$c_start香港$c_end",TVB翡翠（备用）
+p2p://fccsovh.pvbox.live:18912/5b1409fc00088a7f7b26e4559ee943fb.ts
+#EXTINF:-1 group-title="$c_start香港$c_end",TVB J2
+p2p://fccsovh.pvbox.live:18912/5d122036000a0661eb6b72a190255a05.ts
