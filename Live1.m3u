@@ -235,6 +235,12 @@ http://livestream.biznetvideo.net/biznet_ngwild/smil:ngwild.smil/chunklist_w1571
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-id="cbs" tvg-name="" tvg-language="English" tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2019/06/10/d0b656c8-f79a-4492-946a-68278fcda687/thumbnail/logo-cbsnny-1920x1080-new.jpg" group-title="News",CBS News New York
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
+#EXTINF:-1 group-title="USA",News12 brooklyn
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
+#EXTINF:-1 group-title="USA",News 12 Long Island
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/38mmLIy.png" group-title="USA",Disney Channel (Opt-1) 
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
 http://u88.ee/nZj
    
