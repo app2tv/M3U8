@@ -120,8 +120,6 @@ http://iptv1688.xyz/axg.php?id=9&xl=2
 https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-3.m3u8
 #EXTINF:-1 tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="粵語",Now新聞
 http://teslagram.com/live/channel_332.m3u8
-#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",有线新闻台
-http://prdsecurelive.ainemo.com/live/2020sanwu.flv
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiandianying.png",有线电影台
 http://prdsecurelive.ainemo.com/live/yx09hitv.flv
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png",香港卫视
@@ -270,4 +268,6 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
 http://u88.ee/nZj
    
+group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",有线新闻台
+http://prdsecurelive.ainemo.com/live/2020sanwu.flv
 
