@@ -176,3 +176,8 @@ http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 
 
 http://u88.ee/nse
+节目表地址：
+http://epg.51zmt.top:8000/e.xml
+
+perfect player可使用下面的压缩格式，文件体积小速度更快些。
+http://epg.51zmt.top:8000/e.xml.xz
