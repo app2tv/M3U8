@@ -115,7 +115,7 @@ http://iptv1688.xyz/axg.php?id=8&xl=2
 http://iptv1688.xyz/axg.php?id=10&xl=2
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="香港",无线新闻
 http://iptv1688.xyz/axg.php?id=9&xl=2
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="香港",有线新闻
+#EXTINF:-1 tvg-id="7122" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台
 http://iptv1688.xyz/axg.php?id=31&xl=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="澳门",澳门卫视
 http://iptv1688.xyz/axg.php?id=23&xl=1
