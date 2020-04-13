@@ -178,33 +178,33 @@ http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
 
-#EXTINF:-1 tvg-id="abcwabc.us",ABC
+#EXTINF:-1 tvg-id="abcwabc.us" tvg-name="ABC",ABC
 https://gma2.blab.email/espnews.m3u8
 
-#EXTINF:-1 tvg-id="foxwnyw.us",FOX
+#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="FOX",FOX
 https://gma2.blab.email/fox.m3u8
 
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://drive.google.com/uc?export=download&id=1MiwEb3HaVySJcwu34HOJ2soAqFEzvuSv",MSNBC
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://drive.google.com/uc?export=download&id=1MiwEb3HaVySJcwu34HOJ2soAqFEzvuSv",MSNBC
 https://llnw.stream.msnbc.com/live/MSNBC398a080a-ua/master.m3u8
 
 
-#EXTINF:-1 tvg-id="cbswcbs.us",CBS
+#EXTINF:-1 tvg-id="cbswcbs.us" tvg-name="CBS",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
 
-#EXTINF:-1 tvg-id="nbcwnbc.us",NBC
+#EXTINF:-1 tvg-id="nbcwnbc.us" tvg-name="NBC",NBC
 http://161.0.157.51/PLTV/88888888/224/322122 7040/index.m3u8
 
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1024px-2015_Fox_Sports_1_logo.svg.png",FS1
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1024px-2015_Fox_Sports_1_logo.svg.png",FS1
 https://gma2.blab.email/sec.m3u8
 
-#EXTINF:-1 tvg-id="cbssportsnet.us",CBS Sports HQ
+#EXTINF:-1 tvg-id="cbssportsnet.us" tvg-name="CBS sports",CBS Sports HQ
 http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/The_Works.jpg/375px-The_Works.jpg",MGM Sci-Fi
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/The_Works.jpg/375px-The_Works.jpg" tvg-name="MGM Sci-Fi",MGM Sci-Fi
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-logo="http://static.iptv-epg.com/us/DiscoveryChannel.us.png",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-logo="http://static.iptv-epg.com/us/DiscoveryChannel.us.png" tvg-name="Discovery Channel",Discovery Channel
 http://ott.artmott.com/DiscoveryCH/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, HBO (Backup Ch)
