@@ -106,7 +106,7 @@ http://iptv1688.xyz/axg.php?id=19&xl=1TVB
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="香港",明珠
 http://iptv1688.xyz/axg.php?id=13&xl=2TVB
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠
-http://iptv1688.xyz/axg.php?id=1&xl=2TVB
+http://61.238.6.49:8000/bysid/1
 #EXTINF:-1 tvg-id="416" tvg-name="香港J2台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="香港",J2
 http://iptv1688.xyz/axg.php?id=12&xl=2
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港",Viu TV
