@@ -187,8 +187,9 @@ https://gma2.blab.email/fox.m3u8
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://drive.google.com/uc?export=download&id=1MiwEb3HaVySJcwu34HOJ2soAqFEzvuSv",MSNBC
 https://llnw.stream.msnbc.com/live/MSNBC398a080a-ua/master.m3u8
-#EXTINF:-1 tvg-id="cbsnynews.us" tvg-name="CBS",CBSNYNEWS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9xsosXt.png" group-title="USA LOCAL",New York: CBS News
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+
 #EXTINF:-1 tvg-id="cbswcbs.us" tvg-name="CBS",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
 
