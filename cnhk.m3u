@@ -94,11 +94,11 @@ http://39.135.34.147:8080/000000001000/1000000002000003169/1.m3u8?channel-id=yst
 #EXTINF:-1 group-title="卫视" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guasu.png",甘肃卫视
 http://39.135.34.147:8080/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1106497909461366475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze%2fWmzecpyT4Tmxoc1paT1vcrQhVS
 
-#EXTINF:-1 tvg-id="NFW.CN" tvg-logo="http://www.gdtv.cn/t/icon/201912/20191212173905zpXW.png" group-title="卫视",南方卫视
+#EXTINF:-1 group-title="卫视" tvg-name="南方卫视" tvg-logo="http://www.gdtv.cn/t/icon/201912/20191212173905zpXW.png",南方卫视
 http://39.135.34.134:8080/000000001000/1000000002000011619/1.m3u8?i
-#EXTINF:-1 tvg-id="JJW.CN" tvg-logo="http://www.gdtv.cn/t/icon/201912/20191212172903csL9.png" group-title="卫视",广东珠江
+#EXTINF:-1 group-title="卫视" tvg-name="广东珠江" tvg-logo="http://www.gdtv.cn/t/icon/201912/20191212172903csL9.png",广东珠江
 http://39.135.34.134:8080/000000001000/1000000004000011655/1.m3u8?i
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.hkatv.com/images/logo.png" group-title="香港",亞洲電視台
+#EXTINF:-1 group-title="香港", tvg-name="亞洲電視台" tvg-logo="https://www.hkatv.com/images/logo.png",亞洲電視台
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
 
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港",翡翠台                  
