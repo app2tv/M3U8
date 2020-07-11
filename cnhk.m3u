@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1综合HD
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+http://ivi.bupt.edu.cn/hls/cctv1.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经
-http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
-http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+http://ivi.bupt.edu.cn/hls/cctv3.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4国际
-http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5体育
-http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8
+http://ivi.bupt.edu.cn/hls/cctv5.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6高清
-http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+http://ivi.bupt.edu.cn/hls/cctv6.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7军事农业
 http://39.135.34.147:8080/000000001000/7050628689018054317/1.m3u8?channel-id=ystenlive&Contentid=7050628689018054317&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=7050628689018054317&owchid=ystenlive&owsid=1106497909461123525&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5v8WYfJSLSoSDQSshIAsx77pE15UEXEdMCmKIrL5%2f3xV22iBl6KMm%2bLcZrmbA5H1KmAD8EY%2bWAeRUs2LJ9Vxxk
 #EXTINF:-1 group-title="央视" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8高清
