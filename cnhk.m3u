@@ -1030,7 +1030,7 @@ https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/playlist.m3
 http://ott.artmott.com/DiscoveryCH/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, HBO (Backup Ch)
-https://anytv.gov.gdn/hbo/tracks-v1a1/mono.m3u8
+https://dai.google.com/linear/hls/pa/event/o8Smo_gsSAm26uW9Xkww_g/stream/6e53e202-8a47-4023-a016-ad25df74378a:CHS/master.m3u8
 
 
 $ http://u88.ee/nse
