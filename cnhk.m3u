@@ -485,6 +485,38 @@ http://yd-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
 http://yd-m-l.cztv.com/channels/lantian/channel11/1080p.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-1.png" tvg-name="CCTV1" group-title="央视",CCTV1
+http://hdtv.haust.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-3.png" tvg-name="CCTV3" group-title="央视",CCTV3
+http://hdtv.haust.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-4.png" tvg-name="CCTV4" group-title="央视",CCTV4
+http://hdtv.haust.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-5.png" tvg-name="CCTV5" group-title="央视",CCTV5
+http://hdtv.haust.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-5+.png" tvg-name="CCTV5+" group-title="央视",CCTV5+
+http://hdtv.haust.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-6.png" tvg-name="CCTV6" group-title="央视",CCTV6
+http://hdtv.haust.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-7.png" tvg-name="CCTV7" group-title="央视",CCTV7
+http://hdtv.haust.edu.cn/hls/hls136.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-8.png" tvg-name="CCTV8" group-title="央视",CCTV8
+http://hdtv.haust.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-9.png" tvg-name="CCTV9" group-title="央视",CCTV9
+http://hdtv.haust.edu.cn/hls/hls137.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-10.png" tvg-name="CCTV10" group-title="央视",CCTV10
+http://hdtv.haust.edu.cn/hls/hls138.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-11.png" tvg-name="CCTV11" group-title="央视",CCTV11
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-12.png" tvg-name="CCTV12" group-title="央视",CCTV12
+http://hdtv.haust.edu.cn/hls/hls139.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-13.png" tvg-name="CCTV13" group-title="央视",CCTV13
+http://hdtv.haust.edu.cn/hls/jlu_cctv13.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-14.png" tvg-name="CCTV14" group-title="央视",CCTV14
+http://hdtv.haust.edu.cn/hls/hls140.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-15.png" tvg-name="CCTV15" group-title="央视",CCTV15
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-17.png" tvg-name="CCTV17" group-title="央视",CCTV17
+http://hdtv.haust.edu.cn/hls/cctv17hd.m3u8
 
 
 
