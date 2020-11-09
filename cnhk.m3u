@@ -542,7 +542,7 @@ http://39.130.206.213:6410/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/湖北卫视.png" tvg-name="湖北卫视" group-title="全国卫视",湖北卫视
 http://hdtv.haust.edu.cn/hls/hbhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/山东卫视.png" tvg-name="山东卫视" group-title="全国卫视",山东卫视
-http://hdtv.haust.edu.cn/hls/sdhd.m3u8
+http://39.130.206.213:6410/gitv_live/G_SHANDONG-HD/G_SHANDONG-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/广东卫视.png" tvg-name="广东卫视" group-title="全国卫视",广东卫视
 http://hdtv.haust.edu.cn/hls/gdhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/四川卫视.png" tvg-name="四川卫视" group-title="全国卫视",四川卫视
