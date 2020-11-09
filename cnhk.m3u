@@ -585,6 +585,9 @@ http://player.ioioz.com:80/1786/hunan/hnyx2m3u8.php?id=54
 http://39.130.215.166:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
 #EXTINF:-1 tvg-id="TJW.CN" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/天津卫视.png" group-title="全国卫视",天津卫视
 http://39.130.206.213:6410/gitv_live/G_TIANJIN-HD/G_TIANJIN-HD.m3u8
+#EXTINF:-1 group-title="全国卫视",广西卫视
+http://39.130.215.158:6610/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8
+
 
 #EXTINF:-1 tvg-id="FHJ.CN" tvg-name="凤凰资讯" tvg-logo="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png" group-title="香港澳门",凤凰资讯台
 
