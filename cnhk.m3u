@@ -554,7 +554,7 @@ http://39.130.206.213:6410/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/河北卫视.png" tvg-name="河北卫视" group-title="全国卫视",河北卫视
 http://hdtv.haust.edu.cn/hls/hebhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/江西卫视.png" tvg-name="江西卫视" group-title="全国卫视",江西卫视
-http://hdtv.haust.edu.cn/hls/jxhd.m3u8
+http://39.130.206.213:6410/gitv_live/G_JIANGXI-HD/G_JIANGXI-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/贵州卫视.png" tvg-name="贵州卫视" group-title="全国卫视",贵州卫视
 http://hdtv.haust.edu.cn/hls/gzhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/内蒙古卫视.png" tvg-name="内蒙古卫视" group-title="全国卫视",内蒙古卫视
