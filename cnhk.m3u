@@ -524,7 +524,7 @@ http://hdtv.haust.edu.cn/hls/btv1hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/湖南卫视.png" tvg-name="湖南卫视" group-title="全国卫视",湖南卫视
 http://hdtv.haust.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/浙江卫视.png" tvg-name="浙江卫视" group-title="全国卫视",浙江卫视
-http://hdtv.haust.edu.cn/hls/zjhd.m3u8
+http://39.130.206.213:6410/gitv_live/ZJWS-HD/ZJWS-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/东方卫视.png" tvg-name="东方卫视" group-title="全国卫视",东方卫视
 http://hdtv.haust.edu.cn/hls/dfhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/江苏卫视.png" tvg-name="江苏卫视" group-title="全国卫视",江苏卫视
