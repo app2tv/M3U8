@@ -546,7 +546,7 @@ http://hdtv.haust.edu.cn/hls/sdhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/广东卫视.png" tvg-name="广东卫视" group-title="全国卫视",广东卫视
 http://hdtv.haust.edu.cn/hls/gdhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/四川卫视.png" tvg-name="四川卫视" group-title="全国卫视",四川卫视
-http://hdtv.haust.edu.cn/hls/schd.m3u8
+http://39.130.206.213:6410/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/河南卫视.png" tvg-name="河南卫视" group-title="全国卫视",河南卫视
 http://hdtv.haust.edu.cn/hls/hnhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/东南卫视.png" tvg-name="东南卫视" group-title="全国卫视",东南卫视
