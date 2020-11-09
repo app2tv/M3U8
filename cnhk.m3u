@@ -517,7 +517,7 @@ http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-14.png" tvg-name="CCTV14" group-title="央视",CCTV14
 http://39.130.206.213:6410/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-15.png" tvg-name="CCTV15" group-title="央视",CCTV15
-http://39.130.206.213:6410/gitv_live/G_CCTV-15-HD/G_CCTV-15-HD.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-17.png" tvg-name="CCTV17" group-title="央视",CCTV17
 http://hdtv.haust.edu.cn/hls/cctv17hd.m3u8
 
