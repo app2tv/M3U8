@@ -588,6 +588,8 @@ http://39.130.206.213:6410/gitv_live/G_TIANJIN-HD/G_TIANJIN-HD.m3u8
 #EXTINF:-1 group-title="全国卫视",广西卫视
 http://39.130.215.158:6610/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8
 
+http://39.130.206.213:6410/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8
+
 
 #EXTINF:-1 tvg-id="FHJ.CN" tvg-name="凤凰资讯" tvg-logo="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png" group-title="香港澳门",凤凰资讯台
 
