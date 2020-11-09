@@ -560,7 +560,7 @@ http://hdtv.haust.edu.cn/hls/gzhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/内蒙古卫视.png" tvg-name="内蒙古卫视" group-title="全国卫视",内蒙古卫视
 http://live.m2oplus.nmtv.cn/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/安徽卫视.png" tvg-name="安徽卫视" group-title="四川移动组播",安徽卫视
-http://hdtv.haust.edu.cn/hls/hls141.m3u8
+http://39.130.206.213:6410/gitv_live/G_ANHUI-HD/G_ANHUI-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/宁夏卫视.png" tvg-name="宁夏卫视" group-title="全国卫视",宁夏卫视
 http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/甘肃卫视.png" tvg-name="甘肃卫视" group-title="全国卫视",甘肃卫视
