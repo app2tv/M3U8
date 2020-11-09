@@ -504,7 +504,7 @@ http://hdtv.haust.edu.cn/hls/cctv8hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-9.png" tvg-name="CCTV9" group-title="央视",CCTV9
 http://hdtv.haust.edu.cn/hls/hls137.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-10.png" tvg-name="CCTV10" group-title="央视",CCTV10
-http://hdtv.haust.edu.cn/hls/hls138.m3u8
+http://39.130.206.213:6410/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-11.png" tvg-name="CCTV11" group-title="央视",CCTV11
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-12.png" tvg-name="CCTV12" group-title="央视",CCTV12
