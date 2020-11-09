@@ -493,7 +493,7 @@ http://121.31.30.91:8081/ysten-business/live/cctv-2/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-3.png" tvg-name="CCTV3" group-title="央视",CCTV3
 http://121.31.30.91:8081/ysten-business/live/cctv-3/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-4.png" tvg-name="CCTV4" group-title="央视",CCTV4
-http://hdtv.haust.edu.cn/hls/cctv4hd.m3u8
+http://121.31.30.91:8081/ysten-business/live/cctv-4/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-5.png" tvg-name="CCTV5" group-title="央视",CCTV5
 http://hdtv.haust.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-5+.png" tvg-name="CCTV5+" group-title="央视",CCTV5+
