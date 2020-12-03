@@ -766,7 +766,7 @@ http://stream.nexttv.com.tw/n001/hd/live.m3u8
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 
 
-#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-logo="https://drive.google.com/uc?export=download&id=12OOHzNaJN6D_I6ABdetGCq7hSA87r2fA",Weather Channel
+#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-logo="https://drive.google.com/uc?export=download&id=12OOHzNaJN6D_I6ABdetGCq7hSA87r2fA" group-title="News",Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
 
