@@ -801,14 +801,8 @@ https://gma2.blab.email/sec.m3u8
 http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/The_Works.jpg/375px-The_Works.jpg" tvg-name="MGM Sci-Fi",MGM Sci-Fi
-https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-logo="http://static.iptv-epg.com/us/DiscoveryChannel.us.png" tvg-name="Discovery Channel",Discovery Channel
-http://ott.artmott.com/DiscoveryCH/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, HBO (Backup Ch)
-https://dai.google.com/linear/hls/pa/event/o8Smo_gsSAm26uW9Xkww_g/stream/6e53e202-8a47-4023-a016-ad25df74378a:CHS/master.m3u8
 
 #EXTINF:-1 tvg-name="************** ROKU USA **********" tvg-id="" group-title="MOVIE" tvg-logo="",************* ROKU USA **********
 https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
