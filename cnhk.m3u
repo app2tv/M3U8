@@ -783,6 +783,11 @@ https://gma2.blab.email/sec.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ESPN FS2" group-title="SPORT",ESPN 
 https://gma2.blab.email/fs2.m3u8
 
+
+#EXTINF:-1 group-title="成龙电影" tvg-name="急先锋" ,急先锋
+https://v.xboku.com/20201115/vI72DB6d/hls/index.m3u8
+
+
 $ http://u88.ee/nse
 节目表地址：
 http://epg.51zmt.top:8000/e.xml
