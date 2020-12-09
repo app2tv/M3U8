@@ -36,5 +36,19 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bPQkvtO.jpg" group-title="MOVIE",24 Box TV
 http://51.158.190.97/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="ES2.US" tvg-logo="" tvg-name="ESPN2" group-title="SPORT",ESPN 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-id="ESU.US" tvg-logo="" tvg-name="ESPN U" group-title="SPORT",ESPN U
+https://gma2.blab.email/espnu.m3u8 
+#EXTINF:-1 tvg-id="ESN.US" tvg-logo="" tvg-name="ESPN News" group-title="SPORT",ESPN News
+https://gma2.blab.email/espnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ESPN ACCN" group-title="SPORT",ACC NETWORK
+https://gma2.blab.email/acc.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ESPN sec" group-title="SPORT",SEC NETWORK
+https://gma2.blab.email/sec.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ESPN FS2" group-title="SPORT",ESPN 
+https://gma2.blab.email/fs2.m3u8
+
+
 
 Http://u88.ee/Aj1
