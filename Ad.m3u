@@ -48,6 +48,8 @@ https://gma2.blab.email/acc.m3u8
 https://gma2.blab.email/sec.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ESPN FS2" group-title="SPORT",ESPN 
 https://gma2.blab.email/fs2.m3u8
+#EXTINF:-1 tvg-id="cbssportsnet.us" tvg-name="CBS sports" group-title="SPORT",CBS Sports HQ
+http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 
 
 #EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/9xsosXt.png",New York: CBS News
