@@ -631,6 +631,8 @@ http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
 https://www.fanmingming.cn/hls/channelv.m3u8
 
 
+#EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="香港",無綫新聞台
+http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 group-title="香港" tvg-name="香港卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="香港" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png",香港开电视
