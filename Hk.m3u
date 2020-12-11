@@ -6,7 +6,6 @@ http://livetv.dnsfor.me:80/channel.6.m3u8
 http://livetv.dnsfor.me:80/channel.5.m3u8
 #EXTINF:-1 tvg-ID="YYL.HK" tvg-logo="http://utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" tvg-name="有線綜合娛樂台" group-title="香港", 有線綜合娛樂台 HD
 http://livetv.dnsfor.me:80/channel.7.m3u8
-
 #EXTINF:-1 group-title="香港" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png", TVB 翡翠台
 http://livetv.dnsfor.me:80/channel.18.m3u8
 #EXTINF:-1 group-title="香港" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png",香港开电视
@@ -15,7 +14,6 @@ http://livetv.dnsfor.me:80/channel.9.m3u8
 http://livetv.dnsfor.me:80/channel.1.m3u8
 #EXTINF:-1 group-title="香港" tvg-name="RHK32",RHK32
 http://livetv.dnsfor.me:80/channel.2.m3u8
-
 #EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="香港", 無綫新聞台
 http://livetv.dnsfor.me:80/channel.10.m3u8
 #EXTINF:-1,無綫財經資訊台
