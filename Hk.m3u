@@ -1,6 +1,6 @@
 
 ﻿#EXTM3U
-#EXTINF:-1,有線財經資訊台 HD
+#EXTINF:-1,tvg-ID="YCJ.HK" tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png" tvg-name="有線财经资讯"有線財經資訊台 HD
 http://livetv.dnsfor.me:80/channel.6.m3u8
 #EXTINF:-1,有線新聞台 HD
 http://livetv.dnsfor.me:80/channel.5.m3u8
