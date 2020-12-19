@@ -806,11 +806,10 @@ https://llnw.stream.msnbc.com/live/MSNBC398a080a-ua/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9xsosXt.png" group-title="USA LOCAL",New York: CBS News
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 
-#EXTINF:-1 tvg-id="cbswcbs.us" tvg-name="CBS",CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
-
-#EXTINF:-1 tvg-id="nbcwnbc.us" tvg-name="NBC",NBC
-http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 tvg-id="WCBSNewYorkCBSEast.us" tvg-name="CBS (USA)" tvg-logo="https://www.thewrap.com/wp-content/uploads/2017/01/CBS-logo.jpg", CBS (USA)
+http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:-1 tvg-name="NBC (USA)" tvg-logo="https://designobserver.com/media/images/mondrian/39684-NBC_logo_m.jpg", NBC (USA)
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1024px-2015_Fox_Sports_1_logo.svg.png",FS1
 https://gma2.blab.email/sec.m3u8
