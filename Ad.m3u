@@ -57,8 +57,6 @@ https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="USA LOCAL",CBS miami
 http://161.0.157.50/PLTV/88888888/224/3221227041/4.m3u8
 
-#EXTINF:-1,USA: ABC NEW YORK HD
-http://m4.mio4ever.eu:8000/bahoztestt4567/hNBOfssQI8/22945
 #EXTINF:-1,USA: CNN HD
 http://m4.mio4ever.eu:8000/bahoztestt4567/hNBOfssQI8/22949
 #EXTINF:-1,USA: CBS NEW YORK HD
