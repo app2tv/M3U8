@@ -810,7 +810,7 @@ https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
 
 #EXTINF:-1 tvg-id="nbcwnbc.us" tvg-name="NBC",NBC
-http://161.0.157.51/PLTV/88888888/224/322122 7040/index.m3u8
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1024px-2015_Fox_Sports_1_logo.svg.png",FS1
 https://gma2.blab.email/sec.m3u8
