@@ -595,7 +595,7 @@ http://livetv.dnsfor.me:80/channel.5.m3u8
 #EXTINF:-1 tvg-ID="YYL.HK" tvg-logo="http://utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" tvg-name="有線綜合娛樂台" group-title="HongKong", 有線綜合娛樂台 HD
 http://livetv.dnsfor.me:80/channel.7.m3u8
 #EXTINF:-1 group-title="HongKong" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png", TVB 翡翠台
-http://61.238.6.49:8000/bysid/1
+http://livetv.dnsfor.me:80/channel.18.m3u8
 #EXTINF:-1 group-title="HongKong" tvg-name="HongKong开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png",HongKong开电视
 http://livetv.dnsfor.me:80/channel.9.m3u8
 #EXTINF:-1 group-title="HongKong" tvg-name="RHK31",RHK31
