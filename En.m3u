@@ -1,4 +1,4 @@
-
+#EXTM3U
 
 #EXTINF:-1 tvg-ID="HBOE" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="MOVIE",HBO (East)
 https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
