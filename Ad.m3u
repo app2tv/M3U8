@@ -84,5 +84,3 @@ http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1 tvg-name="NBC (USA)" tvg-logo="https://designobserver.com/media/images/mondrian/39684-NBC_logo_m.jpg", NBC (USA)
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 
-#EXTINF:-1 group-title="New York New year Eve 2021",new year Eve 2021
-https://livestream.com/accounts/43923/events/9392703/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false
