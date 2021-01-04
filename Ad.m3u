@@ -82,6 +82,8 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/4.m3u8
 https://tve-live-lln.warnermediacdn.com/hls/live/572089/tnte/aes_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-ID="TBE.US" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="USA LOCAL",TBS East
 https://tve-live-lln.warnermediacdn.com/hls/live/572094/tbse/aes_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-ID="TBW.US" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="USA LOCAL",TBS West
+https://tve-live-lln.warnermediacdn.com/hls/live/572097/tbsw/aes_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="FOX",FOX
 https://gma2.blab.email/fox.m3u8
