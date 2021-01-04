@@ -79,6 +79,8 @@ https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="USA LOCAL",CBS miami
 http://161.0.157.50/PLTV/88888888/224/3221227041/4.m3u8
 
+#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="FOX",FOX
+https://gma2.blab.email/fox.m3u8
 #EXTINF:-1 tvg-id="WCBSNewYorkCBSEast.us" tvg-name="CBS (USA)" tvg-logo="https://www.thewrap.com/wp-content/uploads/2017/01/CBS-logo.jpg", CBS (USA)
 http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1 tvg-name="NBC (USA)" tvg-logo="https://designobserver.com/media/images/mondrian/39684-NBC_logo_m.jpg", NBC (USA)
