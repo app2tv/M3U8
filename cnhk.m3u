@@ -133,27 +133,22 @@ http://livetv.dnsfor.me:80/channel.11.m3u8
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
 
-#EXTINF:-1 tvg-id="abcwabc.us" tvg-name="ABC",ABC
-https://gma2.blab.email/espnews.m3u8
-
-#EXTINF:0, tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider6.jpg" group-title="News",ABC News Live
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="CBS News",CBS News | CBSN New York
+#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/9xsosXt.png",New York: CBS News
 https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="USA LOCAL",CBS miami
+http://161.0.157.50/PLTV/88888888/224/3221227041/4.m3u8
+#EXTINF:-1 tvg-ID="TNT.US" tvg-logo="https://static.epg.best/us/TNT.us.png" group-title="USA LOCAL",TNT
+https://tve-live-lln.warnermediacdn.com/hls/live/572089/tnte/aes_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-ID="TBE.US" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="USA LOCAL",TBS East
+https://tve-live-lln.warnermediacdn.com/hls/live/572094/tbse/aes_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-ID="TBW.US" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="USA LOCAL",TBS West
+https://tve-live-lln.warnermediacdn.com/hls/live/572097/tbsw/aes_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="FOX",FOX
+#EXTINF:-1 group-title="USA LOCAL" tvg-id="foxwnyw.us" tvg-name="FOX",FOX
 https://gma2.blab.email/fox.m3u8
-
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://drive.google.com/uc?export=download&id=1MiwEb3HaVySJcwu34HOJ2soAqFEzvuSv",MSNBC
-https://llnw.stream.msnbc.com/live/MSNBC398a080a-ua/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9xsosXt.png" group-title="USA LOCAL",New York: CBS News
-https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
-
-#EXTINF:-1 tvg-id="WCBSNewYorkCBSEast.us" tvg-name="CBS (USA)" tvg-logo="https://www.thewrap.com/wp-content/uploads/2017/01/CBS-logo.jpg", CBS (USA)
+#EXTINF:-1 group-title="USA LOCAL" tvg-id="WCBSNewYorkCBSEast.us" tvg-name="CBS (USA)" tvg-logo="https://www.thewrap.com/wp-content/uploads/2017/01/CBS-logo.jpg", CBS (USA)
 http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
-#EXTINF:-1 tvg-name="NBC (USA)" tvg-logo="https://designobserver.com/media/images/mondrian/39684-NBC_logo_m.jpg", NBC (USA)
+#EXTINF:-1 group-title="USA LOCAL" tvg-name="NBC (USA)" tvg-logo="https://designobserver.com/media/images/mondrian/39684-NBC_logo_m.jpg", NBC (USA)
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1024px-2015_Fox_Sports_1_logo.svg.png",FS1
