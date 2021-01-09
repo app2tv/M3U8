@@ -1,5 +1,9 @@
 
 #EXTM3U
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://asia.nowbaogumovies.com/baogucms/cmsfrontend/img/icons/baogu_logo_head.png" group-title="HongKong", now爆谷台
+http://sl.tmtv.me/20201226/ubtl.php?cid=152
+
 #EXTINF:-1 tvg-id="603 高清603台" tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/hongkong603.png" group-title="HongKong", 有線高清603台
 http://sl.tmtv.me/20201226/ubtl.php?cid=398
 
