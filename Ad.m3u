@@ -25,7 +25,7 @@ http://61.238.6.49:8000/bysid/1.mpeg
 http://sl.tmtv.me/20201226/ubtl.php?cid=392
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HongKong",無綫明珠台(TVB Pearl)
 http://61.238.6.49:8001/bysid/2.mpeg
-
+#EXTINF:-1 tvg-id="XHP.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_xing_he_channel.png" group-title="HongKong", TVB 星河頻道
 
 #EXTINF:-1 tvg-ID="HBOE" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="MOVIE",HBO (East)
 https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
