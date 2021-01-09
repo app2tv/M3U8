@@ -29,7 +29,8 @@ http://61.238.6.49:8001/bysid/2.mpeg
 http://sl.tmtv.me/20201226/ubtl.php?cid=1079
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HongKong", TVB經典台
 http://sl.tmtv.me/20201226/ubtl.php?cid=1083
-
+#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://static.epg.best/hk/TVBPearl.hk.png" group-title="HongKong", Pearl
+http://sl.tmtv.me/20201226/ubtl.php?cid=391
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HongKong", TVB華麗台
 http://sl.tmtv.me/20201226/ubtl.php?cid=1084
 
