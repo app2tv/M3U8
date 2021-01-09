@@ -1,5 +1,19 @@
 
 #EXTM3U
+#EXTINF:-1 tvg-id="603 高清603台" tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/hongkong603.png" group-title="HongKong", 有線高清603台
+http://sl.tmtv.me/20201226/ubtl.php?cid=398
+
+#EXTINF:-1 tvg-id="618.HK" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/iCABLEChannel18.png" group-title="HongKong", 有線18台
+http://sl.tmtv.me/20201226/ubtl.php?cid=44
+
+#EXTINF:-1 tvg-id="602 Sports Plus 1" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/05/I-CABLE_Sports_Channel.png" group-title="HongKong", 有線Sports Plus 1
+http://sl.tmtv.me/20201226/ubtl.php?cid=401
+
+#EXTINF:-1 tvg-id="604 Sports Plus 2" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/05/I-CABLE_Sports_Channel.png" group-title="HongKong", 有線Sports Plus 2
+http://sl.tmtv.me/20201226/ubtl.php?cid=356
+
+#EXTINF:-1 tvg-id="618.HK" tvg-logo="http://www.nettvplus.live/uploads/20/1-200319145514C3.jpg" group-title="HongKong", 有線電影台 HD
+http://sl.tmtv.me/20201226/ubtl.php?cid=354
 
 #EXTINF:-1 tvg-ID="YCJ.HK" tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png" tvg-name="有線财经资讯" group-title="HongKong", 有線財經資訊台 HD
 http://livetv.dnsfor.me:80/channel.6.m3u8
