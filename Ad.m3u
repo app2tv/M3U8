@@ -88,13 +88,13 @@ https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
 https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="USA LOCAL",CBS miami
 http://161.0.157.50/PLTV/88888888/224/3221227041/4.m3u8
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="http://fanboynation.com/wp-content/uploads/2015/04/TNT-Logo.jpg" group-title="• CINE",CINE - TNT
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="http://fanboynation.com/wp-content/uploads/2015/04/TNT-Logo.jpg" group-title="USA LOCAL",TNT
 http://tv.cablestream.io:8080/noelia/1234/18767
-#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="https://logonoid.com/images/tbs-logo.png" group-title="• CINE",CINE - TBS
+#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="https://logonoid.com/images/tbs-logo.png" group-title="USA LOCAL",TBS
 http://tv.cablestream.io:8080/noelia/1234/56298
 #EXTINF:-1 tvg-ID="TBW.US" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="USA LOCAL",TBS West
 https://tve-live-lln.warnermediacdn.com/hls/live/572097/tbsw/aes_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-ID="CBS.US"
+#EXTINF:-1 tvg-ID="CBS.US" group-title="USA LOCAL",CBS
 http://tv.cablestream.io:8080/noelia/1234/3367
 #EXTINF:-1 group-title="USA LOCAL" tvg-id="foxwnyw.us" tvg-name="FOX",FOX
 https://gma2.blab.email/fox.m3u8
