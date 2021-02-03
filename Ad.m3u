@@ -107,3 +107,15 @@ http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1 group-title="USA LOCAL" tvg-name="NBC (USA)" tvg-logo="https://designobserver.com/media/images/mondrian/39684-NBC_logo_m.jpg", NBC (USA)
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 
+#EXTINF:-1 tvg-ID="Disney channel.US" group-title="Children", Disney Channel
+http://tv.cablestream.io:8080/noelia/1234/29142
+
+
+#EXTINF:-1 tvg-ID="Disney XD.US" group-title="Children", Disney XD
+http://tv.cablestream.io:8080/noelia/1234/29144
+
+#EXTINF:-1 tvg-ID="Cartoon Network.US" group-title="Children",Cartoon Network
+http://tv.cablestream.io:8080/noelia/1234/29145
+
+#EXTINF:-1 tvg-ID="Boomerang.US" group-title="Children", Boomerang
+http://tv.cablestream.io:8080/noelia/1234/29147
