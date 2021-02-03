@@ -94,7 +94,8 @@ http://tv.cablestream.io:8080/noelia/1234/18767
 http://tv.cablestream.io:8080/noelia/1234/56298
 #EXTINF:-1 tvg-ID="TBW.US" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="USA LOCAL",TBS West
 https://tve-live-lln.warnermediacdn.com/hls/live/572097/tbsw/aes_slate/VIDEO_0_3564000.m3u8
-
+#EXTINF:-1 tvg-ID="CBS.US"
+http://tv.cablestream.io:8080/noelia/1234/3367
 #EXTINF:-1 group-title="USA LOCAL" tvg-id="foxwnyw.us" tvg-name="FOX",FOX
 https://gma2.blab.email/fox.m3u8
 #EXTINF:-1 group-title="USA LOCAL" tvg-id="WCBSNewYorkCBSEast.us" tvg-name="CBS (USA)" tvg-logo="https://www.thewrap.com/wp-content/uploads/2017/01/CBS-logo.jpg", CBS (USA)
