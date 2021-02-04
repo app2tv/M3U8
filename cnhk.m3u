@@ -5,7 +5,8 @@ url-tvg="http://epg.51zmt.top:8000/gat.xml" x-tvg-url="http://epg.51zmt.top:8000
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-1.png" tvg-name="CCTV1" group-title="央视",CCTV1
-http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+http://39.135.135.50:80/wh7f454c46tw1825434025_-138335295/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8?icpid=88888888&RTS=1554599597&from=1&hms_devid=701
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-2.png" tvg-name="CCTV2" group-title="央视",CCTV2
 
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
