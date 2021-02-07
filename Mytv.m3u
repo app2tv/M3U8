@@ -2,19 +2,19 @@
 
 
 #EXTINF:0,﻿WCBS-HD
-http://192.168.4.130:5004/auto/v2.1
+http://192.168.4.130:5004/auto/v2.1?transcode=mobile&duration=120
 
 
 
 
 #EXTINF:0,STARTTV
-http://192.168.4.130:5004/auto/v2.2
+http://192.168.4.130:5004/auto/v2.2?transcode=mobile&duration=120
 
 
 
 
 #EXTINF:0,WNBC
-http://192.168.4.130:5004/auto/v4.1
+http://192.168.4.130:5004/auto/v4.1?transcode=mobile&duration=120
 
 
 
