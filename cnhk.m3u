@@ -136,18 +136,6 @@ http://livetv.dnsfor.me:80/channel.10.m3u8
 #EXTINF:-1 group-title="HongKong", 無綫財經資訊台
 http://livetv.dnsfor.me:80/channel.11.m3u8
 
-#EXTINF:-1 tvg-ID="Disney channel.US" group-title="Children", Disney Channel
-http://tv.cablestream.io:8080/noelia/1234/29142
-
-
-#EXTINF:-1 tvg-ID="Disney XD.US" group-title="Children", Disney XD
-http://tv.cablestream.io:8080/noelia/1234/29144
-
-#EXTINF:-1 tvg-ID="Cartoon Network.US" group-title="Children",Cartoon Network
-http://tv.cablestream.io:8080/noelia/1234/29145
-
-#EXTINF:-1 tvg-ID="Boomerang.US" group-title="Children", Boomerang
-http://tv.cablestream.io:8080/noelia/1234/29147
 
 
 #EXTINF:-1 tvg-id="WeatherChannel.us" tvg-logo="https://drive.google.com/uc?export=download&id=12OOHzNaJN6D_I6ABdetGCq7hSA87r2fA" group-title="News",Weather Channel
