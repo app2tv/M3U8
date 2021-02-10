@@ -68,8 +68,6 @@ http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="",PIX11 (New York) (720p)
 https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-country="US" tvg-url="" group-title="",STIRR 2020 LIVE (720p)
-https://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-country="US" tvg-url="" group-title="",STIRR Biographies (720p)
 https://dai.google.com/linear/hls/event/OzhtmoTQQjSNOimI6ikGCQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-country="US" tvg-url="" group-title="",STIRR Black Cinema (720p)
@@ -80,8 +78,6 @@ https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 https://dai.google.com/linear/hls/event/dGP9Z-PNRPCgGQSDEzxqYg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-country="US" tvg-url="" group-title="",STIRR Cooks (720p)
 https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-country="US" tvg-url="" group-title="",STIRR COVID-19 NEWS (720p)
-https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-country="US" tvg-url="" group-title="",STIRR Fit (720p)
 https://dai.google.com/linear/hls/event/ZidoyK28TXyMRTZU7rFuEQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-country="US" tvg-url="" group-title="",STIRR Movies (720p)
