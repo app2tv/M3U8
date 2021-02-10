@@ -28,11 +28,6 @@ https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UkcgDgO.jpg" group-title="MOVIE",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MNX.png" group-title="MOVIE",MNX
-https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="MOVIE" ,Movies Now
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bPQkvtO.jpg" group-title="MOVIE",24 Box TV
 http://51.158.190.97/hls/stream.m3u8
