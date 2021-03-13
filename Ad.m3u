@@ -87,7 +87,7 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/4.m3u8
 #EXTINF:-1 group-title="USA LOCAL" tvg-id="foxwnyw.us" tvg-name="FOX",FOX
 https://gma2.blab.email/fox.m3u8
 #EXTINF:-1 group-title="USA LOCAL" tvg-id="WCBSNewYorkCBSEast.us" tvg-name="CBS (USA)" tvg-logo="https://www.thewrap.com/wp-content/uploads/2017/01/CBS-logo.jpg", CBS (USA)
-http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
+http://157.230.224.200/androidtv/web/app.php/video /playvideo/93842/12?f=.m3u8
 #EXTINF:-1 group-title="USA LOCAL" tvg-name="NBC (USA)" tvg-logo="https://designobserver.com/media/images/mondrian/39684-NBC_logo_m.jpg", NBC (USA)
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 
