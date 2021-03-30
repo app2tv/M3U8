@@ -1,0 +1,67 @@
+﻿How To Turn On/Off Windows Defender In Windows 10 | Real Time Protection
+Windows 10 has a builtin antivirus and anti-malware software called Windows Defender or Windows 10 antivirus. It is ranked as one of the best antivirus software that gives you real-time protection from virus and threats.
+
+
+At times you want to turn off the Windows Defender to stop real-time protection because it does not allow you to install software activators, key generators, unknown software or to create files like .bat etc. Most of the anti-virus software stop such software to install on your computer because they consider them potentially vulnerable and could damage Windows and your personal files.
+
+
+In this tutorial we will guide you step-by-step to how to turn off or turn on Windows Defender in Windows 10.
+
+
+
+
+How To Turn On/Off Windows Defender In Windows 10 | Real Time Protection
+
+
+Step 1:
+
+
+    Enter "windows security settings" into Windows Search Bar at your bottom-left corner.
+    Click "Windows Security settings". 
+
+
+
+
+  
+
+
+
+Step 2:
+
+
+    Click "Virus & threat protection".
+
+
+
+
+  
+
+
+
+Step 3:
+
+
+    Scroll down to "Virus & threat protection settings" section.
+    Click "Manage settings".
+
+
+
+
+  
+
+
+
+Step 4:
+
+
+    Under the "Real-time protection" turn on or turn off the real-time protection.
+
+
+
+
+  
+
+
+
+    If you have turned-off  Windows Defender for installing a software don't forget to turn on the Windows Defender after the installation. 
+    If you like this post then don't forget to share with other people. Share your feedback in the comments section below.
