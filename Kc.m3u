@@ -1,2 +1,285 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3f/PLAYBOY_TV.jpg" group-title="XXX",Playboy TV
-http://187.188.147.165:8000/play/a00l/index.m3u8?transcode=mobile&duration=120
+#EXTM3U
+#EXTINF:-1 group-title="Play",Canale 5 HD
+http://194.76.186.69:8000/play/a00f
+#EXTINF:-1 group-title="-",-frisbee-
+http://194.76.186.69:8000/play/a0f8
+#EXTINF:-1 group-title="-",20 MEDIASET HD
+http://194.76.186.69:8000/play/a00d
+#EXTINF:-1 group-title="-",4K HDR
+http://194.76.186.69:8000/play/a0p1
+#EXTINF:-1 group-title="-",ADVENTURE HD
+http://194.76.186.69:8000/play/a0q6
+#EXTINF:-1 group-title="-",AURORAARTE
+http://194.76.186.69:8000/play/a0ad
+#EXTINF:-1 group-title="-",Antichita Chiossone
+http://194.76.186.69:8000/play/a0ap
+#EXTINF:-1 group-title="-",Arte Atelier
+http://194.76.186.69:8000/play/a0ao
+#EXTINF:-1 group-title="-",BFC
+http://194.76.186.69:8000/play/a0az
+#EXTINF:-1 group-title="-",Baby TV
+http://194.76.186.69:8000/play/a0my
+#EXTINF:-1 group-title="-",Blue Hustler
+http://194.76.186.69:8000/play/a0bb
+#EXTINF:-1 group-title="-",Boing
+http://194.76.186.69:8000/play/a0r3
+#EXTINF:-1 group-title="-",Brazzers HD
+http://194.76.186.69:8000/play/a0qb
+#EXTINF:-1 group-title="-",CIAO
+http://194.76.186.69:8000/play/a0b1
+#EXTINF:-1 group-title="-",Canale Italia
+http://194.76.186.69:8000/play/a0a6
+#EXTINF:-1 group-title="-",Cartoonito
+http://194.76.186.69:8000/play/a0r4
+#EXTINF:-1 group-title="-",Cine34
+http://194.76.186.69:8000/play/a059
+#EXTINF:-1 group-title="-",Cine34
+http://194.76.186.69:8000/play/a0dk
+#EXTINF:-1 group-title="-",Comedy +1
+http://194.76.186.69:8000/play/a0pe
+#EXTINF:-1 group-title="-",DMAX HD
+http://194.76.186.69:8000/play/a0fd
+#EXTINF:-1 group-title="-",Diabloxtv
+http://194.76.186.69:8000/play/a0a9
+#EXTINF:-1 group-title="-",Digiquest Promo
+http://194.76.186.69:8000/play/a0b8
+#EXTINF:-1 group-title="-",Dorcel TV HD
+http://194.76.186.69:8000/play/a0dy
+#EXTINF:-1 group-title="-",EURSAT
+http://194.76.186.69:8000/play/a0b6
+#EXTINF:-1 group-title="-",Emilia Romagna 24
+http://194.76.186.69:8000/play/a0a4
+#EXTINF:-1 group-title="-",Focus
+http://194.76.186.69:8000/play/a0pv
+#EXTINF:-1 group-title="-",Food Network HD
+http://194.76.186.69:8000/play/a0fc
+#EXTINF:-1 group-title="-",Fuego TV
+http://194.76.186.69:8000/play/a0n8
+#EXTINF:-1 group-title="-",Fuego TV
+http://194.76.186.69:8000/play/a0av
+#EXTINF:-1 group-title="-",Giallo HD
+http://194.76.186.69:8000/play/a0fg
+#EXTINF:-1 group-title="-",HGTV Italy HD
+http://194.76.186.69:8000/play/a0q7
+#EXTINF:-1 group-title="-",HSE24
+http://194.76.186.69:8000/play/a0dx
+#EXTINF:-1 group-title="-",Horse TV HD
+http://194.76.186.69:8000/play/a0qc
+#EXTINF:-1 group-title="-",Hustler HD
+http://194.76.186.69:8000/play/a0dw
+#EXTINF:-1 group-title="-",Hustler HD POL
+http://194.76.186.69:8000/play/a0bd
+#EXTINF:-1 group-title="-",Iris
+http://194.76.186.69:8000/play/a0q0
+#EXTINF:-1 group-title="-",Italia1 HD
+http://194.76.186.69:8000/play/a0py
+#EXTINF:-1 group-title="-",Italian Fishing TV
+http://194.76.186.69:8000/play/a0qy
+#EXTINF:-1 group-title="-",Just 89
+http://194.76.186.69:8000/play/a0a8
+#EXTINF:-1 group-title="-",K2
+http://194.76.186.69:8000/play/a0fa
+#EXTINF:-1 group-title="-",LA7 HD
+http://194.76.186.69:8000/play/a0qw
+#EXTINF:-1 group-title="-",LA7d
+http://194.76.186.69:8000/play/a0qv
+#EXTINF:-1 group-title="-",LIFE 120
+http://194.76.186.69:8000/play/a0ae
+#EXTINF:-1 group-title="-",La 5
+http://194.76.186.69:8000/play/a0pt
+#EXTINF:-1 group-title="-",La8
+http://194.76.186.69:8000/play/a0ac
+#EXTINF:-1 group-title="-",La9
+http://194.76.186.69:8000/play/a0b7
+#EXTINF:-1 group-title="-",Lazio Channel
+http://194.76.186.69:8000/play/a0au
+#EXTINF:-1 group-title="-",Mediaset EXTRA
+http://194.76.186.69:8000/play/a0pu
+#EXTINF:-1 group-title="-",Mediaset Italia Due
+http://194.76.186.69:8000/play/a0pz
+#EXTINF:-1 group-title="-",MotorTrend HD
+http://194.76.186.69:8000/play/a0ff
+#EXTINF:-1 group-title="-",Music Life
+http://194.76.186.69:8000/play/a0at
+#EXTINF:-1 group-title="-",NASA TV HD
+http://194.76.186.69:8000/play/a0r2
+#EXTINF:-1 group-title="-",NOVE
+http://194.76.186.69:8000/play/a0f5
+#EXTINF:-1 group-title="-",Napoli Mia
+http://194.76.186.69:8000/play/a0b2
+#EXTINF:-1 group-title="-",Nove HD
+http://194.76.186.69:8000/play/a0fh
+#EXTINF:-1 group-title="-",Novela Tv
+http://194.76.186.69:8000/play/a0ak
+#EXTINF:-1 group-title="-",Padre Pio Tv
+http://194.76.186.69:8000/play/a0af
+#EXTINF:-1 group-title="-",Paramount Network HD
+http://194.76.186.69:8000/play/a0r9
+#EXTINF:-1 group-title="-",Passion
+http://194.76.186.69:8000/play/a0a3
+#EXTINF:-1 group-title="-",Penthouse Black
+http://194.76.186.69:8000/play/a0aa
+#EXTINF:-1 group-title="-",People TV
+http://194.76.186.69:8000/play/a0rd
+#EXTINF:-1 group-title="-",Pinko TV
+http://194.76.186.69:8000/play/a0f1
+#EXTINF:-1 group-title="-",Pinko TV
+http://194.76.186.69:8000/play/a0n3
+#EXTINF:-1 group-title="-",Polonia 1
+http://194.76.186.69:8000/play/a0ai
+#EXTINF:-1 group-title="-",Private HD
+http://194.76.186.69:8000/play/a0bc
+#EXTINF:-1 group-title="-",Private HD POL
+http://194.76.186.69:8000/play/a0be
+#EXTINF:-1 group-title="-",Prive
+http://194.76.186.69:8000/play/a0n4
+#EXTINF:-1 group-title="-",QVC HD
+http://194.76.186.69:8000/play/a0ay
+#EXTINF:-1 group-title="-",RADIO ZETA HD
+http://194.76.186.69:8000/play/a0ri
+#EXTINF:-1 group-title="-",RADIOFRECCIA HD
+http://194.76.186.69:8000/play/a0rf
+#EXTINF:-1 group-title="-",RADIONORBA TV
+http://194.76.186.69:8000/play/a0rg
+#EXTINF:-1 group-title="-",RDS TV
+http://194.76.186.69:8000/play/a0ax
+#EXTINF:-1 group-title="-",RSI LA 1 HD OLD
+http://194.76.186.69:8000/play/a0r5
+#EXTINF:-1 group-title="-",RSI LA 2 HD
+http://194.76.186.69:8000/play/a0fk
+#EXTINF:-1 group-title="-",RTL 102.5 HD
+http://194.76.186.69:8000/play/a0re
+#EXTINF:-1 group-title="-",RTL 102.5 NEWS ASPI
+http://194.76.186.69:8000/play/a0rj
+#EXTINF:-1 group-title="-",Radio Italia Trend TV HD
+http://194.76.186.69:8000/play/a0aq
+#EXTINF:-1 group-title="-",Radio Italia Tv HD
+http://194.76.186.69:8000/play/a0am
+#EXTINF:-1 group-title="-",Radio Kiss Kiss Tv
+http://194.76.186.69:8000/play/a0aw
+#EXTINF:-1 group-title="-",Radio Number One
+http://194.76.186.69:8000/play/a0b0
+#EXTINF:-1 group-title="-",Radio Radio TV
+http://194.76.186.69:8000/play/a0rk
+#EXTINF:-1 group-title="-",Rai 1 HD
+http://194.76.186.69:8000/play/a0d1
+#EXTINF:-1 group-title="-",Rai 2 HD
+http://194.76.186.69:8000/play/a0d2
+#EXTINF:-1 group-title="-",Rai 3 HD
+http://194.76.186.69:8000/play/a0d3
+#EXTINF:-1 group-title="-",Rai 4 HD
+http://194.76.186.69:8000/play/a0pm
+#EXTINF:-1 group-title="-",Rai 4K
+http://194.76.186.69:8000/play/a0pn
+#EXTINF:-1 group-title="-",Rai 5 HD
+http://194.76.186.69:8000/play/a0pl
+#EXTINF:-1 group-title="-",Rai GR Parlamento
+http://194.76.186.69:8000/play/a0qh
+#EXTINF:-1 group-title="-",Rai Gulp HD
+http://194.76.186.69:8000/play/a00q
+#EXTINF:-1 group-title="-",Rai Isoradio
+http://194.76.186.69:8000/play/a0qi
+#EXTINF:-1 group-title="-",Rai Movie HD
+http://194.76.186.69:8000/play/a0po
+#EXTINF:-1 group-title="-",Rai News 24 HD
+http://194.76.186.69:8000/play/a0pp
+#EXTINF:-1 group-title="-",Rai OM Unica
+http://194.76.186.69:8000/play/a0qo
+#EXTINF:-1 group-title="-",Rai Premium HD
+http://194.76.186.69:8000/play/a038
+#EXTINF:-1 group-title="-",Rai Radio 1
+http://194.76.186.69:8000/play/a0qd
+#EXTINF:-1 group-title="-",Rai Radio 2
+http://194.76.186.69:8000/play/a0qe
+#EXTINF:-1 group-title="-",Rai Radio 3
+http://194.76.186.69:8000/play/a0qf
+#EXTINF:-1 group-title="-",Rai Radio Kids
+http://194.76.186.69:8000/play/a0ql
+#EXTINF:-1 group-title="-",Rai Radio Live
+http://194.76.186.69:8000/play/a0qk
+#EXTINF:-1 group-title="-",Rai Radio Slovenia
+http://194.76.186.69:8000/play/a0qp
+#EXTINF:-1 group-title="-",Rai Radio Techete'
+http://194.76.186.69:8000/play/a0qj
+#EXTINF:-1 group-title="-",Rai Radio Tutta Italiana
+http://194.76.186.69:8000/play/a0qn
+#EXTINF:-1 group-title="-",Rai Radio2 Indie
+http://194.76.186.69:8000/play/a0qm
+#EXTINF:-1 group-title="-",Rai Radio3 Classica
+http://194.76.186.69:8000/play/a0qg
+#EXTINF:-1 group-title="-",Rai Scuola HD
+http://194.76.186.69:8000/play/a00s
+#EXTINF:-1 group-title="-",Rai Sport + HD
+http://194.76.186.69:8000/play/a0d4
+#EXTINF:-1 group-title="-",Rai Storia HD
+http://194.76.186.69:8000/play/a0pq
+#EXTINF:-1 group-title="-",Rai YoYo HD
+http://194.76.186.69:8000/play/a00r
+#EXTINF:-1 group-title="-",Real Time HD
+http://194.76.186.69:8000/play/a0fb
+#EXTINF:-1 group-title="-",Record Tv Europa
+http://194.76.186.69:8000/play/a0ag
+#EXTINF:-1 group-title="-",Redlight HD
+http://194.76.186.69:8000/play/a0ab
+#EXTINF:-1 group-title="-",Rete 4
+http://194.76.186.69:8000/play/a0qt
+#EXTINF:-1 group-title="-",Rete 4 HD
+http://194.76.186.69:8000/play/a0dp
+#EXTINF:-1 group-title="-",SCT
+http://194.76.186.69:8000/play/a0a7
+#EXTINF:-1 group-title="-",SRF info HD
+http://194.76.186.69:8000/play/a0fl
+#EXTINF:-1 group-title="-",SURYOYO SAT
+http://194.76.186.69:8000/play/a0ar
+#EXTINF:-1 group-title="-",Sexto Senso
+http://194.76.186.69:8000/play/a0a1
+#EXTINF:-1 group-title="-",Sky Atlantic
+http://194.76.186.69:8000/play/a0oy
+#EXTINF:-1 group-title="-",Spike HD
+http://194.76.186.69:8000/play/a0ra
+#EXTINF:-1 group-title="-",Super!
+http://194.76.186.69:8000/play/a0rc
+#EXTINF:-1 group-title="-",Super!
+http://194.76.186.69:8000/play/a0f9
+#EXTINF:-1 group-title="-",TELE 5
+http://194.76.186.69:8000/play/a0ah
+#EXTINF:-1 group-title="-",TGCOM24
+http://194.76.186.69:8000/play/a0q1
+#EXTINF:-1 group-title="-",TOP KIDS
+http://194.76.186.69:8000/play/a0q5
+#EXTINF:-1 group-title="-",TOPcrime
+http://194.76.186.69:8000/play/a0q2
+#EXTINF:-1 group-title="-",TRM h24
+http://194.76.186.69:8000/play/a0a5
+#EXTINF:-1 group-title="-",TV8 HD
+http://194.76.186.69:8000/play/a0p0
+#EXTINF:-1 group-title="-",TVA Vicenza
+http://194.76.186.69:8000/play/a0b3
+#EXTINF:-1 group-title="-",TVR International HB
+http://194.76.186.69:8000/play/a0al
+#EXTINF:-1 group-title="-",Teleitalia
+http://194.76.186.69:8000/play/a0b5
+#EXTINF:-1 group-title="-",UNIRESAT HD
+http://194.76.186.69:8000/play/a0an
+#EXTINF:-1 group-title="-",VH1 HD
+http://194.76.186.69:8000/play/a0rb
+#EXTINF:-1 group-title="-",VIDEOLINA
+http://194.76.186.69:8000/play/a0b4
+#EXTINF:-1 group-title="-",VIDEOLINA
+http://194.76.186.69:8000/play/a0g4
+#EXTINF:-1 group-title="-",Venus TV
+http://194.76.186.69:8000/play/a0as
+#EXTINF:-1 group-title="-",Vivid Red HD
+http://194.76.186.69:8000/play/a0b9
+#EXTINF:-1 group-title="-",Water Planet
+http://194.76.186.69:8000/play/a0aj
+#EXTINF:-1 group-title="-",Well TV
+http://194.76.186.69:8000/play/a0r1
+#EXTINF:-1 group-title="-",Wine TV
+http://194.76.186.69:8000/play/a0qz
+#EXTINF:-1 group-title="-",XXL
+http://194.76.186.69:8000/play/a0e1
+#EXTINF:-1 group-title="-",Yes TV
+http://194.76.186.69:8000/play/a0rh
+#EXTINF:-1 group-title="-",cielo HD
+http://194.76.186.69:8000/play/a0oz
