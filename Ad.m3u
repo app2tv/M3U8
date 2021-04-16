@@ -1,7 +1,32 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-ID="HBOE" tvg-name="HBO (East)" tvg-logo="https://i.ibb.co/x6qB0ZQ/IMG-20210103-025636.png" group-title="Movies",HBO (East)
+http://tvmedia2.com:8080/andrea/andrea/164593.m3u8
 
+#EXTINF:-1 tvg-ID="HBOW" tvg-name="HBO (West)" tvg-logo="https://i.ibb.co/02dStD9/IMG-20210103-025549.png" group-title="Movies",HBO (West)
+http://tvmedia2.com:8080/andrea/andrea/164589.m3u8
+
+#EXTINF:-1 tvg-ID="CINE" tvg-name="Cinemax USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax (East)
+http://tvmedia2.com:8080/doreen/doreen/164337.ts
+
+#EXTINF:-1 tvg-ID="CINW" tvg-name="Cinemax (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax (West)
+http://listamy.com:8080/Berto/Berto/328599
+
+#EXTINF:-1 tvg-ID="SHOE" tvg-name="Showtime (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="Movies",Showtime (East)
+http://tvmedia2.com:8080/andrea/andrea/164453.m3u8
+
+#EXTINF:-1 tvg-ID="SHOW" tvg-name="Showtime (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="Movies",Showtime (West)
+http://tvmedia2.com:8080/andrea/andrea/164446.m3u8
+
+#EXTINF:-1 tvg-ID="STAW" tvg-name="STARZ" tvg-logo="https://asset.entpay.9c9media.ca/image-service/version/c:YjRmYWU1MWUtZWU4NS00:ODUzMDYy/image.png" group-title="Movies",STARZ
+http://tvmedia2.com:8080/andrea/andrea/164199.m3u8
+
+#EXTINF:-1 tvg-ID="STAE" tvg-name="STARZ Encore" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stzenchd_2016_horz_wh_rgb.png" group-title="Movies",STARZ Encore
+http://tvmedia2.com:8080/andrea/andrea/164431.m3u8
+
+#EXTINF:-1 tvg-ID="EPIE" tvg-name="Epix" tvg-logo="https://content.epix.com/logos/epix-logo.png" group-title="Movies",Epix
+http://tvmedia2.com:8080/andrea/andrea/164680.m3u8
 
 #EXTINF:-1 tvg-ID="YCJ.HK" tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png" tvg-name="有線财经资讯" group-title="HongKong", 有線財經資訊台 HD
 http://livetv.dnsfor.me:80/channel.6.m3u8
