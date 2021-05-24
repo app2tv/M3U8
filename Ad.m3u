@@ -102,7 +102,7 @@ http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="USA LOCAL",CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="WeatherChannel.us" tvg-logo="https://drive.google.com/uc?export=download&id=12OOHzNaJN6D_I6ABdetGCq7hSA87r2fA" group-title="USA LOCAL",Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/uUb3vwe.png" tvg-country="US" tvg-url="" group-title="Weather",Weather Nation (720p)
 https://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
 #EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/9xsosXt.png",New York: CBS News
