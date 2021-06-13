@@ -1,3 +1,17 @@
+三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
+中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
+中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
+台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
+壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
+東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+民視台灣 (720p),http://seb.sason.top/ptv/ftv.php?id=tw
+民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+港台電視32 (480p),https://www.rthk.hk/feeds/dtt/rthktv32_,https.m3u8
+澳門資訊 (720p),http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
+鳳凰衛視資訊台HD,http://117.169.120.138:8080/live/fhzixun/.m3u8
+
 民视,http://185.93.2.35:12012/live/359111068247FFA1/EiNtM15u1t3Qv9GU89wT-yN9iBVgre0b4ZCKNUasSw-AbJIUGqbjU21yL7bMDadp/14882B5E890541C1/975343.ts
 民視新聞台,http://185.93.2.35:12012/live/359111068247FFA1/v88bjloLBtuM3OY0FYtPMeRVvk_yqvwgKK4UO2iuHKwF_YV-WOgI0va9pjynrx7N/D86EA883505B4EB6/73005.ts
 民視台灣台,http://185.93.2.35:12012/live/359111068247FFA1/LeniXlwULzB03VBsGh1xh853-haVT6kqEhOWenHryHc_D4xY8O8Db4E7l3zoIXLg/1725D3A0FE504365/831459.ts
