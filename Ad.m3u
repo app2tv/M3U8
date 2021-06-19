@@ -104,7 +104,7 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="WeatherChannel.us" tvg-logo="https://drive.google.com/uc?export=download&id=12OOHzNaJN6D_I6ABdetGCq7hSA87r2fA" group-title="USA LOCAL",Weather Channel
 https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/uUb3vwe.png" tvg-country="US" tvg-url="" group-title="Weather",Weather Nation (720p)
-https://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
+https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/9xsosXt.png",New York: CBS News
 https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="USA LOCAL",CBS miami
