@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="playboy" tvg-name="playboy" tvg-logo="https://i.ibb.co/x6qB0ZQ/IMG-20210103-025636.png" group-title="adult",PlayboyTVEurope
+#EXTINF:-1 tvgroup-title="",PlayboyTVEurope
 
 http://212.42.193.122:8888/play/a00p/index.m3u8
 
-#EXTINF:-1 tvg-ID="playboy" tvg-name="playboy" tvg-logo="https://i.ibb.co/x6qB0ZQ/IMG-20210103-025636.png" group-title="adult",Playboy TV Latin America
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="",Playboy TV Latin America
 
 http://186.101.216.211:8000/play/pboy
