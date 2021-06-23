@@ -36,6 +36,8 @@ http://livetv.dnsfor.me:80/channel.5.m3u8
 http://livetv.dnsfor.me:80/channel.7.m3u8
 #EXTINF:-1 group-title="HongKong" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png", TVB 翡翠台
 http://livetv.dnsfor.me:80/channel.18.m3u8
+#EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台（81）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="",翡翠台（81）
+https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 group-title="HongKong" tvg-name="HongKong开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png",HongKong开电视
 http://livetv.dnsfor.me:80/channel.9.m3u8
 #EXTINF:-1 group-title="HongKong" tvg-name="RHK31",RHK31
