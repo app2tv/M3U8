@@ -103,3 +103,11 @@ http://livetv.dnsfor.me:80/channel.2.m3u8
 http://livetv.dnsfor.me:80/channel.10.m3u8
 #EXTINF:-1 group-title="HongKong", 無綫財經資訊台
 http://livetv.dnsfor.me:80/channel.11.m3u8
+#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="USA LOCAL",CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-logo="https://drive.google.com/uc?export=download&id=12OOHzNaJN6D_I6ABdetGCq7hSA87r2fA" group-title="USA LOCAL",Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/uUb3vwe.png" tvg-country="US" tvg-url="" group-title="Weather",Weather Nation (720p)
+https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/9xsosXt.png",New York: CBS News
+https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
