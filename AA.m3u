@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvgroup-title="",PlayboyTVEurope
+#EXTINF:-1 tvgroup-title="",PlayboyTV
 
-http://212.42.193.122:8888/play/a00p/index.m3u8
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87443
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="",Playboy TV Latin America
 
