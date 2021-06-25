@@ -4,6 +4,9 @@
 
 http://pvserver.link:8080/mkZ5D3DteY/6178378546/87443
 
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="",Playboy TV Latin America
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="",redlightHD
 
 http://51.15.0.141:88/redlightHD/index.m3u8
+
+#EXTINF:-1 tvgroup-title="",hustler hd
+http://51.15.0.141:88/hustlerhd/index.m3u8
