@@ -129,3 +129,41 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/9xsosXt.png",New York: CBS News
 https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国",HBO 2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/6676
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国",HBO EAST
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/6677
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国",HBO WEST
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/6673
+#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="美国",HBO FAMILY
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3104
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国",HBO ZONE
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/6672
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国",HBO COMEDY
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/6674
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="美国",HBO SIGNATURE
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/6675
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="美国",ANIMAL PLANET
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3066
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="美国",NATIONAL GEOGRAPHIC
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3052
+#EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png" group-title="美国",HGTV
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/24961
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国",BRAVO
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/6678
+#EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="美国",FOOD NETWORK
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/6679
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国",E! ENTERTAINMENT
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7331
+#EXTINF:-1 tvg-id="6168" tvg-name="TravelChannel" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png" group-title="美国",TRAVEL CHANNEL
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/8129
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国",MOREMAX
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/8130
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国",EPIX HITS
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/8133
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国",EPIX2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/8134
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国",OXYGEN
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/8141
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国",UFC TV
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7332
