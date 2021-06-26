@@ -111,6 +111,15 @@ http://livetv.dnsfor.me:80/channel.2.m3u8
 http://livetv.dnsfor.me:80/channel.10.m3u8
 #EXTINF:-1 group-title="HongKong", 無綫財經資訊台
 http://livetv.dnsfor.me:80/channel.11.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="港台",翡翠台ᴴᴰ
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="港台",翡翠台
+http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="港台",J2台ᴴᴰ
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="港台",J2台
+http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="USA LOCAL",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/uUb3vwe.png" tvg-country="US" tvg-url="" group-title="Weather",Weather Nation (720p)
