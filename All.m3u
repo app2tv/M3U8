@@ -120,6 +120,9 @@ https://cdn.hkdtmb.com/hls/81/index.m3u8
 http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HongKong",J2台
 http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HongKong",J2台ᴴᴰ
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HongKong",明珠台
 http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 
