@@ -34,26 +34,12 @@ https://cdn.hkdtmb.com/hls/84b/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="...ESPN SEC NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/espn_sec_network_us.png" group-title="Sport",ESPN SEC NETWORK HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/60414
-#EXTINF:-1 tvg-id="10TV.in" tvg-name="...ESPN PLUS HD" tvg-logo="http://epg4you.com/logos/beinsportsmax4.png" group-title="Sport",ESPN PLUS HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31017
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="...ESPN 1 HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="Sport",ESPN 1 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7963
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="...ESPN 2 HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/espn_2.png" group-title="Sport",ESPN 2 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7896
-#EXTINF:-1 tvg-id="MadisonSquareGarden.us" tvg-name="MSG NETWORKS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="Sport",MSG NETWORKS HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7964
-#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="Sport",ESPNU HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7895
-#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="ESPN NEWS HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="Sport",ESPN NEWS HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7898
-#EXTINF:-1 tvg-id="NFL Network" tvg-name="NFL Network" tvg-logo="" group-title="Sport",NFL Network
-http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3091
 #EXTINF:-1 tvg-id="6091" tvg-name="FOXSports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="Sport",FOX SPORTS 1
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3020
 #EXTINF:-1 tvg-id="6091" tvg-name="FOXSports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="Sport",FOX SPORTS 2
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3021
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",A&E
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47528
 #EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="USA",AMC
