@@ -1,0 +1,303 @@
+﻿#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" tvg-name="ViuTV" group-title="HongKong",ViuTV
+http://61.238.6.49:8000/bysid/99
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="HongKong",ViuTV
+http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+
+
+#EXTINF:-1 group-title="HongKong" tvg-name="TVBXingHe" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png",TVB Xing He 星河
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 group-title="HongKong" tvg-name="HongKong开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png",HongKong开电视
+http://livetv.dnsfor.me:80/channel.9.m3u8
+#EXTINF:-1 group-title="HongKong" tvg-name="RHK31",RHK31
+http://livetv.dnsfor.me:80/channel.1.m3u8
+#EXTINF:-1 group-title="HongKong" tvg-name="RHK32",RHK32
+http://livetv.dnsfor.me:80/channel.2.m3u8
+#EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="HongKong", 無綫新聞台
+http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF:-1 group-title="HongKong", 無綫財經資訊台
+http://livetv.dnsfor.me:80/channel.11.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HongKong",翡翠台ᴴᴰ
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HongKong",翡翠台
+http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HongKong",J2台
+http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HongKong",明珠台
+http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="...ESPN SEC NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/espn_sec_network_us.png" group-title="Sport",ESPN SEC NETWORK HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/60414
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="...ESPN PLUS HD" tvg-logo="http://epg4you.com/logos/beinsportsmax4.png" group-title="Sport",ESPN PLUS HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31017
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="...ESPN 1 HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="Sport",ESPN 1 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7963
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="...ESPN 2 HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/espn_2.png" group-title="Sport",ESPN 2 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7896
+#EXTINF:-1 tvg-id="MadisonSquareGarden.us" tvg-name="MSG NETWORKS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="Sport",MSG NETWORKS HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7964
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="Sport",ESPNU HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7895
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="ESPN NEWS HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="Sport",ESPN NEWS HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7898
+#EXTINF:-1 tvg-id="NFL Network" tvg-name="NFL Network" tvg-logo="" group-title="Sport",NFL Network
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3091
+#EXTINF:-1 tvg-id="6091" tvg-name="FOXSports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="Sport",FOX SPORTS 1
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3020
+#EXTINF:-1 tvg-id="6091" tvg-name="FOXSports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="Sport",FOX SPORTS 2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/3021
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",A&E
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47528
+#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="USA",AMC
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47529
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",AMERICAN HEROES CHANNEL
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47530
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",ANTENNA TV
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47531
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",ASPIRE
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47532
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",AWE
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47533
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",AXS TV
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47534
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",BET EAST
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47535
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",BET WEST
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47536
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",BET HER
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47537
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",BET JAMS
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47538
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",BET SOUL
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47539
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",BRAVO EAST
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47540
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",BRAVO WEST
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47541
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",BOUNCE
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47542
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",CMT
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47544
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",COMEDY CENTRAL EAST
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47545
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",COMET
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47546
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",COOKING CHANNEL
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47547
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",COZI TV
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47548
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",DIY NETWORK
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47549
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",E! ENTERTAINMENT
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47550
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",ELREY NETWORK
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47551
+#EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="USA",FOOD NETWORK
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47552
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",FREEFORM
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47553
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",FUSE
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47554
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",FUSION
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47555
+#EXTINF:-1 tvg-id="711" tvg-name="FXᴴᴰ" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FXᴴᴰ.png" group-title="USA",FX
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47556
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",FXM
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47557
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",FYI
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47558
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",GRIT
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47559
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",GSN
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47560
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",IFC
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47561
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",ION TV
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47563
+#EXTINF:-1 tvg-id="509" tvg-name="Lifetime" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="USA",LIFETIME
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47564
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",LMN
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47565
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",LOGO
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47566
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",OWN
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47567
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",PARAMOUNT CHANNEL
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47568
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",POP
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47569
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",PEOPLE TV
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47570
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",REELZ
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47571
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",REVOLT
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47572
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",SUNDANCE
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47573
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",SYFY
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47574
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",TASTEMADE
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47575
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",TBS
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47576
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",TCM
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47577
+#EXTINF:-1 tvg-id="6038" tvg-name="TLC旅游生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png" group-title="USA",TLC
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47578
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",TNT
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47579
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",TRUTV EAST
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47580
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",TRUTV WEST
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47581
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",TV ONE
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47582
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",USA NETWORK WEST
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47583
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",USA NETWORK EAST
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47584
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",VH1 EAST
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47585
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",WE TV
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47586
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",PIXL
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47587
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",QVC
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47588
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",CINEMAX EAST
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47589
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",MOREMAX
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47590
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",EPIX
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47591
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",EPIX DRIVEIN
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47592
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",EPIX HITS
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47593
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",EPIX2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47594
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",CW 11
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47595
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",MTV CLASSIC
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47596
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",MTV EAST
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47597
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",MTV LIVE
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47598
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",MTV2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47599
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",MTV U
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47600
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",NICK MUSIC
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47601
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cinema 32
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47602
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cinema 33
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47603
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cinema 34
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47604
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cinema 35
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47605
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cinema 36
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47606
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cinema 38
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47607
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cinema 39
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47608
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cinema 40
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47609
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",5 Star Max
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47611
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cinema 03 Aladdin
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47612
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cinema 04
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47613
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cinema 06
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47614
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cinema 07
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47615
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cinema 09
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47616
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cinema 10
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47617
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cinema 13
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47618
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cinema 14
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",HALLMARK DRAMA
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47620
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",HALLMARK EAST
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47621
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",HALLMARK MOVIES AND MYSTE
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47622
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",TEEN NICK
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47624
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",SHOWTIME EXTREME
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47625
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",SHOWTIME BEYOND.BET
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47626
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",STARZ WEST
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47627
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",SHOWTIME EAST
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47628
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",SHOWTIME WEST
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47629
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",STARZENCORE WESTERNS
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47630
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",STARZENCORE SUSPENSE
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47631
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",STARZENCORE FAMILY
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47632
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",STARZENCORE CLASSIC
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47633
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",STARZ CINEMA
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47634
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",STARZENCORE ACTION
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47635
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",STARZENCORE
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47636
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",STARZ KIDS&FAMILY
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47637
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",STARZ IN BLACK
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47638
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",STARZ EDGE
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47639
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",SHOWTIME WOMEN
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47640
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",STARZ COMEDY
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47641
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",STARZ EAST
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47642
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",SHOWTIME NEXT
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47643
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",SHOWTIME SHOWCASE
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47644
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",SHOWTIME FAMILY ZONE
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47645
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",HBO ZONE
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47646
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",HBO WEST
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47647
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",HBO COMEDY
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47648
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="USA",HBO SIGNATURE
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47649
+#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="USA",HBO FAMILY
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47650
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",HBO 2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47651
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",HBO EAST
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47652
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",WGN AMERICA
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47653
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",SEC Networkᴴᴰ
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47654
+#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="USA",CNBC
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47655
+#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="USA",CNBC WORLD
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47656
+#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="USA",CNN
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47657
