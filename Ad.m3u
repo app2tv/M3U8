@@ -31,6 +31,12 @@ http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://www.hkdtmb.com/png_logo/84b.png" group-title="HongKong",明珠台(粤)
 https://cdn.hkdtmb.com/hls/84b/index.m3u8
 
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" group-title="HongKong",有线新闻台
+http://hkyx.love.sky-media.tk/test/index.php?id=37
+#EXTINF:-1 tvg-id="7122" tvg-name="有线直播新闻台" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" group-title="HongKong",有线直播新闻台
+http://hkyx.love.sky-media.tk/test/index.php?id=39
+#EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png" group-title="HongKong",有线财经资讯台
+http://hkyx.love.sky-media.tk/test/index.php?id=38
 
 
 
