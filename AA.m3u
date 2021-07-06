@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/603ef0de115bdc7aec7b7e82" tvg-name="Local Now Drama"  group-title="Drama",Local Now Drama
+https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8
+
 #EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/608c4bf45eb543248330aa74" tvg-name="Local Now Movies of the 80's"  group-title="Entertainment",Local Now Movies of the 80's
 https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8
 
