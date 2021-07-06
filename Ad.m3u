@@ -52,6 +52,9 @@ https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
 https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 tvg-id="WNET" tvg-logo="https://image.pbs.org/stations/wnet-color-logo-UWM8skJ.png",THIRTEEN/WNET New York
 https://wnetdt.lls.cdn.pbs.org/wnetdt/80f93f7f-9742-47b8-aa58-0c0ceb866d9f/primary.m3u8
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/12/Network_NASA_TV_1280x720.jpg" group-title="News & Weather Networks",NASA TV
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastnasa/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastnasa/chunks.m3u8
 
 
 
