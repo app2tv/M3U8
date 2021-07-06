@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/608c4c3ae8122069215d7888" tvg-name="Local Now Movies of the 90's"  group-title="Entertainment",Local Now Movies of the 90's
+https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
+
 #EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607df855f79e4e217910dbe2" tvg-name="Local Now Movies of the 2020s"  group-title="Entertainment",Local Now Movies of the 2020s
 https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
 
