@@ -143,16 +143,16 @@ https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/9xsosXt.png",New York: CBS News
 https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 
-#EXTINF:-1, ABC
+#EXTINF:-1 group-title="USA LOCAL", ABC
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kgo-dt1.m3u8
 
-#EXTINF:-1, NBC
+#EXTINF:-1 group-title="USA LOCAL", NBC
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kntv-dt1.m3u8
-#EXTINF:-1, iON
+#EXTINF:-1 group-title="USA LOCAL", iON
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kkpx-dt1.m3u8
-#EXTINF:-1 subtitles="eng", iON Plus
+#EXTINF:-1 group-title="USA LOCAL" subtitles="eng", iON Plus
 http://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1, Cozi
+#EXTINF:-1 group-title="USA LOCAL", Cozi
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/knsd-dt2.m3u8
 
 
