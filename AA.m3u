@@ -21,7 +21,8 @@ https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
 #EXTINF:-1 tvgroup-title="",PlayboyTV
 
 http://pvserver.link:8080/mkZ5D3DteY/6178378546/87444
-
+#EXTINF:-1 tvgroup-title="",PlayboyTV_hd
+http://152.89.62.111:8080/88888/99999/223875
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="",redlightHD
 
 http://51.15.0.141:88/redlightHD/index.m3u8
