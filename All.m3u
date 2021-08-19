@@ -921,6 +921,8 @@ https://lnc-wnyw-fox-aws.tubi.video/index.m3u8
 
 #EXTINF:-1 tvg-id="WPBS.us" tvg-name="WPBS-DT1" tvg-country="US" tvg-language="English" tvg-logo="https://image.pbs.org/stations/wpbs-color-cobranded-logo-zDCkBAn.png" group-title="General",PBS Watertown (WPBS) (1080p) [Geo-blocked]
 https://wpbsdt.lls.cdn.pbs.org/wpbsdt/c17cb584-9efe-46fc-ac91-3fb453714069/primary.m3u8
+#EXTINF:-1 tvg-id="NBCLX.us" tvg-name="NBCLX" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JSCsJc5.png" group-title="Entertainment",NBCLX (1080p)
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
 
 
 #EXTINF:-1 tvg-id="WNYE.us" tvg-name="NYCTV Life (WNYE)" tvg-country="US" tvg-language="English" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26196/s26196_h3_aa.png" group-title="Local",NYCTV Life (WNYE) (1080p)
