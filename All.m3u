@@ -928,7 +928,8 @@ https://bozztv.com/teleyupp/teleup-bounce/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WNYE.us" tvg-name="NYCTV Life (WNYE)" tvg-country="US" tvg-language="English" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26196/s26196_h3_aa.png" group-title="Local",NYCTV Life (WNYE) (1080p)
 https://cdn87.theus6tv.tk/locals/NewYorkCity/wnye-dt1.m3u8
-
+#EXTINF:-1 tvg-id="WRGB.us" tvg-name="CBS 6 Albany NY (WRGB)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ByPFQGp.png" group-title="Local",CBS 6 Albany NY (WRGB) (720p)
+https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="Family",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="",HBO Hits
