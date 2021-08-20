@@ -912,6 +912,15 @@ https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/9xsosXt.png",New York: CBS News
 https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="Sports",ESPN (360p)
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="Sports",ESPN (720p)
+https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CTgGetu.png" group-title="Sports",ESPN 2 (360p)
+http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CTgGetu.png" group-title="Sports",ESPN 2 (720p)
+http://stream2.grandma.fit/espn2.m3u8
 #EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC 7 New York NY (WABC-TV)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/99K3yyn.png" group-title="Local",ABC 7 New York NY (WABC-TV) (720p)
 https://cdn87.theus6tv.tk/locals/NewYorkCity/wabc-dt1.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="Sports",ESPN (720p)
