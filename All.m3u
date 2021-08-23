@@ -934,6 +934,9 @@ https://cdn87.theus6tv.tk/locals/BayArea/kgo-dt1.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="Sports",ESPN (720p)
 https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
 #EXTINF:-1 tvg-id="WNYW.us" tvg-name="FOX 5 New York NY (WNYW)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OfGcsUO.png" group-title="Local",FOX 5 New York NY (WNYW) (720p)
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wnyw-dt1.m3u8
+#EXTINF:-1 tvg-id="WNYW.us" tvg-name="FOX 5 New York NY (WNYW)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OfGcsUO.png" group-title="Local",FOX 5 New York NY (WNYW) (720p)
+
 https://lnc-wnyw-fox-aws.tubi.video/index.m3u8
 
 #EXTINF:-1 tvg-id="WPBS.us" tvg-name="WPBS-DT1" tvg-country="US" tvg-language="English" tvg-logo="https://image.pbs.org/stations/wpbs-color-cobranded-logo-zDCkBAn.png" group-title="General",PBS Watertown (WPBS) (1080p) [Geo-blocked]
