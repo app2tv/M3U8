@@ -925,6 +925,9 @@ http://stream2.grandma.fit/espn2.m3u8
 https://cdn87.theus6tv.tk/locals/NewYorkCity/wabc-dt1.m3u8
 #EXTINF:-1 tvg-id="WNBC.us", NBC
 https://cdn87.theus6tv.tk/locals/NewYorkCity/wnbc-dt1.m3u8
+#EXTINF:-1 tvg-id="WCBS.us", CBS
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wcbs-dt1.m3u8
+
 #EXTINF:-1 tvg-id="kgo.us" tvg-name="BayArea" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/99K3yyn.png" group-title="Local",BayArea ABC (720p)
 
 https://cdn87.theus6tv.tk/locals/BayArea/kgo-dt1.m3u8
