@@ -36,3 +36,33 @@ TBS East,https://tve-live-lln.warnermediacdn.com/hls/live/572094/tbse/aes_slate/
 TBS West,https://tve-live-lln.warnermediacdn.com/hls/live/572097/tbsw/aes_slate/VIDEO_0_3564000.m3u8
 FOX,https://gma2.blab.email/fox.m3u8
 CBS (USA),http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
+
+
+ABC 2 Atlanta GA (WSB-TV) (720p),https://d2rwx6gwduugne.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10010_183ec1c7-4183-4661-803b-3ed282ffb625_LE/in/cmg-wsbtvnow-hls-v3/live.m3u8
+ABC 2 Baton Rouge LA (WBRZ) (720p) [Not 24/7],http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+ABC 3 Corpus Christi TX (KIII) (1080p),https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
+ABC 4 Seattle WA (KOMO-TV) (720p),https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+ABC 5 Cleveland OH (WEWS-TV) (1080p),https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
+ABC 5 Des Moines IA (WOI) (1080p),https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
+ABC 7 Denver CO (KMGH) (720p),https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+ABC 7 Detroit MI (WXYZ-TV) (720p) [Not 24/7],https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8
+ABC 7 Los Angeles CA (KABC-DT1) (720p) [Not 24/7],https://cdn87.theus6tv.tk/locals/SoCal/kabc-dt1.m3u8
+ABC 7 New York NY (WABC-TV) (720p) [Not 24/7],https://cdn87.theus6tv.tk/locals/NewYorkCity/wabc-dt1.m3u8
+ABC 7 San Francisco CA (KGO-TV) (720p) [Not 24/7],https://cdn87.theus6tv.tk/locals/BayArea/kgo-dt1.m3u8
+ABC 7 Sarasota FL (WWSB) (720p),https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
+ABC 7 Washington DC (WJLA) (720p),https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
+ABC 8 Dallas TX (WFAA) (1080p),https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8
+ABC 8 Davenport IA (WQAD) (1080p),https://livevideo01.wqad.com/hls/live/2011657/newscasts/live.m3u8
+ABC 9 Charlotte NC (WSOC-TV) (720p),https://wsoc-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec767ccf811b28ab4b5178_wsoc-live/fc31136d-53d2-40ce-bf5c-968151104189/0.m3u8
+ABC 9 Manchester NH (WMUR-TV) (720p),https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
+ABC 9 Orlando FL (WFTV) (540p),https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
+ABC 10 Sacramento CA (KXTV) (1080p),https://livevideo01.abc10.com/hls/live/2014547/newscasts/live.m3u8
+ABC 10 San Diego CA (KGTV) (720p) [Not 24/7],https://kgtv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_608c3eab42d73848377823a0_kgtv-live/64a7b248-d0ab-4bb0-ac0a-241cbec4c23a/0.m3u8
+ABC 11 Louisville KY (WHAS) (1080p),https://livevideo01.whas11.com/hls/live/2016284/newscasts/live.m3u8
+ABC 13 Grand Rapids MI (WZZM) (1080p),https://livevideo01.wzzm13.com/hls/live/2016280/newscasts/live.m3u8
+ABC 13 Las Vegas NV (KTNV) (720p),https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+ABC 13 Norfolk VA (WVEC) (1080p),https://livevideo01.13newsnow.com/hls/live/2014545/newscasts/live.m3u8
+ABC 15 Phoenix AZ (KNXV-TV) (720p),https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+ABC 16 Wilkes Barre PA (WNEP) (1080p),https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8
+ABC 24 Austin TX (KVUE) (1080p),https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8
+ABC 24 Memphis TN (WATN-TV) (1080p),https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8
