@@ -136,3 +136,7 @@ NBC / ABC Jacksonville FL (WTLV) (1080p),https://livevideo01.firstcoastnews.com/
 NBC NewsWest 9 Midland-Odessa TX (KWES) (1080p),https://livevideo01.newswest9.com/hls/live/2017380/newscasts/live.m3u8
 New Orleans Television (NOTV) (720p),http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 News 12 New York (1080p),https://cheddar-news12ny-1.plex.wurl.com/manifest/playlist.m3u8
+
+
+NYCTV Gov (WNYE-DT2) (432p) [Not 24/7],https://cdn87.theus6tv.tk/locals/NewYorkCity/wnye-dt2.m3u8
+NYCTV Life (WNYE) (1080p) [Not 24/7],https://cdn87.theus6tv.tk/locals/NewYorkCity/wnye-dt1.m3u8
