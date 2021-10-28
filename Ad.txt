@@ -66,3 +66,42 @@ ABC 15 Phoenix AZ (KNXV-TV) (720p),https://content.uplynk.com/channel/9deaf22aaa
 ABC 16 Wilkes Barre PA (WNEP) (1080p),https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8
 ABC 24 Austin TX (KVUE) (1080p),https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8
 ABC 24 Memphis TN (WATN-TV) (1080p),https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8
+
+
+CBC Calgary [Geo-blocked],https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
+CBC Charlottetown [Geo-blocked],https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8
+CBC Edmonton [Geo-blocked],https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
+CBC Fredericton [Geo-blocked],https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8
+CBC Halifax [Geo-blocked],https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
+CBC Montreal [Geo-blocked],https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
+CBC Ottawa [Geo-blocked],https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
+CBC Regina [Geo-blocked],https://cbclivedai2-i.akamaihd.net/hls/live/566969/event2/CBKT/master5.m3u8
+CBC St Johns [Geo-blocked],https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8
+CBC Toronto [Geo-blocked],https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
+CBC Vancouver [Geo-blocked],https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
+CBC Windsor [Geo-blocked],https://cbclivedai1-i.akamaihd.net/hls/live/566941/event2/CBET/master5.m3u8
+CBC Winnipeg [Geo-blocked],https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8
+CBC Yellowknife [Geo-blocked],https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
+CBS 2 Greensboro NC (WFMY) (1080p),https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/live.m3u8
+CBS 2 Spokane WA (KREM) (1080p),https://livevideo01.krem.com/hls/live/2017156/newscasts/live.m3u8
+CBS 3 Omaha NE (KMTV-TV) (720p),https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
+CBS 4 New Orleans LA (WWL-TV) (1080p),https://livevideo01.wwltv.com/hls/live/2016516/newscasts/live.m3u8
+CBS 5 Ft Smith AR (KFSM-TV) (1080p),https://livevideo01.5newsonline.com/hls/live/2011653/newscasts/live.m3u8
+CBS 5 Nashville TN (WTVF) (720p) [Not 24/7],https://wtvf-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60a7ff2dc8e6a009e40d13c2_epg-wtvf/0a873ded-726a-4fcc-8b6f-fa88dac0f807/0.m3u8
+CBS 5 San Antonio TX (KENS) (1080p),https://livevideo01.kens5.com/hls/live/2016281/newscasts/live.m3u8
+CBS 6 Albany NY (WRGB) (720p),https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
+CBS 8 San Diego CA (KFMB-TV) (1080p),https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8
+CBS 9 Los Angeles CA (KCAL-TV) (720p),https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+CBS 9 Washington DC (WUSA) (720p),https://livevideo01.wusa9.com/hls/live/2015498/newscasts/live.m3u8
+CBS 10 Columbus OH (WBNS-TV) (1080p),https://livevideo01.10tv.com/hls/live/2013836/newscasts/live.m3u8
+CBS 10 Tampa FL (WTSP) (1080p),https://livevideo01.wtsp.com/hls/live/2015503/newscasts/live.m3u8
+CBS 11 Dallas TX (KTVT) (720p),https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+CBS 11 Houston TX (KHOU) (1080p),https://livevideo01.khou.com/hls/live/2014966/newscasts/live.m3u8
+CBS 11 Toledo OH (WTOL) (1080p),https://livevideo01.wtol.com/hls/live/2017153/newscasts/live.m3u8
+CBS 12 West Palm Beach FL (WPEC) (720p),https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
+CBS 13 Macon GA (WMAZ-TV) (1080p),https://livevideo01.13wmaz.com/hls/live/2017376/newscasts/live.m3u8
+CBS 19 Columbia SC (WLTX) (1080p),https://livevideo01.wltx.com/hls/live/2017152/newscasts/live.m3u8
+CBS 19 Tyler TX (KYTX) (1080p),https://livevideo01.cbs19.tv/hls/live/2017377/newscasts/live.m3u8
+CBS 46 Atlanta GA (WGCL-TV) (720p) [Not 24/7],https://live.field59.com/wgcl/ngrp:wgcl1_all/playlist.m3u8
+CBS 47 Action News Jacksonville FL (WJAX-TV) (720p),https://d2eit0bra9qkiw.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10050_b9ac3c93-be86-4f7e-82b8-796b7f8bfda3_LE/in/cmg-wjaxtv-hls-v3/live.m3u8
+CBS THV11 Little Rock AR (KTHV) (1080p),https://livevideo01.thv11.com/hls/live/2017154/newscasts/live.m3u8
