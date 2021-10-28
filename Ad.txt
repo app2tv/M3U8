@@ -105,3 +105,34 @@ CBS 19 Tyler TX (KYTX) (1080p),https://livevideo01.cbs19.tv/hls/live/2017377/new
 CBS 46 Atlanta GA (WGCL-TV) (720p) [Not 24/7],https://live.field59.com/wgcl/ngrp:wgcl1_all/playlist.m3u8
 CBS 47 Action News Jacksonville FL (WJAX-TV) (720p),https://d2eit0bra9qkiw.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10050_b9ac3c93-be86-4f7e-82b8-796b7f8bfda3_LE/in/cmg-wjaxtv-hls-v3/live.m3u8
 CBS THV11 Little Rock AR (KTHV) (1080p),https://livevideo01.thv11.com/hls/live/2017154/newscasts/live.m3u8
+
+
+NBC 2 Buffalo NY (WGRZ) (1080p),https://livevideo01.wgrz.com/hls/live/2016286/newscasts/live.m3u8
+NBC 4 Los Angeles CA (KNBC) (1080p) [Not 24/7],https://cdn87.theus6tv.tk/locals/SoCal/knbc-dt1.m3u8
+NBC 4 News Washington DC (WRC-TV) (720p) [Not 24/7],https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+NBC 5 Seattle WA (KING) (1080p),https://livevideo01.king5.com/hls/live/2006665/live/live.m3u8
+NBC 5 St. Louis MO (KSDK) (1080p),https://livevideo01.ksdk.com/hls/live/2014965/newscasts/live.m3u8
+NBC 5 West Palm Beach FL (WPTV-TV) (720p) [Not 24/7],https://d2w2eizx69h821.cloudfront.net/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_609990656eddc37f4b745083_wptv-live/d298beaa-c8a5-4de9-b7fd-d293f4ed479d/0.m3u8
+NBC 6 College Station TX (KAGS) (1080p),https://livevideo01.kagstv.com/hls/live/2016283/newscasts/live.m3u8
+NBC 6 Spokane WA (KHQTV) (720p),https://fuel-streaming-prod01.fuelmedia.io/v1/sem/96ef92fd-36df-43e5-b434-ed10cc615742.m3u8
+NBC 6 Waco TX (KCEN) (1080p),https://livevideo01.kcentv.com/hls/live/2017155/newscasts/live.m3u8
+NBC 7 Boise ID (KTVB) (1080p),https://livevideo01.ktvb.com/hls/live/2014542/newscasts/live.m3u8
+NBC 7 San Diego CA (KNSD-DT1) (1080p) [Not 24/7],https://cdn87.theus6tv.tk/locals/SanDiego/knsd-dt1.m3u8
+NBC 8 Portland OR (KGW) (1080p),https://livevideo01.kgw.com/hls/live/2015506/newscasts/live.m3u8
+NBC 9 Denver CO (KUSA) (1080p),https://livevideo01.9news.com/hls/live/2014548/newscasts/live.m3u8
+NBC 10 Knoxville TN (WBIR-TV) (1080p),https://livevideo01.wbir.com/hls/live/2016515/newscasts/live-2000.m3u8
+NBC 11 Alive Atlanta GA (WXIA-TV) (1080p),https://livevideo01.11alive.com/hls/live/2015499/newscasts/live.m3u8
+NBC 11 Bay Area CA (KNTV) (1080p) [Not 24/7],https://cdn87.theus6tv.tk/locals/BayArea/kntv-dt1.m3u8
+NBC 11 Minneapolis MN (KARE) (1080p),https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
+NBC 12 Phoenix AZ (KPNX) (1080p),https://livevideo01.12news.com/hls/live/2015501/newscasts/live.m3u8
+NBC 13 Indianapolis IN (WTHR) (1080p),https://livevideo01.wthr.com/hls/live/2013835/newscasts/live.m3u8
+NBC 15 Madison WI (WMTV) (720p),https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+NBC 25 Tri-Cities Richland WA (KNDU) (720p) [Not 24/7],https://kndu-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60f9a3541653bb5d8d5dbb96_kndu-live-1/8a5c1c57-d616-4677-929f-ee80ebbea564/1.m3u8
+NBC 26 Green Bay WI (WGBA) (720p),https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+NBC 36 Charlotte NC (WCNC-TV) (1080p),https://livevideo01.wcnc.com/hls/live/2015505/newscasts/live.m3u8
+NBC 41 Kansas City (KSHB-TV) (720p) [Not 24/7],https://kshb-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60b682c64fcc8c629d172d35_kshb-live/bd89bcf7-e584-44ae-af55-e1f24eaf701f/0.m3u8
+NBC 207 Bangor Portland ME (WLBZ) (1080p),https://livevideo01.newscentermaine.com/hls/live/2014540/newscasts/live/wcsh.m3u8
+NBC / ABC Jacksonville FL (WTLV) (1080p),https://livevideo01.firstcoastnews.com/hls/live/2014550/newscasts/live.m3u8
+NBC NewsWest 9 Midland-Odessa TX (KWES) (1080p),https://livevideo01.newswest9.com/hls/live/2017380/newscasts/live.m3u8
+New Orleans Television (NOTV) (720p),http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+News 12 New York (1080p),https://cheddar-news12ny-1.plex.wurl.com/manifest/playlist.m3u8
