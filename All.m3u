@@ -120,6 +120,75 @@ http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226731/index.m3
 http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226689/index.m3u8
 
 
+#EXTINF:-1 group-title="港澳台",翡翠台广东
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="港澳台",翡翠台广东
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
+#EXTINF:-1 group-title="港澳台",明珠台广东
+http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+#EXTINF:-1 group-title="港澳台",星空卫视
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="港澳台",星空卫视 576
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="港澳台",星空卫视 576
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="港澳台",HKC有线新闻台
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 group-title="港澳台",HKC有线财经资讯台
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1 group-title="港澳台",HKC有线直播新闻台
+https://api.leonardpark.dev/live/icable/110
+#EXTINF:-1 group-title="港澳台",Now直播331台
+https://api.leonardpark.dev/live/now/331
+#EXTINF:-1 group-title="港澳台",无线新闻
+http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",TVBL
+https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",Now新聞332台
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 group-title="港澳台",Now直播331台
+http://livetv.dnsfor.me:80/channel.3.m3u8
+#EXTINF:-1 group-title="港澳台",Now Sports Prime
+http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:-1 group-title="港澳台",东森新闻
+http://50.7.61.147:30080/Entry/etnews
+#EXTINF:-1 group-title="港澳台",HBO
+http://50.7.61.148:30080/Entry/hbo
+#EXTINF:-1 group-title="港澳台",纬来日本
+http://50.7.61.147:30080/Entry/vljp
+#EXTINF:-1 group-title="港澳台",台视
+http://50.7.61.148:30080/Entry/ttv
+#EXTINF:-1 group-title="港澳台",TVBS
+http://50.7.61.148:30080/Entry/tvbs
+#EXTINF:-1 group-title="港澳台",民视新闻
+http://50.7.61.148:30080/Entry/ftvnews
+#EXTINF:-1 group-title="港澳台",中视
+http://50.7.61.148:30080/Entry/ctv
+#EXTINF:-1 group-title="港澳台",TVBS新闻
+http://50.7.61.148:30080/Entry/tvbsnews
+#EXTINF:-1 group-title="港澳台",非凡商业
+http://50.7.61.147:30080/Entry/ubnbus
+#EXTINF:-1 group-title="港澳台",TLC
+http://50.7.61.147:30080/Entry/tlc
+#EXTINF:-1 group-title="港澳台",JET综合
+http://50.7.61.147:30080/Entry/jet
+#EXTINF:-1 group-title="港澳台",民视
+http://50.7.61.147:30080/Entry/ftv
+#EXTINF:-1 group-title="港澳台",华视CTS
+http://50.7.61.147:30080/Entry/cts
+#EXTINF:-1 group-title="港澳台",壹新闻 HD
+http://50.7.61.147:30080/Entry/etv
+#EXTINF:-1 group-title="港澳台",SET三立台湾
+http://50.7.61.148:30080/Entry/settw-
+#EXTINF:-1 group-title="港澳台",卫视中文
+http://50.7.61.148:30080/Entry/starchinese
+#EXTINF:-1 group-title="港澳台",AXN
+http://50.7.61.148:30080/Entry/axn
+#EXTINF:-1 group-title="港澳台",寰宇新闻台
+http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳台",亚洲旅游台
+http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
+
 
 
 
