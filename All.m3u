@@ -49,7 +49,45 @@ http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&acce
 #EXTINF:-1 ,CCTV5+HD
 http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 #EXTINF:-1 ,CCTV5+HD
-http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8#EXTINF:-1 group-title="卫视",安徽卫视 FHD
+http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+
+
+#EXTINF:-1 ,台视新闻
+
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+
+#EXTINF:-1 ,民视
+
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 ,民视第一 HD
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 ,民视新闻 HD
+http://seb.sason.top/sc/msxw_fhd.m3u8
+#EXTINF:-1 ,民视台湾 HD
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 ,民视影剧
+http://seb.sason.top/ptv/ftv.php?id=yj
+#EXTINF:-1 ,民视综艺
+http://seb.sason.top/ptv/ftv.php?id=zy
+#EXTINF:-1 ,民视旅游
+http://seb.sason.top/ptv/ftv.php?id=ly
+#EXTINF:-1 ,中天新闻 HD
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 ,东森新闻 HD
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 ,东森财经新闻 HD
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 ,三立iNews
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 ,三立Live新闻
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 ,三立台湾
+https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,三立都会
+https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 group-title="卫视",安徽卫视 FHD
 http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226746/index.m3u8
 #EXTINF:-1 group-title="卫视",安徽卫视 FHD
 http://39.135.129.164/PLTV/88888888/224/3221226447/1.m3u8
