@@ -38,9 +38,18 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
 
 
+#EXTINF:-1 ,CCTV5+HD
 
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 
-#EXTINF:-1 group-title="卫视",安徽卫视 FHD
+#EXTINF:-1 ,CCTV5+HD
+http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1 ,CCTV5+HD
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000246
+#EXTINF:-1 ,CCTV5+HD
+http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+#EXTINF:-1 ,CCTV5+HD
+http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8#EXTINF:-1 group-title="卫视",安徽卫视 FHD
 http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226746/index.m3u8
 #EXTINF:-1 group-title="卫视",安徽卫视 FHD
 http://39.135.129.164/PLTV/88888888/224/3221226447/1.m3u8
