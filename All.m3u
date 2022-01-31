@@ -450,7 +450,7 @@ https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
 https://cdn87.theus6tv.tk/locals/NewYorkCity/wnyw-dt1.m3u8
 #EXTINF:-1 tvg-id="WNYW.us" tvg-name="FOX 5 New York NY (WNYW)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OfGcsUO.png" group-title="Local",FOX 5 New York NY (WNYW) (720p)
 
-https://lnc-wnyw-fox-aws.tubi.video/index.m3u8
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
 #EXTINF:-1 tvg-id="WENT" tvg-name="WENT" tvg-country="US" tvg-language="English" tvg-logo="https://image.pbs.org/stations/wpbs-color-cobranded-logo-zDCkBAn.png" group-title="General",PBS New York NY (WENT) (1080p) [Geo-blocked]
 https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
 #EXTINF:-1 tvg-id="WPBS.us" tvg-name="WPBS-DT1" tvg-country="US" tvg-language="English" tvg-logo="https://image.pbs.org/stations/wpbs-color-cobranded-logo-zDCkBAn.png" group-title="General",PBS Watertown (WPBS) (1080p) [Geo-blocked]
