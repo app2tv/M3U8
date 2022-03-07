@@ -3,8 +3,20 @@
 
 
 
+
+
+
+
 #EXTINF:0 tvg-name="WCBS" group-title="Home",﻿WCBS-HD
-http://192.168.4.130:5004/auto/v2.1?transcode=internet480
+http://192.168.1.181:5004/auto/v2.1?transcode=internet480
+
+
+
+
+
+
+
+
 
 
 
@@ -14,7 +26,15 @@ http://192.168.4.130:5004/auto/v2.1?transcode=internet480
 
 
 #EXTINF:0 tvg-name="WCBS" group-title="Home",STAR TV
-http://192.168.4.130:5004/auto/v2.2?transcode=mobile&duration=120
+http://192.168.1.181:5004/auto/v2.2?transcode=mobile&duration=120
+
+
+
+
+
+
+
+
 
 
 
@@ -24,7 +44,15 @@ http://192.168.4.130:5004/auto/v2.2?transcode=mobile&duration=120
 
 
 #EXTINF:0 tvg-name="WNBC" group-title="Home",WNBC
-http://192.168.4.130:5004/auto/v4.1?transcode=internet480
+http://192.168.1.181:5004/auto/v4.1?transcode=internet480
+
+
+
+
+
+
+
+
 
 
 
@@ -34,7 +62,15 @@ http://192.168.4.130:5004/auto/v4.1?transcode=internet480
 
 
 #EXTINF:0 tvg-name="COZI" group-title="Home",COZI-TV
-http://192.168.4.130:5004/auto/v4.2
+http://192.168.1.181:5004/auto/v4.2
+
+
+
+
+
+
+
+
 
 
 
@@ -44,7 +80,15 @@ http://192.168.4.130:5004/auto/v4.2
 
 
 #EXTINF:0 tvg-name="WNBC" group-title="Home",WNBC
-http://192.168.4.130:5004/auto/v4.3
+http://192.168.1.181:5004/auto/v4.3
+
+
+
+
+
+
+
+
 
 
 
@@ -54,7 +98,15 @@ http://192.168.4.130:5004/auto/v4.3
 
 
 #EXTINF:0 tvg-name="COZI" group-title="Home",COZI-TV
-http://192.168.4.130:5004/auto/v4.4
+http://192.168.1.181:5004/auto/v4.4
+
+
+
+
+
+
+
+
 
 
 
@@ -64,7 +116,15 @@ http://192.168.4.130:5004/auto/v4.4
 
 
 #EXTINF:0 tvg-name="WNYW" group-title="Home",WNYW
-http://192.168.4.130:5004/auto/v5.1
+http://192.168.1.181:5004/auto/v5.1
+
+
+
+
+
+
+
+
 
 
 
@@ -74,23 +134,47 @@ http://192.168.4.130:5004/auto/v5.1
 
 
 #EXTINF:0 tvg-name="Movies" group-title="Home",Movies!
-http://192.168.4.130:5004/auto/v5.2
+http://192.168.1.181:5004/auto/v5.2
+
+
+
+
 
 
 
 
 #EXTINF:0 tvg-name="Light" group-title="Home",LIGHT
-http://192.168.4.130:5004/auto/v5.4
+http://192.168.1.181:5004/auto/v5.4
+
+
+
+
 
 
 
 
 #EXTINF:0 tvg-name="WWOR" group-title="Home",WWOR-TV
-http://192.168.4.130:5004/auto/v9.1
+http://192.168.1.181:5004/auto/v9.1
 #EXTINF:0 tvg-name="Buzzr" group-title="Home",Buzzr
-http://192.168.4.130:5004/auto/v9.3
+http://192.168.1.181:5004/auto/v9.3
 #EXTINF:0 tvg-name="Heroes" group-title="Home",Heroes
-http://192.168.4.130:5004/auto/v9.4
+http://192.168.1.181:5004/auto/v9.4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -108,39 +192,55 @@ http://192.168.4.130:5004/auto/v9.4
 
 
 #EXTINF:0 tvg-name="W20CQ-D" group-title="Home",W20CQ-D
-http://192.168.4.130:5004/auto/v20.1
+http://192.168.1.181:5004/auto/v20.1
 #EXTINF:0 tvg-name="W20CQ-D" group-title="Home",W20CQ-D
-http://192.168.4.130:5004/auto/v20.2
+http://192.168.1.181:5004/auto/v20.2
         
 #EXTINF:0 tvg-name="WLIW" group-title="Home",WLIW-HD
-http://192.168.4.130:5004/auto/v21.1
+http://192.168.1.181:5004/auto/v21.1
         
 #EXTINF:0 tvg-name="Create" group-title="Home",Create
-http://192.168.4.130:5004/auto/v21.2
+http://192.168.1.181:5004/auto/v21.2
 #EXTINF:0 tvg-name="World" group-title="Home",World
-http://192.168.4.130:5004/auto/v21.3
+http://192.168.1.181:5004/auto/v21.3
 #EXTINF:0 tvg-name="AllArts" group-title="Home",AllArts
-http://192.168.4.130:5004/auto/v21.4
+http://192.168.1.181:5004/auto/v21.4
 #EXTINF:0 tvg-name="ION" group-title="Home",ION
-http://192.168.4.130:5004/auto/v31.1
+http://192.168.1.181:5004/auto/v31.1
         
 #EXTINF:0 tvg-name="qubo" group-title="Home",qubo
-http://192.168.4.130:5004/auto/v31.2
+http://192.168.1.181:5004/auto/v31.2
         
 #EXTINF:0 tvg-name="IONLife" group-title="Home",IONLife
-http://192.168.4.130:5004/auto/v31.3
+http://192.168.1.181:5004/auto/v31.3
 #EXTINF:0 tvg-name="Shop" group-title="Home",Shop
-http://192.168.4.130:5004/auto/v31.4
+http://192.168.1.181:5004/auto/v31.4
 #EXTINF:0 tvg-name="QVC" group-title="Home",QVC
-http://192.168.4.130:5004/auto/v31.5
+http://192.168.1.181:5004/auto/v31.5
 #EXTINF:0 tvg-name="HSN" group-title="Home",HSN
-http://192.168.4.130:5004/auto/v31.6
+http://192.168.1.181:5004/auto/v31.6
 #EXTINF:0 tvg-name="WXTV" group-title="Home",WXTV-DT
-http://192.168.4.130:5004/auto/v41.1
+http://192.168.1.181:5004/auto/v41.1
 #EXTINF:0 tvg-name="Bounce" group-title="Home",Bounce
-http://192.168.4.130:5004/auto/v41.2
+http://192.168.1.181:5004/auto/v41.2
 #EXTINF:0 tvg-name="WNJU" group-title="Home",WNJU-HD
-http://192.168.4.130:5004/auto/v47.1
+http://192.168.1.181:5004/auto/v47.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -158,30 +258,38 @@ http://192.168.4.130:5004/auto/v47.1
 
 
 #EXTINF:0 tvg-name="Telex" group-title="Home",TeleX
-http://192.168.4.130:5004/auto/v47.2
+http://192.168.1.181:5004/auto/v47.2
 #EXTINF:0 tvg-name="WRNN" group-title="Home",WRNN-HD
-http://192.168.4.130:5004/auto/v48.1
+http://192.168.1.181:5004/auto/v48.1
 #EXTINF:0 tvg-name="Stadium" group-title="Home",Stadium
-http://192.168.4.130:5004/auto/v48.2
+http://192.168.1.181:5004/auto/v48.2
         
 #EXTINF:0 tvg-name="Arirang" group-title="Home",Arirang
-http://192.168.4.130:5004/auto/v48.3
+http://192.168.1.181:5004/auto/v48.3
 #EXTINF:0 tvg-name="WLNY" group-title="Home",WLNY-DT
-http://192.168.4.130:5004/auto/v55.1
+http://192.168.1.181:5004/auto/v55.1
 #EXTINF:0 tvg-name="COMET" group-title="Home",COMET
-http://192.168.4.130:5004/auto/v55.2
+http://192.168.1.181:5004/auto/v55.2
 #EXTINF:0 tvg-name="STADIUM" group-title="Home",STADIUM
-http://192.168.4.130:5004/auto/v55.3
+http://192.168.1.181:5004/auto/v55.3
 #EXTINF:0 tvg-name="WMBC" group-title="Home",WMBC-HD
-http://192.168.4.130:5004/auto/v63.1
+http://192.168.1.181:5004/auto/v63.1
 #EXTINF:0 tvg-name="QUEST" group-title="Home",QUEST
-http://192.168.4.130:5004/auto/v63.2
+http://192.168.1.181:5004/auto/v63.2
 #EXTINF:0 tvg-name="SinoVSN" group-title="Home",SinoVSN
-http://192.168.4.130:5004/auto/v63.3
+http://192.168.1.181:5004/auto/v63.3
 #EXTINF:0 tvg-name="NTDTV" group-title="Home",NTDTV
-http://192.168.4.130:5004/auto/v63.5
+http://192.168.1.181:5004/auto/v63.5
 #EXTINF:0 tvg-name="Aliento" group-title="Home",Aliento
-http://192.168.4.130:5004/auto/v63.7
+http://192.168.1.181:5004/auto/v63.7
+
+
+
+
+
+
+
+
 
 
 
@@ -191,7 +299,15 @@ http://192.168.4.130:5004/auto/v63.7
 
 
 #EXTINF:0 tvg-name="WDNJ" group-title="Home",WDNJ
-http://192.168.4.130:5004/auto/v63.8
+http://192.168.1.181:5004/auto/v63.8
+
+
+
+
+
+
+
+
 
 
 
@@ -201,7 +317,23 @@ http://192.168.4.130:5004/auto/v63.8
 
 
 #EXTINF:0 tvg-name="KCBN" group-title="Home",KCBN
-http://192.168.4.130:5004/auto/v63.9
+http://192.168.1.181:5004/auto/v63.9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -219,15 +351,19 @@ http://192.168.4.130:5004/auto/v63.9
 
 
 #EXTINF:0 tvg-name="WWGB" group-title="Home",WWGB
-http://192.168.4.130:5004/auto/v63.11
+http://192.168.1.181:5004/auto/v63.11
 #EXTINF:0 tvg-name="WBTK" group-title="Home",WBTK
-http://192.168.4.130:5004/auto/v63.12
+http://192.168.1.181:5004/auto/v63.12
 #EXTINF:0 tvg-name="WFUT-DC" group-title="Home",WFUT-DT
-http://192.168.4.130:5004/auto/v68.1
+http://192.168.1.181:5004/auto/v68.1
 #EXTINF:0 tvg-name="Justice" group-title="Home",Justice
-http://192.168.4.130:5004/auto/v68.2
+http://192.168.1.181:5004/auto/v68.2
 #EXTINF:0 tvg-name="GetTV" group-title="Home",GetTV
-http://192.168.4.130:5004/auto/v68.3
+http://192.168.1.181:5004/auto/v68.3
+
+
+
+
 
 
 
