@@ -116,7 +116,7 @@ http://192.168.1.181:5004/auto/v4.4
 
 
 #EXTINF:0 tvg-name="WNYW" group-title="Home",WNYW
-http://192.168.1.181:5004/auto/v5.1
+http://192.168.1.181:5004/auto/v5.1?videocodec=h264
 
 
 
