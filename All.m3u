@@ -478,7 +478,7 @@ https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/9xsosXt.png",New York: CBS News
 http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="Sports",ESPN
-http://38.91.57.12:2082/espn/playlist.m3u8
+http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="Sports",ESPN (360p)
 http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="Sports",ESPN (720p)
