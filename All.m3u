@@ -481,11 +481,11 @@ https://v-ny.mybtv.net/live/568.m3u8
 https://v-ny.mybtv.net/live/569.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="WLIWDT1.us" tvg-name="PBS" tvg-logo="https://dv2oc5tyj18yr.cloudfront.net/wp-content/plugins/wnet-schedule/libs/images/Schedule-WLIW-logo-2X.png" group-title="Local_NY",WLIW-DT (PBS)
 https://v-ny.mybtv.net/live/575.m3u8
-#EXTINF:-1 tvg-chno="71" tvg-id="WLIWDT2.us" tvg-name="PBS Create" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s48990_dark_360w_270h.png" group-title="",Create
+#EXTINF:-1 tvg-chno="71" tvg-id="WLIWDT2.us" tvg-name="PBS Create" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s48990_dark_360w_270h.png" group-title="Local_NY",Create
 https://v-ny.mybtv.net/live/576.m3u8
-#EXTINF:-1 tvg-chno="72" tvg-id="WLIWDT3.us" tvg-name="PBS World" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56725_dark_360w_270h.png" group-title="",World
+#EXTINF:-1 tvg-chno="72" tvg-id="WLIWDT3.us" tvg-name="PBS World" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56725_dark_360w_270h.png" group-title="Local_NY",World
 https://v-ny.mybtv.net/live/577.m3u8
-#EXTINF:-1 tvg-chno="73" tvg-id="WLIWDT4.us" tvg-name="All Arts" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s55296_dark_360w_270h.png" group-title="",All Arts
+#EXTINF:-1 tvg-chno="73" tvg-id="WLIWDT4.us" tvg-name="All Arts" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s55296_dark_360w_270h.png" group-title="Local_NY",All Arts
 https://v-ny.mybtv.net/live/578.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="WNYEDT1.us" tvg-name="NYC Life" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26196_dark_360w_270h.png" group-title="Local_NY",WNYE-TV (NYC Life)
 https://v-ny.mybtv.net/live/591.m3u8
