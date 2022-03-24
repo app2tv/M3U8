@@ -1,4 +1,6 @@
-Group tile="movie"
+#EXTM3U
+
+Group-title="movie"
 
 #EXTINF:-1 tvg-id="" tvg-name="Cheaper By The Dozen (2022)" tvg-logo="https://image.tmdb.org/t/p/original//qNRsouZh5zmhaE3n4QpLDXzy1gQ.jpg" group-title=" New Movies",Cheaper By The Dozen
 http://khulnaplex.net/Data/movies/hollywood/2022/Cheaper%20By%20The%20Dozen%20%282022%29/Cheaper.By.The.Dozen.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
