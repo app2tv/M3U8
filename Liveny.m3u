@@ -61,3 +61,29 @@ https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/wlny.tv1055.riverhead.ny.us.m3u8
 #EXTINF:-1 tvg-chno="68" tvg-id="WFUTDT1.us" tvg-name="UniMás" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/WFUT-DT_%282021%29.png" group-title="Local",WFUT-DT (UniMás)
 https://v-ny.mybtv.net/live/713.m3u8
+
+
+#EXTINF:-1 tvg-id="KCBSDT1.us" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" group-title="Local",KCBS-DT (CBS)
+https://v-la.mybtv.net/live/161.m3u8
+#EXTINF:-1 tvg-id="KNBCDT1.us" tvg-name="NBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28717_dark_360w_270h.png" group-title="Local",KNBC-DT (NBC)
+https://v-la.mybtv.net/live/82.m3u8
+#EXTINF:-1 tvg-id="KTLADT1.us" tvg-name="KTLA5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10724_dark_360w_270h.png" group-title="Local",KTLA5
+https://v-la.mybtv.net/live/164.m3u8
+#EXTINF:-1 tvg-id="KABCDT1.us" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="Local",KABC-TV (ABC)
+https://v-la.mybtv.net/live/88.m3u8
+#EXTINF:-1 tvg-id="KCALDT1.us" tvg-name="KCAL9" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10362_dark_360w_270h.png" group-title="Local",KCAL9
+https://v-la.mybtv.net/live/259.m3u8
+#EXTINF:-1 tvg-id="KTTVDT1.us" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Local",KTTV-DT (FOX)
+https://v-la.mybtv.net/live/166.m3u8
+#EXTINF:-1 tvg-id="KCOPDT1.us" tvg-name="myNetworkTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s51307_dark_360w_270h.png" group-title="Local",KCOP13
+https://v-la.mybtv.net/live/270.m3u8
+#EXTINF:-1 tvg-id="KWHYDT1.us" tvg-name="Milenio" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10820_dark_360w_270h.png" group-title="Local",KWHY-TV
+https://v-la.mybtv.net/live/298.m3u8
+#EXTINF:-1 tvg-id="KMEXDT1.us" tvg-name="Univision" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="Local",KMEX-DT (Univision)
+https://v-la.mybtv.net/live/178.m3u8
+#EXTINF:-1 tvg-id="KFTRDT1.us" tvg-name="UniMás" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="Local",KFTR-DT (UniMás)
+https://v-la.mybtv.net/live/299.m3u8
+#EXTINF:-1 tvg-id="KVEADT1.us" tvg-name="Telemundo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="Local",KVEA-DT (Telemundo)
+https://v-la.mybtv.net/live/267.m3u8
+#EXTINF:-1 tvg-id="KAZADT1.us" tvg-name="MeTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70436_dark_360w_270h.png" group-title="Local",KAZA-TV (MeTV)
+https://v-la.mybtv.net/live/268.m3u8
