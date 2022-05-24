@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="2" tvg-id="WCBSDT1.us" tvg-name="WCBS-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/500px-CBS_2.svg.png" group-title="Local",WCBS-TV (CBS)
+#EXTINF:-1 tvg-chno="2" tvg-id="WCBSDT1.us" tvg-name="WCBS-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/500px-CBS_2.svg.png" group-title="Local",WCBS (CBS)
 https://v-ny.mybtv.net/live/545.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="WCBSDT1.us" tvg-name="WCBS-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/500px-CBS_2.svg.png" group-title="Local",WCBS-TV (CBS)
+#EXTINF:-1 tvg-chno="2" tvg-id="WCBSDT1.us" tvg-name="WCBS-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/500px-CBS_2.svg.png" group-title="Local",WCBS (CBS)
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cbs.wcbs.new.york.ny.us.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="WNBCDT1.us" tvg-name="WNBC-DT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/500px-WNBC_4_NY.svg.png" group-title="Local",WNBC-DT (NBC)
+#EXTINF:-1 tvg-chno="4" tvg-id="WNBCDT1.us" tvg-name="WNBC-DT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/500px-WNBC_4_NY.svg.png" group-title="Local",WNBC (NBC)
 https://v-ny.mybtv.net/live/548.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="WNBCDT1.us" tvg-name="WNBC-DT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/500px-WNBC_4_NY.svg.png" group-title="Local",WNBC-DT (NBC)
+#EXTINF:-1 tvg-chno="4" tvg-id="WNBCDT1.us" tvg-name="WNBC-DT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/500px-WNBC_4_NY.svg.png" group-title="Local",WNBC (NBC)
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nbc.wnbc.new.york.ny.us.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="WNYWDT1.us" tvg-name="WNYW-DT" tvg-logo="https://arkina1234.github.io/tv-logos/local/fox5.png" group-title="Local",WNYW-DT (FOX)
 https://v-ny.mybtv.net/live/550.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="WNYWDT1.us" tvg-name="WNYW-DT" tvg-logo="https://arkina1234.github.io/tv-logos/local/fox5.png" group-title="Local",WNYW-DT (FOX)
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fox.kttv.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="WABCDT1.us" tvg-name="WABC-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/500px-WABC_TV_New_2021.svg.png" group-title="Local",WABC-TV (ABC)
+#EXTINF:-1 tvg-chno="7" tvg-id="WABCDT1.us" tvg-name="WABC-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/500px-WABC_TV_New_2021.svg.png" group-title="Local",WABC (ABC)
 https://v-ny.mybtv.net/live/554.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="WABCDT1.us" tvg-name="WABC-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/500px-WABC_TV_New_2021.svg.png" group-title="Local",WABC-TV (ABC)
+#EXTINF:-1 tvg-chno="7" tvg-id="WABCDT1.us" tvg-name="WABC-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/500px-WABC_TV_New_2021.svg.png" group-title="Local",WABC (ABC)
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/abc.wabc.new.york.ny.us.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="WWORDT1.us" tvg-name="WWOR-TV" tvg-logo="https://arkina1234.github.io/tv-logos/local/my9.png" group-title="Local",WWOR-TV (my9)
 https://v-ny.mybtv.net/live/559.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="WPIXDT1.us" tvg-name="WPIX-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11779_dark_360w_270h.png" group-title="Local",WPIX-TV (PIX11)
+#EXTINF:-1 tvg-chno="11" tvg-id="WPIXDT1.us" tvg-name="WPIX-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11779_dark_360w_270h.png" group-title="Local",WPIX (PIX11)
 https://v-ny.mybtv.net/live/562.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="WPIXDT1.us" tvg-name="WPIX-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11779_dark_360w_270h.png" group-title="Local",WPIX-TV (PIX11)
+#EXTINF:-1 tvg-chno="11" tvg-id="WPIXDT1.us" tvg-name="WPIX-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11779_dark_360w_270h.png" group-title="Local",WPIX (PIX11)
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/wpix.new.york.superstation.us.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="WNETDT1.us" tvg-name="PBS Thirteen" tvg-logo="https://dv2oc5tyj18yr.cloudfront.net/wp-content/plugins/wnet-schedule/libs/images/Schedule-WNET-logo-2X.png" group-title="Local",WNET (Thirteen)
 https://v-ny.mybtv.net/live/567.m3u8
@@ -43,15 +43,15 @@ https://v-ny.mybtv.net/live/591.m3u8
 https://v-ny.mybtv.net/live/592.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="WNYEDT3.us" tvg-name="CUNY TV" tvg-logo="" group-title="",CUNY TV
 https://v-ny.mybtv.net/live/593.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-id="WPXNDT1.us" tvg-name="WPXN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Local",WPXN-TV (Ion)
+#EXTINF:-1 tvg-chno="31" tvg-id="WPXNDT1.us" tvg-name="WPXN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Local",WPXN (Ion)
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/ion.central.us.m3u8
-#EXTINF:-1 tvg-chno="33" tvg-id="WJLPDT1.us" tvg-name="WJLP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70436_dark_360w_270h.png" group-title="Local",WJLP-DT (MeTV)
+#EXTINF:-1 tvg-chno="33" tvg-id="WJLPDT1.us" tvg-name="WJLP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70436_dark_360w_270h.png" group-title="Local",WJLP (MeTV)
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/metv.wjlp.new.jerseynew.york.us.m3u8
-#EXTINF:-1 tvg-chno="41" tvg-id="WXTVDT1.us" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="Local",WXTV-DT (Univision)
+#EXTINF:-1 tvg-chno="41" tvg-id="WXTVDT1.us" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="Local",WXTV (Univision)
 https://v-ny.mybtv.net/live/643.m3u8
-#EXTINF:-1 tvg-chno="42" tvg-id="WKOBLD1.us" tvg-name="Azteca America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s33652_dark_360w_270h.png" group-title="Local",WKOB-LD (Azteca America)
+#EXTINF:-1 tvg-chno="42" tvg-id="WKOBLD1.us" tvg-name="Azteca America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s33652_dark_360w_270h.png" group-title="Local",WKOB (Azteca America)
 https://v-ny.mybtv.net/live/645.m3u8
-#EXTINF:-1 tvg-chno="47" tvg-id="WNJUDT1.us" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="Local",WNJU-DT (Telemundo)
+#EXTINF:-1 tvg-chno="47" tvg-id="WNJUDT1.us" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="Local",WNJU (Telemundo)
 https://v-ny.mybtv.net/live/659.m3u8
 #EXTINF:-1 tvg-chno="50" tvg-id="WNJNDT1.us" tvg-name="WNJN" tvg-logo="https://image.pbs.org/stations/wnjt-color-cobranded-logo-3RDiOdA.png" group-title="Local",NJ PBS
 https://v-pi.mybtv.net/live/359.m3u8
