@@ -5,7 +5,7 @@ https://v-ny.mybtv.net/live/545.m3u8
 https://v-ny.mybtv.net/live/548.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="FoxEast.us" tvg-name="WNYW-DT" tvg-logo="https://arkina1234.github.io/tv-logos/local/fox5.png" group-title="Local",WNYW-DT (FOX)
 https://v-ny.mybtv.net/live/550.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="ABCEast.us" tvg-name="WABC-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/500px-WABC_TV_New_2021.svg.png" group-title="Local",WABC (ABC)
+#EXTINF:-1 tvg-chno="7" tvg-id="WABCDT1.us" tvg-name="WABC-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/500px-WABC_TV_New_2021.svg.png" group-title="Local",WABC (ABC)
 https://v-ny.mybtv.net/live/554.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="WWORDT1.us" tvg-name="WWOR-TV" tvg-logo="https://arkina1234.github.io/tv-logos/local/my9.png" group-title="Local",WWOR-TV (my9)
 https://v-ny.mybtv.net/live/559.m3u8
