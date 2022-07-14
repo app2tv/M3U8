@@ -14,7 +14,7 @@ http://39.134.67.226/PLTV/88888888/224/3221225799/index.m3u8
 http://111.20.33.91/PLTV/88888893/224/3221226223/index.m3u8?icpid=88888893&from=1&hms_devid=844,824
 
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="🇨🇳央视频道",CCTV5
-http://39.135.55.105:6610/PLTV/88888888/224/3221227170/index.m3u8?servicetype=1
+http://39.134.67.226/PLTV/88888888/224/3221225818/index.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="🇨🇳央视频道",CCTV5+
 http://39.135.55.105:6610/PLTV/88888888/224/3221225821/index.m3u8?servicetype=1
