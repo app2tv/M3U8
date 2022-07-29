@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us-local/tvtv.us.epg.xml"
+#EXTM3U 
+url-tvg="https://iptv-org.github.io/epg/guides/us-local/tvtv.us.epg.xml"
 #EXTINF:-1 tvg-chno="2" tvg-id="WCBSDT1.us" tvg-name="WCBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/500px-CBS_2.svg.png" group-title="Local",CBS East (CBS)
 https://v-ny.mybtv.net/live/545.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="WNBCDT1.us" tvg-name="WNBC-DT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/500px-WNBC_4_NY.svg.png" group-title="Local",WNBC (NBC)
