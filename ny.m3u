@@ -47,7 +47,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 #EXTINF:-1 tvg-chno="68" tvg-id="WFUTDT1.us" tvg-name="UniMás" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/WFUT-DT_%282021%29.png" group-title="Local_NY",WFUT-DT (UniMás)
 https://v-ny.mybtv.net/live/713.m3u8
-#EXTINF:-1 tvg-id="TBSEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/320px-TBS_Network-logo.svg.png" group-title="General",TBS East [Geo-blocked] 
+#EXTINF:-1 tvg-id="TBSEastDT1.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/320px-TBS_Network-logo.svg.png" group-title="General",TBS East [Geo-blocked] 
 https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8 
 #EXTINF:-1 tvg-id="TBSWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/320px-TBS_Network-logo.svg.png" group-title="General",TBS West [Geo-blocked] 
 https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8 
