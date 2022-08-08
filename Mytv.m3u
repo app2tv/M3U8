@@ -149,6 +149,8 @@ http://192.168.1.181:5004/auto/v5.4
 
 
 
+#EXTINF:0 tvg-name="WABC" group-title="Home",﻿WABC-HD
+http://192.168.1.181:5004/auto/v7.1
 
 
 
