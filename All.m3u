@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="🛰️卫视高清",江苏卫视
 http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
 
@@ -162,33 +161,6 @@ http://183.207.248.71:80/cntv/live1/n-jinyingkaton/n-jinyingkaton
 
 #EXTINF:-1 tvg-id="71" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="动漫卡通",优漫卡通
 http://183.207.248.71:80/cntv/live1/n-youmankaton/n-youmankaton
-
-#EXTINF:-1 tvg-id="884" tvg-logo="https://gitee.com/frankwuzp/iptv/raw/master/tvg-logo/4K.png" group-title="高清4K",纯享4K
-http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
-
-#EXTINF:-1 tvg-id="885" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="高清4K",爱上4K
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
-
-#EXTINF:-1 tvg-id="887" tvg-name="" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="高清4K",LOVE NATURE 4K
-http://iptv.tvfix.org/hls/lovenature4k.m3u8
-
-#EXTINF:-1 tvg-id="888" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="CHC影院",CHC高清电影
-http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="889" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="CHC影院",CHC家庭电影
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-
-#EXTINF:-1 tvg-id="880" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="CHC影院",CHC动作电影
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-
-#EXTINF:-1 tvg-id="881" tvg-logo="" group-title="CHC影院",CHC解压喜剧
-http://bp-caster.bestv.com.cn/570/1/video.m3u8
-
-#EXTINF:-1 tvg-id="882" tvg-logo="" group-title="CHC影院",精彩电影
-http://39.134.19.244:6610/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="883" tvg-logo="" group-title="CHC影院",精彩综艺
-http://111.20.41.242/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/1.m3u8
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
