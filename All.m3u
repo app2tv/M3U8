@@ -99,51 +99,6 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
 #EXTINF:-1 tvg-id="917" group-title="NewTV未来电视" tvg-logo="https://gitee.com/frankwuzp/iptv/raw/master/tvg-logo/hmdh.png",NewTV黑莓动画
 http://111.40.196.9/PLTV/88888888/224/3221225628/index.m3u8
 
-#EXTINF:-1 tvg-id="705" group-title="MIGU电影轮播" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU·PP体育
-http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
-
-#EXTINF:-1 tvg-id="705" group-title="MIGU电影轮播" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU文艺娱乐
-http://117.148.179.134/PLTV/88888888/224/3221231570/index.m3u8
-
-#EXTINF:-1 tvg-id="706" group-title="MIGU电影轮播" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU周星驰影院
-http://117.148.179.134/PLTV/88888888/224/3221231562/index.m3u8
-
-#EXTINF:-1 tvg-id="707" group-title="MIGU电影轮播" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU云上电影
-http://117.148.179.134/PLTV/88888888/224/3221231565/index.m3u8
-
-#EXTINF:-1 tvg-id="708" group-title="MIGU电影轮播" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU高分影院
-http://117.148.179.134/PLTV/88888888/224/3221231699/index.m3u8
-
-#EXTINF:-1 tvg-id="709" group-title="MIGU电影轮播" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU新片放映厅
-http://117.148.179.134/PLTV/88888888/224/3221231640/index.m3u8
-
-#EXTINF:-1 tvg-id="710" group-title="MIGU电影轮播" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU喜剧联盟
-http://117.148.179.134/PLTV/88888888/224/3221231621/index.m3u8
-
-#EXTINF:-1 tvg-id="711" group-title="MIGU电影轮播" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU军旅剧场
-http://117.148.179.134/PLTV/88888888/224/3221231585/index.m3u8
-
-#EXTINF:-1 tvg-id="712" group-title="MIGU电影轮播" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU每日科幻电影
-http://117.148.179.134/PLTV/88888888/224/3221231568/index.m3u8
-
-#EXTINF:-1 tvg-id="713" group-title="MIGU电影轮播" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU4K剧场
-http://117.148.179.134/PLTV/88888888/224/3221231624/index.m3u8
-
-#EXTINF:-1 tvg-id="714" group-title="MIGU电影轮播" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU怀旧老片
-http://117.148.179.134/PLTV/88888888/224/3221231513/index.m3u8
-
-#EXTINF:-1 tvg-id="715" group-title="MIGU电影轮播" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU吴京作品集
-http://117.148.179.134/PLTV/88888888/224/3221231564/index.m3u8
-
-#EXTINF:-1 tvg-id="716" group-title="MIGU电影轮播" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU葛优作品集
-http://117.148.179.134/PLTV/88888888/224/3221231754/index.m3u8
-
-#EXTINF:-1 tvg-id="717" group-title="MIGU电影轮播" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU高能烧脑时刻
-http://117.148.179.134/PLTV/88888888/224/3221231504/index.m3u8
-
-#EXTINF:-1 tvg-id="718" group-title="MIGU电影轮播" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU TVB剧场
-http://117.148.179.134/PLTV/88888888/224/3221231733/index.m3u8
-
 #EXTINF:-1 tvg-id="700" tvg-id="700" group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",爱奇艺-五星影院
 http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
 
