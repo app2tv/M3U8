@@ -351,7 +351,7 @@ http://encodercdn1.frontline.ca/vantrix/ltv/Bell_ABCHB_AtopItci_2015_01_12_HD/hl
 #EXTINF:-1 tvg-id="WIVB-TV.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="Local",CBS Buffalo NY (WIVB-TV1) (720p)
 http://encodercdn1.frontline.ca/vantrix/ltv/Bell_CBSHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
 #EXTINF:-1 tvg-ID="NBA.US" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="USA",NBA Network
-https://16live00.akamaized.net/NBA_TV/index.m3u8
+http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/chunks.m3u8
 #EXTINF:-1 tvg-ID="NFL.US" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="Sports",NFL Network
 https://16live00.akamaized.net/NFL_NETWORK/index.m3u8
 
