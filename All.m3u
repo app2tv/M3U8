@@ -2,40 +2,6 @@
 
 
 
-#EXTINF:-1 tvg-id="19" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="🇨🇳央视频道",CCTV4K
-#http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-http://open.live-web.timetv.cn/live03/cctv4k.m3u8
-
-#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="🇨🇳央视频道",CCTV怀旧剧场
-http://117.148.179.158/TVOD/88888888/224/3221231544/index.m3u8
-
-#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="🇨🇳央视频道",CCTV第一剧场
-http://117.148.179.172/TVOD/88888888/224/3221231540/index.m3u8
-
-#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="🇨🇳央视频道",CCTV风云剧场
-http://117.148.179.162/TVOD/88888888/224/3221231604/index.m3u8
-
-#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="🇨🇳央视频道",CCTV风云足球
-http://117.148.179.137/TVOD/88888888/224/3221231547/index.m3u8
-
-#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="🇨🇳央视频道",CCTV世界地理
-http://117.148.179.156/TVOD/88888888/224/3221231537/index.m3u8
-
-#EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="🇨🇳央视频道",CCTV央视精品
-http://117.148.179.147/TVOD/88888888/224/3221231561/index.m3u8
-
-#EXTINF:-1 tvg-id="73" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="教育台",中国教育1台
-http://117.148.179.156/TVOD/88888888/224/3221231714/index.m3u8
-
-#EXTINF:-1 tvg-id="74" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="教育台",中国教育2台
-http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
-
-#EXTINF:-1 tvg-id="75" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="教育台",中国教育3台
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="76" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="教育台",中国教育4台
-http://117.148.179.155/PLTV/88888888/224/3221231613/index.m3u8
-
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="🛰️卫视高清",江苏卫视
 http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
 
