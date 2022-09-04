@@ -135,8 +135,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3
 
 #EXTINF:-1 tvg-id="WENT" tvg-name="WENT" tvg-country="US" tvg-language="English" tvg-logo="https://image.pbs.org/stations/wpbs-color-cobranded-logo-zDCkBAn.png" group-title="US",PBS New York NY (WENT) (1080p) [Geo-blocked]
 https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
-#EXTINF:-1 tvg-id="Bounce.us" tvg-name="Bounce" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YoiQKeG.png" group-title="US",Bounce (720p)
-https://bozztv.com/teleyupp/teleup-bounce/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Charge.us" tvg-name="Charge!" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fuw0hHE.png" group-title="US",Charge! (720p)
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-id="WNYE.us" group-title="US" tvg-name="NYCTV Life (WNYE)" tvg-country="US" tvg-language="English" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26196/s26196_h3_aa.png" ,NYCTV Life (WNYE) (1080p)
