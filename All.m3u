@@ -115,14 +115,8 @@ https://v-ny.mybtv.net/live/713.m3u8
 
 #EXTINF:-1 tvg-id="WABCTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="Local;News",ABC News New York NY (WABC-TV) (720p)
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
-#EXTINF:-1 tvg-id="WKBW-TV.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/abc-logo-2013-butterscotch-us.png" group-title="Local",ABC Buffalo NY (WKBW-TV1) (720p)
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_ABCHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
-#EXTINF:-1 tvg-id="WIVB-TV.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="Local",CBS Buffalo NY (WIVB-TV1) (720p)
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_CBSHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
 #EXTINF:-1 tvg-ID="NBA.US" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="USA",NBA Network
 http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/chunks.m3u8
-#EXTINF:-1 tvg-ID="NFL.US" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="Sports",NFL Network
-https://16live00.akamaized.net/NFL_NETWORK/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="USA LOCAL",CNN
@@ -131,24 +125,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/9xsosXt.png",New York: CBS News
 http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="Sports",ESPN
-https://16live00.akamaized.net/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="Sports",ESPN (360p)
-https://16live00.akamaized.net/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="Sports",ESPN (720p)
-https://16live00.akamaized.net/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CTgGetu.png" group-title="Sports",ESPN 2 (360p)
-https://16live00.akamaized.net/ESPN2/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CTgGetu.png" group-title="Sports",ESPN 2 (720p)
-http://stream2.grandma.fit/espn2.m3u8
-#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC 7 New York NY (WABC-TV)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/99K3yyn.png" group-title="Local",ABC 7 New York NY (WABC-TV) (720p)
-https://cdn87.theus6tv.tk/locals/NewYorkCity/wabc-dt1.m3u8
-#EXTINF:-1 tvg-id="WNBC.us", NBC
-http://encodercdn1.frontline.ca/encoder182/output/MSNBC_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="WCBS.us", CBS
-https://cdn87.theus6tv.tk/locals/NewYorkCity/wcbs-dt1.m3u8
-#EXTINF:-1 tvg-id="WNBC.us" ,NBC New York (WNBC-DT1) (720p)
-http://38.91.57.12:2082/nbc/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/320px-TBS_Network-logo.svg.png" group-title="General",TBS East [Geo-blocked]
 https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TBSWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/320px-TBS_Network-logo.svg.png" group-title="General",TBS West [Geo-blocked]
@@ -195,16 +172,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1, FOX HD
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="HBO Signature" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="",HBO Signature
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="HBO Signature" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="",HBO Signature (1080p)
-https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 
 #EXTINF:-1 tvg-id="IonPlus.us" tvg-name="Ion Plus" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/d449jnv.png" group-title="Family",Ion Plus (1080p)
 https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
