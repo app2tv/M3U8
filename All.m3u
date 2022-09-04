@@ -23,8 +23,7 @@ https://api.leonardpark.dev/live/icable/109
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 group-title="HongKong",HKC有线直播新闻台
 https://api.leonardpark.dev/live/icable/110
-#EXTINF:-1 group-title="HongKong",Now直播331台
-https://api.leonardpark.dev/live/now/331
+
 
 #EXTINF:-1 group-title="HongKong",Now新聞332台
 http://livetv.dnsfor.me:80/channel.4.m3u8
