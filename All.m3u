@@ -48,11 +48,7 @@ http://111.229.84.232/yulin/tvb.php?id=1
 #EXTINF:-1 group-title="HongKong", 無綫財經資訊台
 http://111.229.84.232/yulin/tvb.php?id=2
 
-http://iptv.tvfix.org/hls/jade.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HongKong",J2台
-http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HongKong",J2台ᴴᴰ
-https://cdn.hkdtmb.com/hls/82/index.m3u8
+
 
 
 
