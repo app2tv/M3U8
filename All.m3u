@@ -101,8 +101,7 @@ https://v-ny.mybtv.net/live/659.m3u8
 https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 #EXTINF:-1 tvg-chno="76" tvg-id="NHKWorldJapan.jp" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59155_dark_360w_270h.png" group-title="US",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-chno="58" tvg-id="WNJBDT1.us" tvg-name="WNJB" tvg-logo="https://image.pbs.org/stations/wnjt-color-cobranded-logo-3RDiOdA.png" group-title="US",NJ PBS
-https://v-pi.mybtv.net/live/359.m3u8
+
 #EXTINF:-1 tvg-chno="68" tvg-id="WFUTDT1.us" tvg-name="UniMás" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/WFUT-DT_%282021%29.png" group-title="US",WFUT-DT (UniMás)
 https://v-ny.mybtv.net/live/713.m3u8
 
