@@ -33,7 +33,7 @@ http://livetv.dnsfor.me:80/channel.3.m3u8
 http://livetv.dnsfor.me/channel.12.m3u8
 
 
-#EXTINF:-1 group-title="港澳台",TVBS
+#EXTINF:-1 group-title="TW",TVBS
 http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
 
 #EXTINF:-1 group-title="HongKong" tvg-name="HongKong开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png",HongKong开电视
