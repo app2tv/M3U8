@@ -10,8 +10,6 @@ http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 
-#EXTINF:-1 tvg-id="143" group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
-http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 
 
 
@@ -27,10 +25,7 @@ https://api.leonardpark.dev/live/icable/108
 https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1 group-title="港澳台",Now直播331台
 https://api.leonardpark.dev/live/now/331
-#EXTINF:-1 group-title="港澳台",无线新闻
-http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",TVBL
-https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
+
 #EXTINF:-1 group-title="港澳台",Now新聞332台
 http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 group-title="港澳台",Now直播331台
