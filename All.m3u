@@ -67,7 +67,7 @@ https://v-ny.mybtv.net/live/545.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-id="WNBCDT1.us" tvg-name="WNBC-DT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/500px-WNBC_4_NY.svg.png" group-title="US",WNBC-DT (NBC)
 https://v-ny.mybtv.net/live/548.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-id="WNYWDT1.us" tvg-name="WNYW-DT" tvg-logo="https://arkina1234.github.io/tv-logos/local/fox5.png" group-title="Local_NY",WNYW-DT (FOX)
+#EXTINF:-1 tvg-chno="5" tvg-id="WNYWDT1.us" tvg-name="WNYW-DT" tvg-logo="https://arkina1234.github.io/tv-logos/local/fox5.png" group-title="US",WNYW-DT (FOX)
 https://v-ny.mybtv.net/live/550.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="WABCDT1.us" tvg-name="WABC-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/500px-WABC_TV_New_2021.svg.png" group-title="US",WABC-TV (ABC)
 https://v-ny.mybtv.net/live/554.m3u8
@@ -79,7 +79,7 @@ https://v-ny.mybtv.net/live/562.m3u8
 https://v-ny.mybtv.net/live/567.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-id="WNETDT2.us" tvg-name="PBS Kids" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101364_dark_360w_270h.png" group-title="US",PBS Kids
 https://v-ny.mybtv.net/live/568.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="WNDTCD1.us" tvg-name="WNDT-CD" tvg-logo="https://fnx.org/watch/wp-content/themes/fnx/img/logo.png" group-title="Local_NY",FNX
+#EXTINF:-1 tvg-chno="14" tvg-id="WNDTCD1.us" tvg-name="WNDT-CD" tvg-logo="https://fnx.org/watch/wp-content/themes/fnx/img/logo.png" group-title="US",FNX
 https://v-ny.mybtv.net/live/569.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="WLIWDT1.us" tvg-name="PBS" tvg-logo="https://dv2oc5tyj18yr.cloudfront.net/wp-content/plugins/wnet-schedule/libs/images/Schedule-WLIW-logo-2X.png" group-title="US",WLIW-DT (PBS)
 https://v-ny.mybtv.net/live/575.m3u8
@@ -91,9 +91,9 @@ https://v-ny.mybtv.net/live/577.m3u8
 https://v-ny.mybtv.net/live/578.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="WNYEDT1.us" tvg-name="NYC Life" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26196_dark_360w_270h.png" group-title="US",WNYE-TV (NYC Life)
 https://v-ny.mybtv.net/live/591.m3u8
-#EXTINF:-1 tvg-chno="74" tvg-id="WNYEDT2.us" tvg-name="NYC Gov" tvg-logo="" group-title="",NYC Gov
+#EXTINF:-1 tvg-chno="74" tvg-id="WNYEDT2.us" tvg-name="NYC Gov" tvg-logo="" group-title="US",NYC Gov
 https://v-ny.mybtv.net/live/592.m3u8
-#EXTINF:-1 tvg-chno="75" tvg-id="WNYEDT3.us" tvg-name="CUNY TV" tvg-logo="" group-title="",CUNY TV
+#EXTINF:-1 tvg-chno="75" tvg-id="WNYEDT3.us" tvg-name="CUNY TV" tvg-logo="" group-title="US",CUNY TV
 https://v-ny.mybtv.net/live/593.m3u8
 #EXTINF:-1 tvg-chno="41" tvg-id="WXTVDT1.us" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="US",WXTV-DT (Univision)
 https://v-ny.mybtv.net/live/643.m3u8
@@ -107,7 +107,7 @@ https://v-ny.mybtv.net/live/659.m3u8
 https://v-pi.mybtv.net/live/359.m3u8
 #EXTINF:-1 tvg-chno="76" tvg-id="NHKWorldJapan.jp" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59155_dark_360w_270h.png" group-title="US",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-chno="58" tvg-id="WNJBDT1.us" tvg-name="WNJB" tvg-logo="https://image.pbs.org/stations/wnjt-color-cobranded-logo-3RDiOdA.png" group-title="Local_NY",NJ PBS
+#EXTINF:-1 tvg-chno="58" tvg-id="WNJBDT1.us" tvg-name="WNJB" tvg-logo="https://image.pbs.org/stations/wnjt-color-cobranded-logo-3RDiOdA.png" group-title="US",NJ PBS
 https://v-pi.mybtv.net/live/359.m3u8
 #EXTINF:-1 tvg-chno="68" tvg-id="WFUTDT1.us" tvg-name="UniMás" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/WFUT-DT_%282021%29.png" group-title="US",WFUT-DT (UniMás)
 https://v-ny.mybtv.net/live/713.m3u8
