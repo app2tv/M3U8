@@ -13,59 +13,6 @@ http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="143" group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
 http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 
-#EXTINF:-1 tvg-id="150" group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png",新视觉
-http://iptv.tvfix.org/hls/xsjhd.m3u8
-
-#EXTINF:-1 tvg-id="151" group-title="中国" tvg-logo="https://www.hualigs.cn/image/6153d999eb3a6.jpg",北京IPTV淘电影
-http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
-
-
-#EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png" tvg-id="304", CBS News
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a6b92f6e22a617379789618&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=204&terminate=false&userId=
-
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/6TmWzvk.jpg" tvg-id="305", CBC News
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" tvg-id="306", NBC News
-#https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
-http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" tvg-id="307", BBC News
-http://ott-cdn.ucom.am/s24/index.m3u8
-
-#EXTINF:-1 tvg-id="200" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 全国风景总览
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-
-#EXTINF:-1 tvg-id="201" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 宁夏-大漠
-https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8?contentid=2820180516001
-
-
-#EXTINF:-1 group-title="港澳台",民视第一 HD
-http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 group-title="港澳台",民视新闻 HD
-http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:-1 group-title="港澳台",民视台湾 HD
-http://seb.sason.top/ptv/ftv.php?id=tw
-#EXTINF:-1 group-title="港澳台",民视影剧
-http://seb.sason.top/ptv/ftv.php?id=yj
-#EXTINF:-1 group-title="港澳台",民视综艺
-http://seb.sason.top/ptv/ftv.php?id=zy
-#EXTINF:-1 group-title="港澳台",民视旅游
-http://seb.sason.top/ptv/ftv.php?id=ly
-#EXTINF:-1 group-title="港澳台",中天新闻 HD
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 group-title="港澳台",东森新闻 HD
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 group-title="港澳台",东森财经新闻 HD
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 group-title="港澳台",三立iNews
-http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 group-title="港澳台",三立Live新闻
-http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 group-title="港澳台",三立台湾
-https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="港澳台",三立都会
-https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 
 
 
@@ -92,52 +39,10 @@ http://livetv.dnsfor.me:80/channel.3.m3u8
 http://livetv.dnsfor.me/channel.12.m3u8
 #EXTINF:-1 group-title="港澳台",东森新闻
 http://50.7.61.147:30080/Entry/etnews
-#EXTINF:-1 group-title="港澳台",HBO
-http://50.7.61.148:30080/Entry/hbo
-#EXTINF:-1 group-title="港澳台",纬来日本
-http://50.7.61.147:30080/Entry/vljp
-#EXTINF:-1 group-title="港澳台",台视
-http://50.7.61.148:30080/Entry/ttv
+
 #EXTINF:-1 group-title="港澳台",TVBS
-http://50.7.61.148:30080/Entry/tvbs
-#EXTINF:-1 group-title="港澳台",民视新闻
-http://50.7.61.148:30080/Entry/ftvnews
-#EXTINF:-1 group-title="港澳台",中视
-http://50.7.61.148:30080/Entry/ctv
-#EXTINF:-1 group-title="港澳台",TVBS新闻
-http://50.7.61.148:30080/Entry/tvbsnews
-#EXTINF:-1 group-title="港澳台",非凡商业
-http://50.7.61.147:30080/Entry/ubnbus
-#EXTINF:-1 group-title="港澳台",TLC
-http://50.7.61.147:30080/Entry/tlc
-#EXTINF:-1 group-title="港澳台",JET综合
-http://50.7.61.147:30080/Entry/jet
-#EXTINF:-1 group-title="港澳台",民视
-http://50.7.61.147:30080/Entry/ftv
-#EXTINF:-1 group-title="港澳台",华视CTS
-http://50.7.61.147:30080/Entry/cts
-#EXTINF:-1 group-title="港澳台",壹新闻 HD
-http://50.7.61.147:30080/Entry/etv
-#EXTINF:-1 group-title="港澳台",SET三立台湾
-http://50.7.61.148:30080/Entry/settw-
-#EXTINF:-1 group-title="港澳台",卫视中文
-http://50.7.61.148:30080/Entry/starchinese
-#EXTINF:-1 group-title="港澳台",AXN
-http://50.7.61.148:30080/Entry/axn
-#EXTINF:-1 group-title="港澳台",寰宇新闻台
-http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳台",亚洲旅游台
-http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
+http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
 
-
-
-#EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" tvg-name="ViuTV" group-title="HongKong",ViuTV
-http://61.238.6.49:8000/bysid/99
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="HongKong",ViuTV
-http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-
-#EXTINF:-1 group-title="HongKong" tvg-name="TVBXingHe" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png",TVB Xing He 星河
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 group-title="HongKong" tvg-name="HongKong开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png",HongKong开电视
 http://livetv.dnsfor.me:80/channel.9.m3u8
 #EXTINF:-1 group-title="HongKong" tvg-name="RHK31",RHK31
