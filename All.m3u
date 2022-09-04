@@ -98,7 +98,7 @@ https://v-ny.mybtv.net/live/658.m3u8
 #EXTINF:-1 tvg-chno="47" tvg-id="WNJUDT1.us" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="US",WNJU-DT (Telemundo)
 https://v-ny.mybtv.net/live/659.m3u8
 #EXTINF:-1 tvg-chno="50" tvg-id="WNJNDT1.us" tvg-name="WNJN" tvg-logo="https://image.pbs.org/stations/wnjt-color-cobranded-logo-3RDiOdA.png" group-title="US",NJ PBS
-https://v-pi.mybtv.net/live/359.m3u8
+https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 #EXTINF:-1 tvg-chno="76" tvg-id="NHKWorldJapan.jp" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59155_dark_360w_270h.png" group-title="US",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-id="WNJBDT1.us" tvg-name="WNJB" tvg-logo="https://image.pbs.org/stations/wnjt-color-cobranded-logo-3RDiOdA.png" group-title="US",NJ PBS
