@@ -19,16 +19,6 @@ http://iptv.tvfix.org/hls/xsjhd.m3u8
 #EXTINF:-1 tvg-id="151" group-title="中国" tvg-logo="https://www.hualigs.cn/image/6153d999eb3a6.jpg",北京IPTV淘电影
 http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 
-#EXTINF:-1 tvg-id="300" group-title="日本" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png", NHK 综合
-http://iptv.tvfix.org/hls/nhkg.m3u8
-#EXTINF:-1 tvg-id="301" group-title="日本"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png", NHK 教育
-http://iptv.tvfix.org/hls/nhke.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" tvg-id="302", ABC News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649836459/ei/Sy1WYrrMBtWylu8Pzqyu-AU/ip/20.225.145.20/id/w_Ma8oQLmSM.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCwFWtBhQtbMFp0hRanAbbuQE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMDHlIcJOGApD68v6ajHoeq_zOnWQWffnz3DN-5zWD3sAiEAwevMzRN7bnaZKSftt1UZfHdJspBBDfIBodKVWZ1xeuI%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" tvg-id="303", Euronews
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png" tvg-id="304", CBS News
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a6b92f6e22a617379789618&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=204&terminate=false&userId=
@@ -155,9 +145,9 @@ http://livetv.dnsfor.me:80/channel.1.m3u8
 #EXTINF:-1 group-title="HongKong" tvg-name="RHK32",RHK32
 http://livetv.dnsfor.me:80/channel.2.m3u8
 #EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="HongKong", 無綫新聞台
-http://livetv.dnsfor.me:80/channel.10.m3u8
+http://111.229.84.232/yulin/tvb.php?id=1
 #EXTINF:-1 group-title="HongKong", 無綫財經資訊台
-http://livetv.dnsfor.me:80/channel.11.m3u8
+http://111.229.84.232/yulin/tvb.php?id=2
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HongKong",翡翠台ᴴᴰ
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HongKong",翡翠台
