@@ -32,8 +32,7 @@ http://livetv.dnsfor.me:80/channel.4.m3u8
 http://livetv.dnsfor.me:80/channel.3.m3u8
 #EXTINF:-1 group-title="港澳台",Now Sports Prime
 http://livetv.dnsfor.me/channel.12.m3u8
-#EXTINF:-1 group-title="港澳台",东森新闻
-http://50.7.61.147:30080/Entry/etnews
+
 
 #EXTINF:-1 group-title="港澳台",TVBS
 http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
@@ -48,11 +47,6 @@ http://livetv.dnsfor.me:80/channel.2.m3u8
 http://111.229.84.232/yulin/tvb.php?id=1
 #EXTINF:-1 group-title="HongKong", 無綫財經資訊台
 http://111.229.84.232/yulin/tvb.php?id=2
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HongKong",翡翠台ᴴᴰ
-https://cdn.hkdtmb.com/hls/81/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HongKong",翡翠台
-http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HongKong",翡翠台
 
 http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HongKong",J2台
@@ -60,10 +54,7 @@ http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HongKong",J2台ᴴᴰ
 https://cdn.hkdtmb.com/hls/82/index.m3u8
 
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HongKong",明珠台
-http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://www.hkdtmb.com/png_logo/84b.png" group-title="HongKong",明珠台(粤)
-https://cdn.hkdtmb.com/hls/84b/index.m3u8
+
 
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" group-title="HongKong",有线新闻台
 http://hkyx.love.sky-media.tk/test/index.php?id=37
@@ -72,8 +63,6 @@ http://hkyx.love.sky-media.tk/test/index.php?id=39
 #EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png" group-title="HongKong",有线财经资讯台
 http://hkyx.love.sky-media.tk/test/index.php?id=38
 
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳",翡翠(anywhere North America) 
-https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
 
 #EXTINF:-1 tvg-chno="2" tvg-id="WCBSDT1.us" tvg-name="WCBS-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/500px-CBS_2.svg.png" group-title="Local_NY",WCBS-TV (CBS)
