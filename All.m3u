@@ -320,6 +320,14 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/espn.u.us.m3
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/espn.news.us.m3u8
 
 
+#EXTINF:-1 tvg-chno="187" tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="Sports",MLB Network
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/mlb.network.us.m3u8
+#EXTINF:-1 tvg-chno="188" tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="Sports",NBA TV
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nba.tv.usa.us.m3u8
+#EXTINF:-1 tvg-chno="189" tvg-id="NFLNETWORK.us" tvg-name="NFL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s34710_dark_360w_270h.png" group-title="Sports",NFL Network
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nfl.network.us.m3u8
+#EXTINF:-1 tvg-chno="190" tvg-id="NHLNetwork.us" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="Sports",NHL Network
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nhl.network.usa.us.m3u8
 
 
 
