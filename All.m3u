@@ -309,9 +309,8 @@ http://111.229.84.232/yulin/tvb.php?id=2
 
 
 
-
-
-
+#EXTINF:-1 tvg-chno="178" tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Sports",ESPN
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/espn.us.m3u8
 
 
 
