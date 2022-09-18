@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U 
+
 #EXTINF:-1 tvg-chno="151" tvg-id="FoxNewsChannel.us" tvg-name="FOX News Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="News",FOX News Channel
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fox.news.us.m3u8
 #EXTINF:-1 tvg-chno="152" tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="News",CNN
