@@ -312,6 +312,12 @@ http://111.229.84.232/yulin/tvb.php?id=2
 #EXTINF:-1 tvg-chno="178" tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Sports",ESPN
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/espn.us.m3u8
 
+#EXTINF:-1 tvg-chno="179" tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Sports",ESPN 2
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/espn2.us.m3u8
+#EXTINF:-1 tvg-chno="180" tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="Sports",ESPN U
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/espn.u.us.m3u8
+#EXTINF:-1 tvg-chno="181" tvg-id="ESPNEWS.us" tvg-name="ESPNEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="Sports",ESPNEWS
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/espn.news.us.m3u8
 
 
 
