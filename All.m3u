@@ -396,6 +396,20 @@ https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.n
 https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.family.zone.eastern.us.m3u8
 
 
+#EXTINF:-1 tvg-chno="288" tvg-id="ShowtimeEast.us" tvg-name="Showtime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11115_dark_360w_270h.png" group-title="Movies",Showtime
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.eastern.us.m3u8
+#EXTINF:-1 tvg-chno="289" tvg-id="Showtime2East.us" tvg-name="Showtime 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11116_dark_360w_270h.png" group-title="Movies",Showtime 2
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.2.eastern.us.m3u8
+#EXTINF:-1 tvg-chno="290" tvg-id="ShoxBetEast.us" tvg-name="SHOXBET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s20622_dark_360w_270h.png" group-title="Movies",SHOXBET
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/shoxbet.eastern.us.m3u8
+#EXTINF:-1 tvg-chno="291" tvg-id="ShowtimeExtremeEast.us" tvg-name="Showtime Extreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="Movies",Showtime Extreme
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.extreme.eastern.us.m3u8
+#EXTINF:-1 tvg-chno="292" tvg-id="ShowtimeShowcaseEast.us" tvg-name="Showtime Showcase" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16153_dark_360w_270h.png" group-title="Movies",Showtime Showcase
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.showcase.eastern.us.m3u8
+#EXTINF:-1 tvg-chno="293" tvg-id="ShowtimeNextEast.us" tvg-name="Showtime Next" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25270_dark_360w_270h.png" group-title="Movies",Showtime Next
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.next.eastern.us.m3u8
+#EXTINF:-1 tvg-chno="294" tvg-id="ShowtimeFamilyZoneEast.us" tvg-name="Showtime Family Zone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25274_dark_360w_270h.png" group-title="Movies",Showtime Family Zone
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.family.zone.eastern.us.m3u8
 
 
 
