@@ -290,7 +290,8 @@ http://livetv.dnsfor.me/channel.12.m3u8
 
 
 
-
+#EXTINF:-1 group-title="HongKong" tvg-logo="https://iptv-pro.github.io/logo/TVB%20Xing%20He.png",TVB Xing He
+http://104.238.221.63:9138/stream/live/c20114.m3u8
 #EXTINF:-1 group-title="TW",TVBS
 http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
 
