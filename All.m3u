@@ -311,7 +311,7 @@ http://111.229.84.232/yulin/tvb.php?id=2
 http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 
 #EXTINF:-1 tvg-id="126" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港", 翡翠台 (簡/英字幕)
-https://cdn.hkdtmb.com/hls/81b/index.m3u8
+https://cdn.hkdtmb.com/hls/tv-81b/index.m3u8
 
 #EXTINF:-1 tvg-id="416" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="香港", J2
 http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
@@ -326,7 +326,7 @@ http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 
 #EXTINF:-1 tvg-id="127" tvg-logo="https://static.epg.best/hk/TVBPearl.hk.png" group-title="香港", 明珠台 (粵語聲道)
-https://cdn.hkdtmb.com/hls/84b/index.m3u8
+https://cdn.hkdtmb.com/hls/tv-84b/index.m3u8
 
 #EXTINF:-1 tvg-id="133" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-finance.jpg" group-title="香港", 無綫財經·資訊台
 http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
