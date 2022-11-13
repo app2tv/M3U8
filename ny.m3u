@@ -61,6 +61,10 @@ https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_
 
 https://v-la.mybtv.net/live/161.m3u8
 
+#EXTINF:-1 tvg-chno="162" tvg-id="KPIX.us" tvg-name="KPIX-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_5.svg/500px-CBS_5.svg.png" group-title="Local_CA",KPIX-TV (CBS)
+
+https://v-ca.mybtv.net/live/162.m3u8
+
 #EXTINF:-1 tvg-id="WeatherNation.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" group-title=" ☁ | Weather",Weathernation
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
 #EXTINF:-1 tvg-id="AccuWeather.us" tvg-logo="https://i.imgur.com/6ZJlCUG.png" group-title=" ☁ | Weather",AccuWeather Now
