@@ -2,7 +2,20 @@
 
 
 
-
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVwenyi.png" group-title="北京",北京文艺
+http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
+#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVkejiao.png" group-title="北京",北京科教
+http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappkejiao.m3u8
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVyingshi.png" group-title="北京",北京影视
+http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
+#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVcaijing.png" group-title="北京",北京财经
+http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
+#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVshenghuo.png" group-title="北京",北京生活
+http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
+#EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVqingnian.png" group-title="北京",北京青年
+http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappqingnian.m3u8
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVNews.png" group-title="北京",北京新闻
+http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8
 
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png",CCTV-1 综合
 http://ott.mobaibox.com/PLTV/3/224/3221227375/index.m3u8
