@@ -595,9 +595,9 @@ https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moviemax.us.m
 #EXTINF:-1 tvg-chno="272" tvg-id="OuterMaxEast.us" tvg-name="OuterMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25622_dark_360w_270h.png" group-title="Movies",OuterMAX
 https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/outermax.eastern.us.m3u8
 #EXTINF:-1 tvg-chno="273" tvg-id="StarzEast.us" tvg-name="Starz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="Movies",Starz
-https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/starz.eastern.us.m3u8
+https://tvnow.best/api/stream/alex_079@hotmail.com/975248/livetv.epg/starz.eastern.us.m3u8
 #EXTINF:-1 tvg-chno="274" tvg-id="StarzEdgeEast.us" tvg-name="Starz Edge" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16311_dark_360w_270h.png" group-title="Movies",Starz Edge
-https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/starz.edge.eastern.us.m3u8
+https://tvnow.best/api/stream/alex_079@hotmail.com/975248/livetv.epg/starz.edge.eastern.us.m3u8
 #EXTINF:-1 tvg-chno="275" tvg-id="StarzCinemaEast.us" tvg-name="Starz Cinema" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19634_dark_360w_270h.png" group-title="Movies",Starz Cinema
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/starz.cinema.eastern.us.m3u8
 #EXTINF:-1 tvg-chno="276" tvg-id="StarzInBlackEast.us" tvg-name="Starz in Black" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16833_dark_360w_270h.png" group-title="Movies",Starz in Black
