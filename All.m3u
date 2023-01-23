@@ -78,9 +78,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221228320/index.m3u8
 #EXTINF:-1 tvg-id="cctv17" tvg-logo="cctv17.png",CCTV-17 农业农村
 http://ott.mobaibox.com/PLTV/3/224/3221227578/index.m3u8
 
-#EXTINF:-1 tvg-id="anhui" tvg-logo="anhui.png",安徽卫视
-http:
-
 #EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/hunanweishi.png" group-title="卫视",湖南卫视
 http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/zhejiangweishi.png" group-title="卫视",浙江卫视
