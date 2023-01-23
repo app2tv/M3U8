@@ -1,6 +1,13 @@
 ﻿#EXTM3U ﻿url-logos="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/" x-tvg-url="https://iptv-org.github.io/epg/guides/us.xml,http://epg.51zmt.top:8000/e.xml.gz, https://epg.hkanime.com.hk, https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml,https://raw.githubusercontent.com/frankwuzp/iptv-cn/main/guide.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/hk-zh/nowplayer.now.com.epg.xml.gz"
 
 
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="" group-title="广东",广东珠江台
+http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdzj
+#EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="" group-title="广东",广东新闻台
+http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdxw
+#EXTINF:-1 tvg-id="" tvg-name="东方影视" tvg-logo="" group-title="广东",东方影视台
+http://lu1.cc/c/tv/sjtv/sh/bst5g.php?id=dfys
+
 
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVwenyi.png" group-title="北京",北京文艺
 http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
