@@ -428,7 +428,7 @@ http://113.64.147.168:808/hls/135/index.m3u8
 http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 
 #EXTINF:-1 tvg-id="127" tvg-logo="https://static.epg.best/hk/TVBPearl.hk.png" group-title="香港", Pearl
-http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+http://r.jdshipin.com/ZQ4kN
 
 #EXTINF:-1 tvg-id="127" tvg-logo="https://static.epg.best/hk/TVBPearl.hk.png" group-title="香港", 明珠台 (粵語聲道)
 https://cdn.hkdtmb.com/hls/tv-84b/index.m3u8
