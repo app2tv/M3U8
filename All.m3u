@@ -429,7 +429,7 @@ http://r.jdshipin.com/qClQf
 http://r.jdshipin.com/Nr5jq
 
 #EXTINF:-1 tvg-id="XHP.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_xing_he_channel.png" group-title="香港", TVB 星河頻道
-http://113.64.147.168:808/hls/135/index.m3u8
+http://jydx.jdshipin.com:8081/hls/135/index.m3u8
 
 #EXTINF:-1 tvg-id="130" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="香港", 無綫新聞台
 http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
