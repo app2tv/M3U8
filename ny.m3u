@@ -1,5 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us.xml" m3u autoload=1 cache=500 deinterlace=1 tvg-shift=0
-#EXTINF:-1 tvg-chno="12" tvg-id="News12LongIsland.us" tvg-name="News12 Long Island" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Cable",News12 Long Island
+
+#EXTINF:-1 tvg-chno="12" tvg-id="News12LongIsland.us" tvg-name="News12 Long Island" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Local_NY",News12 Long Island
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/news.12.long.island.us.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="WCBSDT1.us" tvg-name="WCBS-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/500px-CBS_2.svg.png" group-title="Local_NY",WCBS-TV (CBS)
 https://v-ny.mybtv.net/live/545.m3u8
