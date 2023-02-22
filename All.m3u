@@ -5,8 +5,8 @@
 http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdzj
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="" group-title="广东",广东新闻台
 http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdxw
-#EXTINF:-1 tvg-id="" tvg-name="东方影视" tvg-logo="" group-title="广东",东方影视台
-http://lu1.cc/c/tv/sjtv/sh/bst5g.php?id=dfys
+#EXTINF:-1 tvg-id="" tvg-name="广州" tvg-logo="" group-title="广东",广州台
+http://iptv.cooltv.top/tv/guangzhou.php?id=gzzh
 
 
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVwenyi.png" group-title="北京",北京文艺
