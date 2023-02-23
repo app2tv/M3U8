@@ -1,8 +1,9 @@
 ﻿#EXTM3U ﻿url-logos="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/" x-tvg-url="https://iptv-org.github.io/epg/guides/us.xml,http://epg.51zmt.top:8000/e.xml.gz, https://epg.hkanime.com.hk, https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml,https://raw.githubusercontent.com/frankwuzp/iptv-cn/main/guide.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/hk-zh/nowplayer.now.com.epg.xml.gz &next days=7"
 
 
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="" group-title="广东",广东珠江台
-http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdzj
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="广东",广东珠江
+http://iptva.cn/api/M3u8/Index?id=998&card=99982475359
+
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="" group-title="广东",广东新闻台
 http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdxw
 #EXTINF:-1 tvg-id="" tvg-name="广州" tvg-logo="" group-title="广东",广州台
