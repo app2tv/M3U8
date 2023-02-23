@@ -28,41 +28,43 @@ http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8
 
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="央视",CCTV1
-https://live.v1.mk/api/ghyx.php?id=CCTV1HD_6000
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="央视",CCTV2
-https://live.v1.mk/api/ghyx.php?id=CCTV2HD_6000
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="央视",CCTV3
-https://live.v1.mk/api/ghyx.php?id=CCTV3HD_6000
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="央视",CCTV4
-https://live.v1.mk/api/ghyx.php?id=CCTV4HD_6000
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="央视",CCTV5
-https://live.v1.mk/api/ghyx.php?id=CCTV5HD_6000
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="央视",CCTV5+
-https://live.v1.mk/api/ghyx.php?id=CCTV5plusHD_6000
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="央视",CCTV6
-https://live.v1.mk/api/ghyx.php?id=CCTV6HD_6000
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="央视",CCTV7
-https://live.v1.mk/api/ghyx.php?id=CCTV7HD_6000
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="央视",CCTV8
-https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="央视",CCTV9
-https://live.v1.mk/api/ghyx.php?id=CCTV9HD_6000
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="央视",CCTV10
-https://live.v1.mk/api/ghyx.php?id=CCTV10HD_6000
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="央视",CCTV11
-https://live.v1.mk/api/ghyx.php?id=CCTV11HD_2000
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="央视",CCTV12
-https://live.v1.mk/api/ghyx.php?id=CCTV12HD_6000
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="央视",CCTV13
-https://live.v1.mk/api/ghyx.php?id=CCTV13HD_2000
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="央视",CCTV14
-https://live.v1.mk/api/ghyx.php?id=CCTV14HD_6000
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png" group-title="央视",CCTV15
-https://live.v1.mk/api/ghyx.php?id=CCTV15HD_6000
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv16.png" group-title="央视",CCTV16
-https://live.v1.mk/api/ghyx.php?id=CCTV16HD_6000
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="央视",CCTV17
-https://live.v1.mk/api/ghyx.php?id=CCTV17HD_6000
+https#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
+http://iptva.cn/api/M3u8/Index?id=597&card=99982475359
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
+http://iptva.cn/api/M3u8/Index?id=598&card=99982475359
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
+http://iptva.cn/api/M3u8/Index?id=599&card=99982475359
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
+http://iptva.cn/api/M3u8/Index?id=600&card=99982475359
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5
+http://iptva.cn/api/M3u8/Index?id=601&card=99982475359
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+
+http://iptva.cn/api/M3u8/Index?id=602&card=99982475359
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6
+http://iptva.cn/api/M3u8/Index?id=603&card=99982475359
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7
+http://iptva.cn/api/M3u8/Index?id=604&card=99982475359
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV8
+http://iptva.cn/api/M3u8/Index?id=605&card=99982475359
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV9
+http://iptva.cn/api/M3u8/Index?id=606&card=99982475359
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV10
+http://iptva.cn/api/M3u8/Index?id=607&card=99982475359
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV11
+http://iptva.cn/api/M3u8/Index?id=608&card=99982475359
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV12
+http://iptva.cn/api/M3u8/Index?id=609&card=99982475359
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13
+http://iptva.cn/api/M3u8/Index?id=610&card=99982475359
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14
+http://iptva.cn/api/M3u8/Index?id=611&card=99982475359
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15
+http://iptva.cn/api/M3u8/Index?id=612&card=99982475359
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
+http://iptva.cn/api/M3u8/Index?id=613&card=99982475359
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
+http://iptva.cn/api/M3u8/Index?id=614&card=99982475359
+
 
 
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
