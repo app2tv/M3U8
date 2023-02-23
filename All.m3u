@@ -4,8 +4,9 @@
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="广东",广东珠江
 http://iptva.cn/api/M3u8/Index?id=998&card=99982475359
 
-#EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="" group-title="广东",广东新闻台
-http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdxw
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="广东",广东新闻
+http://iptva.cn/api/M3u8/Index?id=995&card=99982475359
+
 #EXTINF:-1 tvg-id="" tvg-name="广州" tvg-logo="" group-title="广东",广州台
 http://iptv.cooltv.top/tv/guangzhou.php?id=gzzh
 
