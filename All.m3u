@@ -224,7 +224,7 @@ http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻
 http://23.237.10.66:16110
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻
-http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669
+http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="港澳台",有线新闻
 http://livetv.dnsfor.me:80/channel.5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="港澳台",RTHK32
@@ -364,7 +364,7 @@ http://r.jdshipin.com/Nr5jq
 http://jydx.jdshipin.com:8081/hls/135/index.m3u8
 
 #EXTINF:-1 tvg-id="130" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="香港", 無綫新聞台
-http://iptv.cooltv.top/tv/tvb.php?id=0
+http://live.cooltv.top/tv/tvb.php?id=0
 
 #EXTINF:-1 tvg-id="127" tvg-logo="https://static.epg.best/hk/TVBPearl.hk.png" group-title="香港", Pearl
 http://r.jdshipin.com/ZQ4kN
