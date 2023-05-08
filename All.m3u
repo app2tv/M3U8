@@ -730,13 +730,13 @@ http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&c
 
 
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江
-https://live.v1.mk/api/itouch.php?id=1183
+http://live.cooltv.top/tv/gd.php?id=gdzj
 #EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="广东",广东新闻
-https://live.v1.mk/api/itouch.php?id=1186
+http://live.cooltv.top/tv/gd.php?id=gdxw
 #EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" group-title="广东",广东民生
 https://live.v1.mk/api/itouch.php?id=1185
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
-https://live.v1.mk/api/itouch.php?id=1182
+http://live.cooltv.top/tv/gd.php?id=gdws
 #EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
 https://live.v1.mk/api/itouch.php?id=1197
 #EXTINF:-1,tvg-id="广东4K超高清" tvg-name="广东4K超高清" tvg-logo="https://epg.112114.xyz/logo/广东4K.png" group-title="广东",广东4K超高清
