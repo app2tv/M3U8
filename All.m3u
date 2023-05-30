@@ -1237,7 +1237,7 @@ https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.fami
 #EXTINF:-1 tvg-chno="2" tvg-id="WCBSDT.us" tvg-name="WCBS-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/500px-CBS_2.svg.png" group-title="US",WCBS-TV (CBS)
 
 
-https://v-ny.mybtv.net/live/545.m3u8
+http://192.168.1.181:5004/auto/v2.1?transcode=mobile
 
 
 #EXTINF:-1 tvg-chno="4" tvg-id="WNBCDT.us" tvg-name="WNBC-DT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/500px-WNBC_4_NY.svg.png" group-title="US",WNBC-DT (NBC)
