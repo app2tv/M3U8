@@ -1241,11 +1241,11 @@ https://v-ny.mybtv.net/live/545.m3u8
 
 
 #EXTINF:-1 tvg-chno="4" tvg-id="WNBCDT.us" tvg-name="WNBC-DT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/500px-WNBC_4_NY.svg.png" group-title="US",WNBC-DT (NBC)
-https://v-ny.mybtv.net/live/548.m3u8
+http://192.168.1.181:5004/auto/v4.1?transcode=mobile
 #EXTINF:-1 tvg-chno="5" tvg-id="WNYWDT.us" tvg-name="WNYW-DT" tvg-logo="https://arkina1234.github.io/tv-logos/local/fox5.png" group-title="US",WNYW-DT (FOX)
-https://v-ny.mybtv.net/live/550.m3u8
+http://192.168.1.181:5004/auto/v5.1?transcode=mobile
 #EXTINF:-1 tvg-chno="7" tvg-id="WABCDT.us" tvg-name="WABC-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/500px-WABC_TV_New_2021.svg.png" group-title="US",WABC-TV (ABC)
-https://v-ny.mybtv.net/live/554.m3u8
+http://192.168.1.181:5004/auto/v7.1?transcode=mobile
 #EXTINF:-1 tvg-chno="9" tvg-id="WWORDT.us" tvg-name="WWOR-TV" tvg-logo="https://arkina1234.github.io/tv-logos/local/my9.png" group-title="US",WWOR-TV (my9)
 https://v-ny.mybtv.net/live/559.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="WPIXDT.us" tvg-name="WPIX-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11779_dark_360w_270h.png" group-title="US",WPIX-TV (PIX11)
