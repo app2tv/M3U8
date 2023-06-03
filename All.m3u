@@ -1,7 +1,7 @@
 ﻿#EXTM3U ﻿url-logos="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/" x-tvg-url="https://iptv-org.github.io/epg/guides/us.xml,http://epg.51zmt.top:8000/e.xml.gz, https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/ustvgo.for-light-bg.xml, https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml,https://raw.githubusercontent.com/frankwuzp/iptv-cn/main/guide.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/hk-zh/nowplayer.now.com.epg.xml.gz &next days=7"
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1
-https://cntv.sbs/live05?id=cctv1
+http://221.213.43.82:8888/newlive/live/hls/2/live.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2
 https://cntv.sbs/live05?id=cctv2
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3
