@@ -726,7 +726,7 @@ http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&c
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江
 http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdzj&auth=rinimabi
 #EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="广东",广东新闻
-http://live.cooltv.top/tv/gd.php?id=gdxw
+http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdxw&auth=rinimabi
 #EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" group-title="广东",广东民生
 https://live.v1.mk/api/itouch.php?id=1185
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
