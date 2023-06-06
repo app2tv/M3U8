@@ -13,7 +13,7 @@ http://39.134.61.219/PLTV/88888888/224/3221226944/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+
 http://39.134.61.219/PLTV/88888888/224/3221226912/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6
-http://221.213.43.82:8888/newlive/live/hls/8/live.m3u8
+http://39.134.61.219/PLTV/88888888/224/3221226891/index.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7
 http://221.213.43.82:8888/newlive/live/hls/9/live.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV-8
