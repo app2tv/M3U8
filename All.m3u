@@ -1321,6 +1321,8 @@ http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/chunks.m3u8
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="US",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 group-title="US", The old house 
+https://i.mjh.nz/PlutoTV/5d51e791b7dba3b2ae990ab2-alt.m3u8
 
 #EXTINF:-1 group-title="US" tvg-logo="https://i.imgur.com/9xsosXt.png",New York: CBS News
 http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
