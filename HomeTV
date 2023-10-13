@@ -1,177 +1,177 @@
 #EXTM3U
 #EXTINF:-1 channel-id="2.1" channel-number="2.1" tvg-name="WCBS-HD",2.1 WCBS-HD
-http://192.168.68.79:5004/auto/v2.1
+http://192.168.68.79:5004/auto/v2.1?transcode=internet480
 #EXTINF:-1 channel-id="2.2" channel-number="2.2" tvg-name="STARTTV",2.2 STARTTV
-http://192.168.68.79:5004/auto/v2.2
+http://192.168.68.79:5004/auto/v2.2?transcode=internet480
 #EXTINF:-1 channel-id="2.3" channel-number="2.3" tvg-name="DABL",2.3 DABL
-http://192.168.68.79:5004/auto/v2.3
+http://192.168.68.79:5004/auto/v2.3?transcode=internet480
 #EXTINF:-1 channel-id="2.4" channel-number="2.4" tvg-name="FAVE-TV",2.4 FAVE-TV
-http://192.168.68.79:5004/auto/v2.4
+http://192.168.68.79:5004/auto/v2.4?transcode=internet480
 #EXTINF:-1 channel-id="2.5" channel-number="2.5" tvg-name="CIRCLE",2.5 CIRCLE
-http://192.168.68.79:5004/auto/v2.5
+http://192.168.68.79:5004/auto/v2.5?transcode=internet480
 #EXTINF:-1 channel-id="4.1" channel-number="4.1" tvg-name="WNBC",4.1 WNBC
-http://192.168.68.79:5004/auto/v4.1
+http://192.168.68.79:5004/auto/v4.1?transcode=internet480
 #EXTINF:-1 channel-id="4.2" channel-number="4.2" tvg-name="COZI-TV",4.2 COZI-TV
-http://192.168.68.79:5004/auto/v4.2
+http://192.168.68.79:5004/auto/v4.2?transcode=internet480
 #EXTINF:-1 channel-id="4.3" channel-number="4.3" tvg-name="NBCLX",4.3 NBCLX
-http://192.168.68.79:5004/auto/v4.3
+http://192.168.68.79:5004/auto/v4.3?transcode=internet480
 #EXTINF:-1 channel-id="5.1" channel-number="5.1" tvg-name="WNYW",5.1 WNYW
-http://192.168.68.79:5004/auto/v5.1
+http://192.168.68.79:5004/auto/v5.1?transcode=internet480
 #EXTINF:-1 channel-id="5.2" channel-number="5.2" tvg-name="Movies!",5.2 Movies!
-http://192.168.68.79:5004/auto/v5.2
+http://192.168.68.79:5004/auto/v5.2?transcode=internet480
 #EXTINF:-1 channel-id="5.3" channel-number="5.3" tvg-name="Weather",5.3 Weather
-http://192.168.68.79:5004/auto/v5.3
+http://192.168.68.79:5004/auto/v5.3?transcode=internet480
 #EXTINF:-1 channel-id="5.4" channel-number="5.4" tvg-name="theGrio",5.4 theGrio
-http://192.168.68.79:5004/auto/v5.4
+http://192.168.68.79:5004/auto/v5.4?transcode=internet480
 #EXTINF:-1 channel-id="5.5" channel-number="5.5" tvg-name="Catchy",5.5 Catchy
-http://192.168.68.79:5004/auto/v5.5
+http://192.168.68.79:5004/auto/v5.5?transcode=internet480
 #EXTINF:-1 channel-id="7.1" channel-number="7.1" tvg-name="WABC-HD" group-title="Favorites",7.1 WABC-HD
-http://192.168.68.79:5004/auto/v7.1
+http://192.168.68.79:5004/auto/v7.1?transcode=internet480
 #EXTINF:-1 channel-id="7.2" channel-number="7.2" tvg-name="LOCLish",7.2 LOCLish
-http://192.168.68.79:5004/auto/v7.2
+http://192.168.68.79:5004/auto/v7.2?transcode=internet480
 #EXTINF:-1 channel-id="7.3" channel-number="7.3" tvg-name="ThisTV",7.3 ThisTV
-http://192.168.68.79:5004/auto/v7.3
+http://192.168.68.79:5004/auto/v7.3?transcode=internet480
 #EXTINF:-1 channel-id="7.4" channel-number="7.4" tvg-name="HSN",7.4 HSN
-http://192.168.68.79:5004/auto/v7.4
+http://192.168.68.79:5004/auto/v7.4?transcode=internet480
 #EXTINF:-1 channel-id="9.1" channel-number="9.1" tvg-name="WWOR-TV",9.1 WWOR-TV
-http://192.168.68.79:5004/auto/v9.1
+http://192.168.68.79:5004/auto/v9.1?transcode=internet480
 #EXTINF:-1 channel-id="9.3" channel-number="9.3" tvg-name="Buzzr",9.3 Buzzr
-http://192.168.68.79:5004/auto/v9.3
+http://192.168.68.79:5004/auto/v9.3?transcode=internet480
 #EXTINF:-1 channel-id="9.4" channel-number="9.4" tvg-name="Heroes",9.4 Heroes
-http://192.168.68.79:5004/auto/v9.4
+http://192.168.68.79:5004/auto/v9.4?transcode=internet480
 #EXTINF:-1 channel-id="11.1" channel-number="11.1" tvg-name="PIX11",11.1 PIX11
-http://192.168.68.79:5004/auto/v11.1
+http://192.168.68.79:5004/auto/v11.1?transcode=internet480
 #EXTINF:-1 channel-id="11.2" channel-number="11.2" tvg-name="Antenna",11.2 Antenna
-http://192.168.68.79:5004/auto/v11.2
+http://192.168.68.79:5004/auto/v11.2?transcode=internet480
 #EXTINF:-1 channel-id="11.3" channel-number="11.3" tvg-name="GritTv",11.3 GritTv
-http://192.168.68.79:5004/auto/v11.3
+http://192.168.68.79:5004/auto/v11.3?transcode=internet480
 #EXTINF:-1 channel-id="11.4" channel-number="11.4" tvg-name="RewTv",11.4 RewTv
-http://192.168.68.79:5004/auto/v11.4
+http://192.168.68.79:5004/auto/v11.4?transcode=internet480
 #EXTINF:-1 channel-id="11.5" channel-number="11.5" tvg-name="QVC",11.5 QVC
-http://192.168.68.79:5004/auto/v11.5
+http://192.168.68.79:5004/auto/v11.5?transcode=internet480
 #EXTINF:-1 channel-id="13.1" channel-number="13.1" tvg-name="WNET-HD",13.1 WNET-HD
-http://192.168.68.79:5004/auto/v13.1
+http://192.168.68.79:5004/auto/v13.1?transcode=internet480
 #EXTINF:-1 channel-id="13.2" channel-number="13.2" tvg-name="KIDS",13.2 KIDS
-http://192.168.68.79:5004/auto/v13.2
+http://192.168.68.79:5004/auto/v13.2?transcode=internet480
 #EXTINF:-1 channel-id="14.1" channel-number="14.1" tvg-name="WNDT-CD",14.1 WNDT-CD
-http://192.168.68.79:5004/auto/v14.1
+http://192.168.68.79:5004/auto/v14.1?transcode=internet480
 #EXTINF:-1 channel-id="18.1" channel-number="18.1" tvg-name="WHTV-LD",18.1 WHTV-LD
-http://192.168.68.79:5004/auto/v18.1
+http://192.168.68.79:5004/auto/v18.1?transcode=internet480
 #EXTINF:-1 channel-id="18.2" channel-number="18.2" tvg-name="Daystar",18.2 Daystar
-http://192.168.68.79:5004/auto/v18.2
+http://192.168.68.79:5004/auto/v18.2?transcode=internet480
 #EXTINF:-1 channel-id="18.3" channel-number="18.3" tvg-name="WHTV-3",18.3 WHTV-3
-http://192.168.68.79:5004/auto/v18.3
+http://192.168.68.79:5004/auto/v18.3?transcode=internet480
 #EXTINF:-1 channel-id="20.1" channel-number="20.1" tvg-name="Unknown",20.1 Unknown
-http://192.168.68.79:5004/auto/v20.1
+http://192.168.68.79:5004/auto/v20.1?transcode=internet480
 #EXTINF:-1 channel-id="20.2" channel-number="20.2" tvg-name="Unknown",20.2 Unknown
-http://192.168.68.79:5004/auto/v20.2
+http://192.168.68.79:5004/auto/v20.2?transcode=internet480
 #EXTINF:-1 channel-id="20.3" channel-number="20.3" tvg-name="Unknown",20.3 Unknown
-http://192.168.68.79:5004/auto/v20.3
+http://192.168.68.79:5004/auto/v20.3?transcode=internet480
 #EXTINF:-1 channel-id="21.1" channel-number="21.1" tvg-name="WLIW HD",21.1 WLIW HD
-http://192.168.68.79:5004/auto/v21.1
+http://192.168.68.79:5004/auto/v21.1?transcode=internet480
 #EXTINF:-1 channel-id="21.2" channel-number="21.2" tvg-name="Create",21.2 Create
-http://192.168.68.79:5004/auto/v21.2
+http://192.168.68.79:5004/auto/v21.2?transcode=internet480
 #EXTINF:-1 channel-id="21.3" channel-number="21.3" tvg-name="World",21.3 World
-http://192.168.68.79:5004/auto/v21.3
+http://192.168.68.79:5004/auto/v21.3?transcode=internet480
 #EXTINF:-1 channel-id="21.4" channel-number="21.4" tvg-name="AllArts",21.4 AllArts
-http://192.168.68.79:5004/auto/v21.4
+http://192.168.68.79:5004/auto/v21.4?transcode=internet480
 #EXTINF:-1 channel-id="25.1" channel-number="25.1" tvg-name="NYLIFE",25.1 NYLIFE
-http://192.168.68.79:5004/auto/v25.1
+http://192.168.68.79:5004/auto/v25.1?transcode=internet480
 #EXTINF:-1 channel-id="25.2" channel-number="25.2" tvg-name="NYGOV",25.2 NYGOV
-http://192.168.68.79:5004/auto/v25.2
+http://192.168.68.79:5004/auto/v25.2?transcode=internet480
 #EXTINF:-1 channel-id="25.3" channel-number="25.3" tvg-name="CUNY",25.3 CUNY
-http://192.168.68.79:5004/auto/v25.3
+http://192.168.68.79:5004/auto/v25.3?transcode=internet480
 #EXTINF:-1 channel-id="31.1" channel-number="31.1" tvg-name="ION" group-title="Favorites",31.1 ION
-http://192.168.68.79:5004/auto/v31.1
+http://192.168.68.79:5004/auto/v31.1?transcode=internet480
 #EXTINF:-1 channel-id="31.2" channel-number="31.2" tvg-name="Bounce",31.2 Bounce
-http://192.168.68.79:5004/auto/v31.2
+http://192.168.68.79:5004/auto/v31.2?transcode=internet480
 #EXTINF:-1 channel-id="31.3" channel-number="31.3" tvg-name="CourtTV",31.3 CourtTV
-http://192.168.68.79:5004/auto/v31.3
+http://192.168.68.79:5004/auto/v31.3?transcode=internet480
 #EXTINF:-1 channel-id="31.4" channel-number="31.4" tvg-name="Defy TV",31.4 Defy TV
-http://192.168.68.79:5004/auto/v31.4
+http://192.168.68.79:5004/auto/v31.4?transcode=internet480
 #EXTINF:-1 channel-id="31.5" channel-number="31.5" tvg-name="Laff",31.5 Laff
-http://192.168.68.79:5004/auto/v31.5
+http://192.168.68.79:5004/auto/v31.5?transcode=internet480
 #EXTINF:-1 channel-id="31.6" channel-number="31.6" tvg-name="SCRIPPS",31.6 SCRIPPS
-http://192.168.68.79:5004/auto/v31.6
+http://192.168.68.79:5004/auto/v31.6?transcode=internet480
 #EXTINF:-1 channel-id="31.7" channel-number="31.7" tvg-name="Jewelry",31.7 Jewelry
-http://192.168.68.79:5004/auto/v31.7
+http://192.168.68.79:5004/auto/v31.7?transcode=internet480
 #EXTINF:-1 channel-id="31.8" channel-number="31.8" tvg-name="QVC",31.8 QVC
-http://192.168.68.79:5004/auto/v31.8
+http://192.168.68.79:5004/auto/v31.8?transcode=internet480
 #EXTINF:-1 channel-id="41.1" channel-number="41.1" tvg-name="WXTV-DT",41.1 WXTV-DT
-http://192.168.68.79:5004/auto/v41.1
+http://192.168.68.79:5004/auto/v41.1?transcode=internet480
 #EXTINF:-1 channel-id="41.2" channel-number="41.2" tvg-name="Bounce",41.2 Bounce
-http://192.168.68.79:5004/auto/v41.2
+http://192.168.68.79:5004/auto/v41.2?transcode=internet480
 #EXTINF:-1 channel-id="41.3" channel-number="41.3" tvg-name="Twist",41.3 Twist
-http://192.168.68.79:5004/auto/v41.3
+http://192.168.68.79:5004/auto/v41.3?transcode=internet480
 #EXTINF:-1 channel-id="43.1" channel-number="43.1" tvg-name="STORY",43.1 STORY
-http://192.168.68.79:5004/auto/v43.1
+http://192.168.68.79:5004/auto/v43.1?transcode=internet480
 #EXTINF:-1 channel-id="43.2" channel-number="43.2" tvg-name="MeTV+",43.2 MeTV+
-http://192.168.68.79:5004/auto/v43.2
+http://192.168.68.79:5004/auto/v43.2?transcode=internet480
 #EXTINF:-1 channel-id="43.3" channel-number="43.3" tvg-name="MeTV",43.3 MeTV
-http://192.168.68.79:5004/auto/v43.3
+http://192.168.68.79:5004/auto/v43.3?transcode=internet480
 #EXTINF:-1 channel-id="43.8" channel-number="43.8" tvg-name="RETRO",43.8 RETRO
-http://192.168.68.79:5004/auto/v43.8
+http://192.168.68.79:5004/auto/v43.8?transcode=internet480
 #EXTINF:-1 channel-id="43.9" channel-number="43.9" tvg-name="HEART",43.9 HEART
-http://192.168.68.79:5004/auto/v43.9
+http://192.168.68.79:5004/auto/v43.9?transcode=internet480
 #EXTINF:-1 channel-id="43.12" channel-number="43.12" tvg-name="EMLW",43.12 EMLW
-http://192.168.68.79:5004/auto/v43.12
+http://192.168.68.79:5004/auto/v43.12?transcode=internet480
 #EXTINF:-1 channel-id="46.1" channel-number="46.1" tvg-name="WMBQ-CD",46.1 WMBQ-CD
-http://192.168.68.79:5004/auto/v46.1
+http://192.168.68.79:5004/auto/v46.1?transcode=internet480
 #EXTINF:-1 channel-id="47.1" channel-number="47.1" tvg-name="WNJU-HD",47.1 WNJU-HD
-http://192.168.68.79:5004/auto/v47.1
+http://192.168.68.79:5004/auto/v47.1?transcode=internet480
 #EXTINF:-1 channel-id="47.2" channel-number="47.2" tvg-name="TeleX",47.2 TeleX
-http://192.168.68.79:5004/auto/v47.2
+http://192.168.68.79:5004/auto/v47.2?transcode=internet480
 #EXTINF:-1 channel-id="48.1" channel-number="48.1" tvg-name="WRNN-HD",48.1 WRNN-HD
-http://192.168.68.79:5004/auto/v48.1
+http://192.168.68.79:5004/auto/v48.1?transcode=internet480
 #EXTINF:-1 channel-id="48.2" channel-number="48.2" tvg-name="SHOPLC",48.2 SHOPLC
-http://192.168.68.79:5004/auto/v48.2
+http://192.168.68.79:5004/auto/v48.2?transcode=internet480
 #EXTINF:-1 channel-id="48.3" channel-number="48.3" tvg-name="CHARGE",48.3 CHARGE
-http://192.168.68.79:5004/auto/v48.3
+http://192.168.68.79:5004/auto/v48.3?transcode=internet480
 #EXTINF:-1 channel-id="48.4" channel-number="48.4" tvg-name="QVC2",48.4 QVC2
-http://192.168.68.79:5004/auto/v48.4
+http://192.168.68.79:5004/auto/v48.4?transcode=internet480
 #EXTINF:-1 channel-id="49.1" channel-number="49.1" tvg-name="WEDW-1",49.1 WEDW-1
-http://192.168.68.79:5004/auto/v49.1
+http://192.168.68.79:5004/auto/v49.1?transcode=internet480
 #EXTINF:-1 channel-id="55.1" channel-number="55.1" tvg-name="WLNY-DT",55.1 WLNY-DT
-http://192.168.68.79:5004/auto/v55.1
+http://192.168.68.79:5004/auto/v55.1?transcode=internet480
 #EXTINF:-1 channel-id="55.2" channel-number="55.2" tvg-name="COMET",55.2 COMET
-http://192.168.68.79:5004/auto/v55.2
+http://192.168.68.79:5004/auto/v55.2?transcode=internet480
 #EXTINF:-1 channel-id="55.3" channel-number="55.3" tvg-name="Charge",55.3 Charge
-http://192.168.68.79:5004/auto/v55.3
+http://192.168.68.79:5004/auto/v55.3?transcode=internet480
 #EXTINF:-1 channel-id="55.4" channel-number="55.4" tvg-name="HSN",55.4 HSN
-http://192.168.68.79:5004/auto/v55.4
+http://192.168.68.79:5004/auto/v55.4?transcode=internet480
 #EXTINF:-1 channel-id="63.1" channel-number="63.1" tvg-name="WMBC-HD",63.1 WMBC-HD
-http://192.168.68.79:5004/auto/v63.1
+http://192.168.68.79:5004/auto/v63.1?transcode=internet480
 #EXTINF:-1 channel-id="63.2" channel-number="63.2" tvg-name="QUEST",63.2 QUEST
-http://192.168.68.79:5004/auto/v63.2
+http://192.168.68.79:5004/auto/v63.2?transcode=internet480
 #EXTINF:-1 channel-id="63.3" channel-number="63.3" tvg-name="WMBC-HD",63.3 WMBC-HD
-http://192.168.68.79:5004/auto/v63.3
+http://192.168.68.79:5004/auto/v63.3?transcode=internet480
 #EXTINF:-1 channel-id="63.4" channel-number="63.4" tvg-name="SinoVSN",63.4 SinoVSN
-http://192.168.68.79:5004/auto/v63.4
+http://192.168.68.79:5004/auto/v63.4?transcode=internet480
 #EXTINF:-1 channel-id="63.5" channel-number="63.5" tvg-name="NTDTV",63.5 NTDTV
-http://192.168.68.79:5004/auto/v63.5
+http://192.168.68.79:5004/auto/v63.5?transcode=internet480
 #EXTINF:-1 channel-id="63.6" channel-number="63.6" tvg-name="WMBC-HD",63.6 WMBC-HD
-http://192.168.68.79:5004/auto/v63.6
+http://192.168.68.79:5004/auto/v63.6?transcode=internet480
 #EXTINF:-1 channel-id="63.7" channel-number="63.7" tvg-name="ALIENTO",63.7 ALIENTO
-http://192.168.68.79:5004/auto/v63.7
+http://192.168.68.79:5004/auto/v63.7?transcode=internet480
 #EXTINF:-1 channel-id="63.8" channel-number="63.8" tvg-name="WDNJ",63.8 WDNJ
-http://192.168.68.79:5004/auto/v63.8
+http://192.168.68.79:5004/auto/v63.8?transcode=internet480
 #EXTINF:-1 channel-id="63.9" channel-number="63.9" tvg-name="KCBN",63.9 KCBN
-http://192.168.68.79:5004/auto/v63.9
+http://192.168.68.79:5004/auto/v63.9?transcode=internet480
 #EXTINF:-1 channel-id="67.1" channel-number="67.1" tvg-name="CRIME",67.1 CRIME
-http://192.168.68.79:5004/auto/v67.1
+http://192.168.68.79:5004/auto/v67.1?transcode=internet480
 #EXTINF:-1 channel-id="67.2" channel-number="67.2" tvg-name="WFUT-DT",67.2 WFUT-DT
-http://192.168.68.79:5004/auto/v67.2
+http://192.168.68.79:5004/auto/v67.2?transcode=internet480
 #EXTINF:-1 channel-id="67.3" channel-number="67.3" tvg-name="WXTV-DT",67.3 WXTV-DT
-http://192.168.68.79:5004/auto/v67.3
+http://192.168.68.79:5004/auto/v67.3?transcode=internet480
 #EXTINF:-1 channel-id="67.4" channel-number="67.4" tvg-name="GRIT",67.4 GRIT
-http://192.168.68.79:5004/auto/v67.4
+http://192.168.68.79:5004/auto/v67.4?transcode=internet480
 #EXTINF:-1 channel-id="67.5" channel-number="67.5" tvg-name="MYSTERY",67.5 MYSTERY
-http://192.168.68.79:5004/auto/v67.5
+http://192.168.68.79:5004/auto/v67.5?transcode=internet480
 #EXTINF:-1 channel-id="67.6" channel-number="67.6" tvg-name="ShopLC",67.6 ShopLC
-http://192.168.68.79:5004/auto/v67.6
+http://192.168.68.79:5004/auto/v67.6?transcode=internet480
 #EXTINF:-1 channel-id="68.1" channel-number="68.1" tvg-name="WFUT-DT",68.1 WFUT-DT
-http://192.168.68.79:5004/auto/v68.1
+http://192.168.68.79:5004/auto/v68.1?transcode=internet480
 #EXTINF:-1 channel-id="68.2" channel-number="68.2" tvg-name="CRIME",68.2 CRIME
-http://192.168.68.79:5004/auto/v68.2
+http://192.168.68.79:5004/auto/v68.2?transcode=internet480
 #EXTINF:-1 channel-id="68.3" channel-number="68.3" tvg-name="GetTV",68.3 GetTV
-http://192.168.68.79:5004/auto/v68.3
+http://192.168.68.79:5004/auto/v68.3?transcode=internet480
