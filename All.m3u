@@ -43,7 +43,7 @@ https://cntv.sbs/tv?auth=2310201855&id=cctv164k
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 4K
 https://cntv.sbs/tv?auth=2309081833&id=cctv164k
 
-https://#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 https://cntv.lat/tv?auth=202311030915&id=bjws
 #EXTIN#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://cntv.lat/tv/live.php?auth=231110&id=beijingHD
