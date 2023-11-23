@@ -43,6 +43,8 @@ https://cntv.sbs/tv?auth=2310201855&id=cctv164k
 https://cntv.sbs/tv?auth=2309081833&id=cctv164k
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 https://cntv.lat/tv/zb.php?auth=231122&id=bjws
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=bjws
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
 https://cntv.lat/tv/zb.php?auth=231122&id=dfws
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
@@ -107,8 +109,12 @@ https://cntv.lat/tv/zb.php?auth=231122&id=gsws
 https://cntv.lat/tv/zb.php?auth=231122&id=xjws
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视
 https://cntv.lat/tv/zb.php?auth=231122&id=btws
-#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="卫视",北京纪实科教
-https://cntv.lat/tv/zb.php?auth=231122&id=bjjskj
+#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视",CETV-1
+https://cntv.lat/tv/zb.php?auth=231122&id=cetv1
+#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视",CETV-4
+https://cntv.lat/tv/zb.php?auth=231122&id=cetv4
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="卫视",山东教育卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=sdjy
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="卫视",卡酷少儿
 https://cntv.lat/tv/zb.php?auth=231122&id=bjkkse
 #EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="卫视",纪实人文
