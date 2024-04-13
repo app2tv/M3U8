@@ -1237,110 +1237,6 @@ http://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="178" tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Sports",ESPN
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/espn.us.m3u8
-
-#EXTINF:-1 tvg-chno="179" tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Sports",ESPN 2
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/espn2.us.m3u8
-#EXTINF:-1 tvg-chno="180" tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="Sports",ESPN U
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/espn.u.us.m3u8
-#EXTINF:-1 tvg-chno="181" tvg-id="ESPNEWS.us" tvg-name="ESPNEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="Sports",ESPNEWS
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/espn.news.us.m3u8
-
-
-#EXTINF:-1 tvg-chno="187" tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="Sports",MLB Network
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/mlb.network.us.m3u8
-#EXTINF:-1 tvg-chno="188" tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="Sports",NBA TV
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nba.tv.usa.us.m3u8
-#EXTINF:-1 tvg-chno="189" tvg-id="NFLNETWORK.us" tvg-name="NFL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s34710_dark_360w_270h.png" group-title="Sports",NFL Network
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nfl.network.us.m3u8
-#EXTINF:-1 tvg-chno="190" tvg-id="NHLNetwork.us" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="Sports",NHL Network
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nhl.network.usa.us.m3u8
-
-
-
-#EXTINF:-1 tvg-chno="260" tvg-id="HBOEast.us" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Movies",HBO
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="261" tvg-id="HBO2East.us" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10241_dark_360w_270h.png" group-title="Movies",HBO 2
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.2.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="262" tvg-id="HBOSignatureEast.us" tvg-name="HBO Signature" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10243_dark_360w_270h.png" group-title="Movies",HBO Signature
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.signature.hbo.3.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="263" tvg-id="HBOFamilyEast.us" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="Movies",HBO Family
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.family.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="264" tvg-id="HBOComedyEast.us" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="Movies",HBO Comedy
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.comedy.east.us.m3u8
-#EXTINF:-1 tvg-chno="265" tvg-id="HBOZoneEast.us" tvg-name="HBO Zone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="Movies",HBO Zone
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.zone.east.us.m3u8
-#EXTINF:-1 tvg-chno="266" tvg-id="CinemaxEast.us" tvg-name="CINEMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10120_dark_360w_270h.png" group-title="Movies",CINEMAX
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cinemax.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="267" tvg-id="ActionMaxEast.us" tvg-name="ActionMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59948_dark_360w_270h.png" group-title="Movies",ActionMAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/actionmax.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="268" tvg-id="5StarMaxEast.us" tvg-name="5 Star MAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25620_dark_360w_270h.png" group-title="Movies",5 Star MAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/5.star.max.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="269" tvg-id="ThrillerMaxEast.us" tvg-name="ThrillerMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59954_dark_360w_270h.png" group-title="Movies",ThrillerMAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/thrillermax.east.us.m3u8
-#EXTINF:-1 tvg-chno="270" tvg-id="MoreMaxEast.us" tvg-name="MoreMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10121_dark_360w_270h.png" group-title="Movies",MoreMAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moremax.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="271" tvg-id="MovieMaxEast.us" tvg-name="MovieMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59963_dark_360w_270h.png" group-title="Movies",MovieMAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moviemax.us.m3u8
-#EXTINF:-1 tvg-chno="272" tvg-id="OuterMaxEast.us" tvg-name="OuterMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25622_dark_360w_270h.png" group-title="Movies",OuterMAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/outermax.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="273" tvg-id="StarzEast.us" tvg-name="Starz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="Movies",Starz
-https://tvnow.best/api/stream/alex_079@hotmail.com/975248/livetv.epg/starz.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="274" tvg-id="StarzEdgeEast.us" tvg-name="Starz Edge" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16311_dark_360w_270h.png" group-title="Movies",Starz Edge
-https://tvnow.best/api/stream/alex_079@hotmail.com/975248/livetv.epg/starz.edge.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="275" tvg-id="StarzCinemaEast.us" tvg-name="Starz Cinema" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19634_dark_360w_270h.png" group-title="Movies",Starz Cinema
-https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/starz.cinema.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="276" tvg-id="StarzInBlackEast.us" tvg-name="Starz in Black" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16833_dark_360w_270h.png" group-title="Movies",Starz in Black
-https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/starz.in.black.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="277" tvg-id="StarzComedyEast.us" tvg-name="Starz Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s34901_dark_360w_270h.png" group-title="Movies",Starz Comedy
-https://tvnow.best/api/stream/lt4383@gmail.com/755909/livetv.epg/starz.comedy.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="278" tvg-id="StarzKidsFamilyEast.us" tvg-name="Starz Kids & Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19635_dark_360w_270h.png" group-title="Movies",Starz Kids & Family
-https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/starz.kids.family.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="279" tvg-id="StarzEncoreEast.us" tvg-name="Starz Encore" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10178_dark_360w_270h.png" group-title="Movies",Starz Encore
-https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encore.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="280" tvg-id="StarzEncoreBlackEast.us" tvg-name="Starz Encore Black" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14870_dark_360w_270h.png" group-title="Movies",Starz Encore Black
-https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encore.black.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="281" tvg-id="StarzEncoreActionEast.us" tvg-name="Starz Encore Action" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14871_dark_360w_270h.png" group-title="Movies",Starz Encore Action
-https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encore.action.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="282" tvg-id="StarzEncoreSuspenseEast.us" tvg-name="Starz Encore Suspense" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14766_dark_360w_270h.png" group-title="Movies",Starz Encore Suspense
-https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encore.suspense.eastern.us.m3u8
-
-
-
-#EXTINF:-1 tvg-chno="288" tvg-id="ShowtimeEast.us" tvg-name="Showtime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11115_dark_360w_270h.png" group-title="Movies",Showtime
-https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="289" tvg-id="Showtime2East.us" tvg-name="Showtime 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11116_dark_360w_270h.png" group-title="Movies",Showtime 2
-https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.2.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="290" tvg-id="ShoxBetEast.us" tvg-name="SHOXBET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s20622_dark_360w_270h.png" group-title="Movies",SHOXBET
-https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/shoxbet.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="291" tvg-id="ShowtimeExtremeEast.us" tvg-name="Showtime Extreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="Movies",Showtime Extreme
-https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.extreme.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="292" tvg-id="ShowtimeShowcaseEast.us" tvg-name="Showtime Showcase" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16153_dark_360w_270h.png" group-title="Movies",Showtime Showcase
-https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.showcase.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="293" tvg-id="ShowtimeNextEast.us" tvg-name="Showtime Next" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25270_dark_360w_270h.png" group-title="Movies",Showtime Next
-https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.next.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="294" tvg-id="ShowtimeFamilyZoneEast.us" tvg-name="Showtime Family Zone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25274_dark_360w_270h.png" group-title="Movies",Showtime Family Zone
-https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.family.zone.eastern.us.m3u8
-
-
-#EXTINF:-1 tvg-chno="288" tvg-id="ShowtimeEast.us" tvg-name="Showtime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11115_dark_360w_270h.png" group-title="Movies",Showtime
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="289" tvg-id="Showtime2East.us" tvg-name="Showtime 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11116_dark_360w_270h.png" group-title="Movies",Showtime 2
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.2.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="290" tvg-id="ShoxBetEast.us" tvg-name="SHOXBET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s20622_dark_360w_270h.png" group-title="Movies",SHOXBET
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/shoxbet.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="291" tvg-id="ShowtimeExtremeEast.us" tvg-name="Showtime Extreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="Movies",Showtime Extreme
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.extreme.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="292" tvg-id="ShowtimeShowcaseEast.us" tvg-name="Showtime Showcase" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16153_dark_360w_270h.png" group-title="Movies",Showtime Showcase
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.showcase.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="293" tvg-id="ShowtimeNextEast.us" tvg-name="Showtime Next" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25270_dark_360w_270h.png" group-title="Movies",Showtime Next
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.next.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="294" tvg-id="ShowtimeFamilyZoneEast.us" tvg-name="Showtime Family Zone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25274_dark_360w_270h.png" group-title="Movies",Showtime Family Zone
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.family.zone.eastern.us.m3u8
-
-
-
 #EXTINF:-1 tvg-chno="2" tvg-id="WCBSDT.us" tvg-name="WCBS-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/500px-CBS_2.svg.png" group-title="US",WCBS-TV (CBS)
 http://mohdtv.com:8880/voby3949/54128273/29978
 
@@ -1391,8 +1287,14 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-chno="68" tvg-id="WFUTDT.us" tvg-name="UniMás" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/WFUT-DT_%282021%29.png" group-title="US",WFUT-DT (UniMás)
 https://v-ny.mybtv.net/live/713.m3u8
 
-
-
+#EXTINF:-1 tvg-id="NASATVUHD30fps.us",NASA 4K 30 fps
+https://endpnt.com/hls/nasa4k/playlist.m3u8
+#EXTINF:-1 tvg-id="NASATVMedia.us",NASA TV Media Channel TS over HTTP
+http://endpnt.com:8000/nasa-media.ts
+#EXTINF:-1 tvg-id="NASATVUHD.us",NASA TV Public Channel TS over HTTP
+http://endpnt.com:8000/nasa-pub.ts
+#EXTINF:-1 group-title="US", The old house 
+https://i.mjh.nz/PlutoTV/5d51e791b7dba3b2ae990ab2-alt.m3u8
 
 #EXTINF:-1 tvg-id="WABCTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="US",ABC News New York NY (WABC-TV) (720p)
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
@@ -1400,19 +1302,13 @@ https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x
 http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="NASATVUHD30fps.us",NASA 4K 30 fps
-https://endpnt.com/hls/nasa4k/playlist.m3u8
-#EXTINF:-1 tvg-id="NASATVMedia.us",NASA TV Media Channel TS over HTTP
-http://endpnt.com:8000/nasa-media.ts
-#EXTINF:-1 tvg-id="NASATVUHD.us",NASA TV Public Channel TS over HTTP
-http://endpnt.com:8000/nasa-pub.ts
+
 
 
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="US",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 group-title="US", The old house 
-https://i.mjh.nz/PlutoTV/5d51e791b7dba3b2ae990ab2-alt.m3u8
+
 
 #EXTINF:-1 group-title="US" tvg-logo="https://i.imgur.com/9xsosXt.png",New York: CBS News
 http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
