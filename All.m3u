@@ -35,20 +35,7 @@ https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=2ea754971715554155
 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=9658f1091715549123
 
 
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://171.8.169.7:8800/rtp/239.16.20.15:10150
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://114.254.81.86:2222/rtp/239.3.1.153:8136
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://113.133.233.138:8009/rtp/239.111.205.134:5140
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://115.205.66.182:8888/rtp/233.50.201.63:5140
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://125.125.194.126:8889/rtp/233.50.201.63:5140
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://183.153.89.133:7657/rtp/233.50.201.63:5140
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://183.188.20.206:7000/rtp/226.0.2.169:9264
+
 
 
 
@@ -72,40 +59,6 @@ http://sc2022.stream-link.org/tv2306.php?id=h13
 #EXTINF:-1 group-title="测试频道",香港开电视资讯台
 http://sc2022.stream-link.org/tv2306.php?id=h14
 
-
-#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="央视",第一剧场高清
-https://live.v1.mk/api/cqyx.php?id=diyijuchangHD
-#EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="其他",都市剧场高清
-https://live.v1.mk/api/cqyx.php?id=dsjcHD
-#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="其他",动漫秀场高清
-https://live.v1.mk/api/cqyx.php?id=dmxcHD
-#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="其他",魅力足球高清
-https://live.v1.mk/api/cqyx.php?id=mlzqHD
-#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="央视",风云剧场高清
-https://live.v1.mk/api/cqyx.php?id=fyjcHD
-#EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="其他",求索纪录高清
-https://live.v1.mk/api/cqyx.php?id=qsjlHD
-#EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="央视",兵器科技高清
-https://live.v1.mk/api/cqyx.php?id=bqkjHD
-#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云高清
-https://live.v1.mk/api/cqyx.php?id=yxfyHD
-#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="央视",怀旧剧场高清
-https://live.v1.mk/api/cqyx.php?id=hjjcHD
-#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="央视",风云音乐高清
-https://live.v1.mk/api/cqyx.php?id=fyyyHD
-#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="央视",央视台球高清
-https://live.v1.mk/api/cqyx.php?id=ystqHD
-#EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="央视",风云足球高清
-https://live.v1.mk/api/cqyx.php?id=fyzqHD
-#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="央视",央视文化精品高清
-https://live.v1.mk/api/cqyx.php?id=yswhHD
-#EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="央视",高尔夫网球高清
-https://live.v1.mk/api/cqyx.php?id=golfHD
-#EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png" group-title="其他",早期教育高清
-https://live.v1.mk/api/cqyx.php?id=zaojiaoHD
-
-#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="其他",东方财经高清
-https://live.v1.mk/api/cqyx.php?id=dfcj
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://120.32.11.45:9999/rtp/239.61.3.61:9884
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
