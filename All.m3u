@@ -46,16 +46,6 @@ http://live.cooltv.top/tv/tvb.php?id=0
 
 
 
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="HongKong",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-
-
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="HongKong",凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-
-
-#EXTINF:-1 group-title="HongKong",TVB JADE(马来西亚版翡翠台）
-http://23.237.10.66:16410
 
 
 
@@ -68,37 +58,8 @@ http://23.237.10.66:16410
 
 
 
-#EXTINF:-1 group-title="HongKong",HKC有线新闻台
-https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1 group-title="HongKong",HKC有线财经资讯台
-https://api.leonardpark.dev/live/icable/108
-#EXTINF:-1 group-title="HongKong",HKC有线直播新闻台
-https://api.leonardpark.dev/live/icable/110
 
 
-
-
-#EXTINF:-1 group-title="HongKong",Now新聞332台
-http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 group-title="HongKong",Now直播331台
-http://livetv.dnsfor.me:80/channel.3.m3u8
-#EXTINF:-1 group-title="HongKong",Now Sports Prime
-http://livetv.dnsfor.me/channel.12.m3u8
-
-
-
-#EXTINF:-1 group-title="HongKong" tvg-logo="https://iptv-pro.github.io/logo/TVB%20Xing%20He.png",TVB Xing He
-http://104.238.221.63:9138/stream/live/c20114.m3u8
-#EXTINF:-1 group-title="TW",TVBS
-http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
-
-
-#EXTINF:-1 group-title="HongKong" tvg-name="HongKong开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png",HongKong开电视
-http://livetv.dnsfor.me:80/channel.9.m3u8
-#EXTINF:-1 group-title="HongKong" tvg-name="RHK31",RHK31
-http://livetv.dnsfor.me:80/channel.1.m3u8
-#EXTINF:-1 group-title="HongKong" tvg-name="RHK32",RHK32
-http://livetv.dnsfor.me:80/channel.2.m3u8
 #EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="HongKong", 無綫新聞台
 http://111.229.84.232/yulin/tvb.php?id=1
 #EXTINF:-1 group-title="HongKong", 無綫財經資訊台
