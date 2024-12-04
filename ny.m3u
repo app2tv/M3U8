@@ -1,74 +1,28 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us.xml" m3u autoload=1 cache=500 deinterlace=1 tvg-shift=0
-
-#EXTINF:-1 tvg-chno="12" tvg-id="News12LongIsland.us" tvg-name="News12 Long Island" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Local_NY",News12 Long Island
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/news.12.long.island.us.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="WCBSDT1.us" tvg-name="WCBS-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/500px-CBS_2.svg.png" group-title="Local_NY",WCBS-TV (CBS)
-https://v-ny.mybtv.net/live/545.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="WNBCDT1.us" tvg-name="WNBC-DT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/500px-WNBC_4_NY.svg.png" group-title="Local_NY",WNBC-DT (NBC)
-https://v-ny.mybtv.net/live/548.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-id="WNYWDT1.us" tvg-name="WNYW-DT" tvg-logo="https://arkina1234.github.io/tv-logos/local/fox5.png" group-title="Local_NY",WNYW-DT (FOX)
-https://v-ny.mybtv.net/live/550.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="WABCDT1.us" tvg-name="WABC-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/500px-WABC_TV_New_2021.svg.png" group-title="Local_NY",WABC-TV (ABC)
-https://v-ny.mybtv.net/live/554.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-id="WWORDT1.us" tvg-name="WWOR-TV" tvg-logo="https://arkina1234.github.io/tv-logos/local/my9.png" group-title="Local_NY",WWOR-TV (my9)
-https://v-ny.mybtv.net/live/559.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="WPIXDT1.us" tvg-name="WPIX-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11779_dark_360w_270h.png" group-title="Local_NY",WPIX-TV (PIX11)
-https://v-ny.mybtv.net/live/562.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-id="WNETDT1.us" tvg-name="PBS Thirteen" tvg-logo="https://dv2oc5tyj18yr.cloudfront.net/wp-content/plugins/wnet-schedule/libs/images/Schedule-WNET-logo-2X.png" group-title="Local_NY",WNET-DT (PBS)
-https://v-ny.mybtv.net/live/567.m3u8
-#EXTINF:-1 tvg-chno="70" tvg-id="WNETDT2.us" tvg-name="PBS Kids" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101364_dark_360w_270h.png" group-title="",PBS Kids
-https://v-ny.mybtv.net/live/568.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="WNDTCD1.us" tvg-name="WNDT-CD" tvg-logo="https://fnx.org/watch/wp-content/themes/fnx/img/logo.png" group-title="Local_NY",FNX
-https://v-ny.mybtv.net/live/569.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-id="WLIWDT1.us" tvg-name="PBS" tvg-logo="https://dv2oc5tyj18yr.cloudfront.net/wp-content/plugins/wnet-schedule/libs/images/Schedule-WLIW-logo-2X.png" group-title="Local_NY",WLIW-DT (PBS)
-https://v-ny.mybtv.net/live/575.m3u8
-#EXTINF:-1 tvg-chno="71" tvg-id="WLIWDT2.us" tvg-name="PBS Create" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s48990_dark_360w_270h.png" group-title="",Create
-https://v-ny.mybtv.net/live/576.m3u8
-#EXTINF:-1 tvg-chno="72" tvg-id="WLIWDT3.us" tvg-name="PBS World" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56725_dark_360w_270h.png" group-title="",World
-https://v-ny.mybtv.net/live/577.m3u8
-#EXTINF:-1 tvg-chno="73" tvg-id="WLIWDT4.us" tvg-name="All Arts" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s55296_dark_360w_270h.png" group-title="",All Arts
-https://v-ny.mybtv.net/live/578.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-id="WNYEDT1.us" tvg-name="NYC Life" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26196_dark_360w_270h.png" group-title="Local_NY",WNYE-TV (NYC Life)
-https://v-ny.mybtv.net/live/591.m3u8
-#EXTINF:-1 tvg-chno="74" tvg-id="WNYEDT2.us" tvg-name="NYC Gov" tvg-logo="" group-title="",NYC Gov
-https://v-ny.mybtv.net/live/592.m3u8
-#EXTINF:-1 tvg-chno="75" tvg-id="WNYEDT3.us" tvg-name="CUNY TV" tvg-logo="" group-title="",CUNY TV
-https://v-ny.mybtv.net/live/593.m3u8
-#EXTINF:-1 tvg-chno="41" tvg-id="WXTVDT1.us" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="Local_NY",WXTV-DT (Univision)
-https://v-ny.mybtv.net/live/643.m3u8
-#EXTINF:-1 tvg-chno="42" tvg-id="WKOBLD1.us" tvg-name="Azteca America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s33652_dark_360w_270h.png" group-title="Local_NY",WKOB-LD (Azteca America)
-https://v-ny.mybtv.net/live/645.m3u8
-#EXTINF:-1 tvg-chno="46" tvg-id="WMBQCD1.us" tvg-name="WMBQ-CD" tvg-logo="https://fnx.org/watch/wp-content/themes/fnx/img/logo.png" group-title="Local_NY",FNX
-https://v-ny.mybtv.net/live/658.m3u8
-#EXTINF:-1 tvg-chno="47" tvg-id="WNJUDT1.us" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="Local_NY",WNJU-DT (Telemundo)
-https://v-ny.mybtv.net/live/659.m3u8
-#EXTINF:-1 tvg-chno="50" tvg-id="WNJNDT1.us" tvg-name="WNJN" tvg-logo="https://image.pbs.org/stations/wnjt-color-cobranded-logo-3RDiOdA.png" group-title="Local_NY",NJ PBS
-https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
-#EXTINF:-1 tvg-chno="76" tvg-id="NHKWorldJapan.jp" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59155_dark_360w_270h.png" group-title="",NHK World
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-chno="58" tvg-id="WNJBDT1.us" tvg-name="WNJN" tvg-logo="https://image.pbs.org/stations/wnjt-color-cobranded-logo-3RDiOdA.png" group-title="Local_NY",NJ PBS
-https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
-#EXTINF:-1 tvg-chno="68" tvg-id="WFUTDT1.us" tvg-name="UniMás" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/WFUT-DT_%282021%29.png" group-title="Local_NY",WFUT-DT (UniMás)
-https://v-ny.mybtv.net/live/713.m3u8
-#EXTINF:-1 tvg-id="TBSEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/320px-TBS_Network-logo.svg.png" group-title="General",TBS East [Geo-blocked] 
-https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8 
-#EXTINF:-1 tvg-id="TBSWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/320px-TBS_Network-logo.svg.png" group-title="General",TBS West [Geo-blocked] 
-https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8 
-#EXTINF:-1 tvg-id="TNTEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="General",TNT East [Geo-blocked] 
-https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8 
-#EXTINF:-1 tvg-id="TNTWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="General",TNT West (720p) [Geo-blocked] 
-https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CNN.us" status="online",CNN USA
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-chno="161" tvg-id="KCBSDT1.us" tvg-name="KCBS-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/500px-CBS_2.svg.png" group-title="Local_LA",KCBS-TV (CBS)
-
-https://v-la.mybtv.net/live/161.m3u8
-
-#EXTINF:-1 tvg-chno="162" tvg-id="KPIX.us" tvg-name="KPIX-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/500px-CBS_2.svg.png" group-title="Local_CA",KPIX-TV (CBS)
-
-https://v-ca.mybtv.net/live/162.m3u8
-
-#EXTINF:-1 tvg-id="WeatherNation.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" group-title=" ☁ | Weather",Weathernation
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
-#EXTINF:-1 tvg-id="AccuWeather.us" tvg-logo="https://i.imgur.com/6ZJlCUG.png" group-title=" ☁ | Weather",AccuWeather Now
-https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="CBSNewsNewYork.us" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-title="News",CBS News New York
+http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title="Weather",Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Eastern/Central
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/320px-TBS_Network-logo.svg.png" group-title="General",TBS East [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TBSWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/320px-TBS_Network-logo.svg.png" group-title="General",TBS West [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="General",TNT East [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TNTWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="General",TNT West (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="US",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelEast.us",Disney Channel (720p)
+https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXDEast.us",Disney XD (720p)
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonEast.us",Nickelodeon East
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="ScientologyNetwork.us",Scientology Network (1080p)
+https://stream6.scientology.org/master.m3u8
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",LiveNOW from FOX
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
