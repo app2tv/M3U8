@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://bit.ly/EPG117"
 #EXTINF:-1 channel-id="2.1" channel-number="2.1" tvg-name="WCBS-HD",2.1 WCBS-HD
 http://192.168.68.79:5004/auto/v2.1?transcode=internet480
 #EXTINF:-1 channel-id="2.2" channel-number="2.2" tvg-name="STARTTV",2.2 STARTTV
